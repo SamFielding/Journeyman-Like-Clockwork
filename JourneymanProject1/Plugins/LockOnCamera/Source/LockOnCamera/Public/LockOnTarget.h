@@ -13,17 +13,13 @@ class LOCKONCAMERA_API ULockOnTarget : public USceneComponent
 public:	
 	ULockOnTarget();
 
-	UPROPERTY()
-	UWidgetComponent* LockOnWidget = nullptr;
-
 	UFUNCTION()
 	FVector GetTargetLocation() const;
 
 	UFUNCTION()
-	void LockedOn();
+	FVector GetOwnerLocation() const;
 
-	UFUNCTION()
-	void LockedOff();
+	static FVector Offset;
 
 protected:
 	virtual void BeginPlay() override;

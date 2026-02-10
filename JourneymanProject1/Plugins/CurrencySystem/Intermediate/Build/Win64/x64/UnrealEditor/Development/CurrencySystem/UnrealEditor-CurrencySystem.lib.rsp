@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CurrencySystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\E4050212\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\E4050212\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Module.CurrencySystem.cpp.obj"
+"C:\Users\E4050212\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Default.rc2.res"
+/OUT:"C:\Users\E4050212\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\UnrealEditor-CurrencySystem.lib"

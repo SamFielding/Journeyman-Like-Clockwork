@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/E4050212/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/BP_LOCKONTEST.uasset",
+				"C:/Users/E4050212/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/E4050212/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/ThirdPerson/Input/Actions/IA_LockOn.uasset",
+				"C:/Users/E4050212/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/E4050212/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/KNOWLESE4086040/C_Attack.uasset",
+				"C:/Users/E4050212/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/__ExternalActors__/ThirdPerson/Maps/JourneymanLevel/A/2E/B2JKT6X0MLZBRA6TFEVUFE.uasset",
+				"C:/Users/E4050212/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/__ExternalActors__/ThirdPerson/Maps/JourneymanLevel/D/WT/TJEYZI5EOI86Z4ELEVA55G.uasset",
+				"C:/Users/E4050212/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/__ExternalActors__/ThirdPerson/Maps/JourneymanLevel/0/2U/MT5GRBG8ZZRZ0R87NCLIT8.uasset",
+				"C:/Users/E4050212/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/__ExternalActors__/ThirdPerson/Maps/JourneymanLevel/8/JH/U2QTLBOP9ULGI79M5EPJT1.uasset"
+			]
+		}
+	]
+}

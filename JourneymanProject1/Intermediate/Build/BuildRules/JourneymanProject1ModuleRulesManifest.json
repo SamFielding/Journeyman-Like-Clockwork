@@ -1,0 +1,12 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\E4050212\\Documents\\GitHub\\Journeyman-Like-Clockwork\\JourneymanProject1\\Source\\JourneymanProject1\\JourneymanProject1.Build.cs",
+		"C:\\Users\\E4050212\\Documents\\GitHub\\Journeyman-Like-Clockwork\\JourneymanProject1\\Plugins\\CurrencySystem\\Source\\CurrencySystem\\CurrencySystem.Build.cs",
+		"C:\\Users\\E4050212\\Documents\\GitHub\\Journeyman-Like-Clockwork\\JourneymanProject1\\Plugins\\Health\\Source\\Health\\Health.Build.cs",
+		"C:\\Users\\E4050212\\Documents\\GitHub\\Journeyman-Like-Clockwork\\JourneymanProject1\\Plugins\\LockOnCamera\\Source\\LockOnCamera\\LockOnCamera.Build.cs",
+		"C:\\Users\\E4050212\\Documents\\GitHub\\Journeyman-Like-Clockwork\\JourneymanProject1\\Plugins\\PlayerTimeComponent\\Source\\PlayerTimeComponent\\PlayerTimeComponent.Build.cs",
+		"C:\\Users\\E4050212\\Documents\\GitHub\\Journeyman-Like-Clockwork\\JourneymanProject1\\Source\\JourneymanProject1.Target.cs",
+		"C:\\Users\\E4050212\\Documents\\GitHub\\Journeyman-Like-Clockwork\\JourneymanProject1\\Source\\JourneymanProject1Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

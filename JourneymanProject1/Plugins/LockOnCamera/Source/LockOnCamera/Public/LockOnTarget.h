@@ -1,5 +1,6 @@
 #pragma once
 
+#include "Components/WidgetComponent.h"
 #include "CoreMinimal.h"
 #include "Components/SceneComponent.h"
 #include "LockOnTarget.generated.h"
@@ -12,8 +13,17 @@ class LOCKONCAMERA_API ULockOnTarget : public USceneComponent
 public:	
 	ULockOnTarget();
 
+	UPROPERTY()
+	UWidgetComponent* LockOnWidget = nullptr;
+
 	UFUNCTION()
 	FVector GetTargetLocation() const;
+
+	UFUNCTION()
+	void LockedOn();
+
+	UFUNCTION()
+	void LockedOff();
 
 protected:
 	virtual void BeginPlay() override;

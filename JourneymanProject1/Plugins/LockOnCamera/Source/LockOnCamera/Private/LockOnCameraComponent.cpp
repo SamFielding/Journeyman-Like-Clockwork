@@ -38,6 +38,7 @@ void ULockOnCameraComponent::LockOnClosest()
 		});
 
 	CurrentTarget = NearbyTargets[0];
+	CurrentTarget->LockedOn();
 }
 
 void ULockOnCameraComponent::LockOn(ULockOnTarget* Target)
@@ -46,6 +47,7 @@ void ULockOnCameraComponent::LockOn(ULockOnTarget* Target)
 		return;
 
 	CurrentTarget = Target;
+	CurrentTarget->LockedOn();
 }
 
 void ULockOnCameraComponent::SwitchTarget(const FVector2D& Input)
@@ -104,12 +106,18 @@ void ULockOnCameraComponent::SwitchTarget(const FVector2D& Input)
 
 	if (BestTarget)
 	{
+		LockOff();
 		CurrentTarget = BestTarget;
+		CurrentTarget->LockedOn();
 	}
 }
 
 void ULockOnCameraComponent::LockOff()
 {
+	if (!CurrentTarget)
+		return;
+
+	CurrentTarget->LockedOff();
 	CurrentTarget = nullptr;
 }
 

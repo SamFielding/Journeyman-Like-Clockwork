@@ -1,6 +1,7 @@
 #include "LockOnCameraComponent.h"
 #include "LockOnTarget.h"
 #include "Engine/OverlapResult.h"
+#include "Blueprint/UserWidget.h"
 
 ULockOnCameraComponent::ULockOnCameraComponent()
 {
@@ -34,7 +35,7 @@ void ULockOnCameraComponent::LockOnClosest()
 	const FVector OwnerLocation = GetOwner()->GetActorLocation();
 	NearbyTargets.Sort([OwnerLocation](const ULockOnTarget& A, const ULockOnTarget& B)
 		{
-			return FVector::DistSquared(OwnerLocation, A.GetTargetLocation()) < FVector::DistSquared(OwnerLocation, B.GetTargetLocation());
+			return FVector::DistSquared(OwnerLocation, A.GetTargetLocation() + ULockOnTarget::Offset) < FVector::DistSquared(OwnerLocation, B.GetTargetLocation() + ULockOnTarget::Offset);
 		});
 
 	CurrentTarget = NearbyTargets[0];
@@ -50,14 +51,10 @@ void ULockOnCameraComponent::LockOn(ULockOnTarget* Target)
 
 void ULockOnCameraComponent::SwitchTarget(const FVector2D& Input)
 {
-	if (!CurrentTarget)
+	if (!CurrentTarget || !PlayerCamera || !PlayerController)
 		return;
 
 	if (Input.Size() < SwitchTargetDeadzone)
-		return;
-
-	APlayerController* PlayerController = Cast<APlayerController>(GetOwner()->GetInstigatorController());
-	if (!PlayerController)
 		return;
 
 	FindNearbyTargets();
@@ -67,7 +64,7 @@ void ULockOnCameraComponent::SwitchTarget(const FVector2D& Input)
 	FVector2D InputDir = Input.GetSafeNormal();
 
 	FVector2D CurrentScreenPos;
-	if (!PlayerController->ProjectWorldLocationToScreen(CurrentTarget->GetTargetLocation(), CurrentScreenPos))
+	if (!PlayerController->ProjectWorldLocationToScreen(CurrentTarget->GetTargetLocation() + ULockOnTarget::Offset, CurrentScreenPos))
 		return;
 
 	ULockOnTarget* BestTarget = nullptr;
@@ -79,7 +76,7 @@ void ULockOnCameraComponent::SwitchTarget(const FVector2D& Input)
 			continue;
 
 		FVector2D ScreenPos;
-		if (!PlayerController->ProjectWorldLocationToScreen(Target->GetTargetLocation(), ScreenPos))
+		if (!PlayerController->ProjectWorldLocationToScreen(Target->GetTargetLocation() + ULockOnTarget::Offset, ScreenPos))
 			continue;
 
 		FVector2D ToTarget = ScreenPos - CurrentScreenPos;
@@ -104,6 +101,7 @@ void ULockOnCameraComponent::SwitchTarget(const FVector2D& Input)
 
 	if (BestTarget)
 	{
+		LockOff();
 		CurrentTarget = BestTarget;
 	}
 }
@@ -115,28 +113,47 @@ void ULockOnCameraComponent::LockOff()
 
 void ULockOnCameraComponent::UpdateCamera(float DeltaTime)
 {
-	if (!CurrentTarget || !PlayerCamera)
+	if (!CurrentTarget || !PlayerCamera || !PlayerController)
 		return;
 
-	const float DistanceToTarget = FVector::DistSquared(GetOwner()->GetActorLocation(), CurrentTarget->GetTargetLocation());
+	const float DistanceToTarget = FVector::DistSquared(GetOwner()->GetActorLocation(), CurrentTarget->GetOwnerLocation());
 	if (DistanceToTarget > FMath::Square(LockOnRange))
 	{
 		LockOff();
 		return;
 	}
 
-	APlayerController* PlayerController = Cast<APlayerController>(GetOwner()->GetInstigatorController());
-	if (!PlayerController)
-		return;
-
 	FRotator NewRotation = FMath::RInterpTo(
 		PlayerController->GetControlRotation(),
-		(CurrentTarget->GetTargetLocation() - PlayerCamera->GetComponentLocation()).Rotation(),
+		(CurrentTarget->GetTargetLocation() + ULockOnTarget::Offset - PlayerCamera->GetComponentLocation()).Rotation(),
 		DeltaTime,
 		CameraInterpolationSpeed
 	);
 
 	PlayerController->SetControlRotation(NewRotation);
+}
+
+void ULockOnCameraComponent::UpdateWidget()
+{
+	if (!CurrentTarget || !PlayerCamera || !PlayerController)
+	{
+		LockOnWidget->SetVisibility(ESlateVisibility::Hidden);
+		return;
+	}
+
+	const FVector WorldPos = CurrentTarget->GetTargetLocation();
+	FVector2D ScreenPos;
+	bool bOnScreen = PlayerController->ProjectWorldLocationToScreen(WorldPos, ScreenPos, true);
+
+	if (bOnScreen)
+	{
+		LockOnWidget->SetVisibility(ESlateVisibility::Visible);
+		LockOnWidget->SetPositionInViewport(ScreenPos, true);
+	}
+	else
+	{
+		LockOnWidget->SetVisibility(ESlateVisibility::Hidden);
+	}
 }
 
 void ULockOnCameraComponent::BeginPlay()
@@ -148,6 +165,24 @@ void ULockOnCameraComponent::BeginPlay()
 	{
 		UE_LOG(LogTemp, Warning, TEXT("LockOnCamera could not find a Camera Component in owner."));
 	}
+
+	PlayerController = Cast<APlayerController>(GetOwner()->GetInstigatorController());
+	if (!PlayerController)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("LockOnCamera could not find owner's PlayerController"));
+		return;
+	}
+
+	TSubclassOf<UUserWidget> WidgetBPClass = LoadClass<UUserWidget>(nullptr, TEXT("/LockOnCamera/WBP_LockOnIcon.WBP_LockOnIcon_C"));
+	if (!WidgetBPClass)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("LockOnCamera could not load LockOnIcon blueprint widget class"));
+		return;
+	}
+
+	LockOnWidget = CreateWidget<UUserWidget>(PlayerController, WidgetBPClass);
+	LockOnWidget->AddToViewport();
+	LockOnWidget->SetVisibility(ESlateVisibility::Hidden);
 }
 
 void ULockOnCameraComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
@@ -155,4 +190,5 @@ void ULockOnCameraComponent::TickComponent(float DeltaTime, ELevelTick TickType,
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
 	UpdateCamera(DeltaTime);
+	UpdateWidget();
 }

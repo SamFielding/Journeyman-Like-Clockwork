@@ -1,5 +1,6 @@
 #pragma once
 
+#include "Components/WidgetComponent.h"
 #include "Camera/CameraComponent.h"
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
@@ -28,7 +29,13 @@ public:
 	UCameraComponent* PlayerCamera = nullptr;
 
 	UPROPERTY()
+	APlayerController* PlayerController = nullptr;
+
+	UPROPERTY()
 	ULockOnTarget* CurrentTarget = nullptr;
+
+	UPROPERTY()
+	UUserWidget* LockOnWidget = nullptr;
 
 	UPROPERTY()
 	TArray<ULockOnTarget*> NearbyTargets;
@@ -50,6 +57,9 @@ public:
 
 	UFUNCTION()
 	void UpdateCamera(float DeltaTime);
+
+	UFUNCTION()
+	void UpdateWidget();
 
 protected:
 	virtual void BeginPlay() override;

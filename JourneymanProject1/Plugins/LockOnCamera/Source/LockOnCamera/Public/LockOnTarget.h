@@ -1,5 +1,6 @@
 #pragma once
 
+#include "Components/WidgetComponent.h"
 #include "CoreMinimal.h"
 #include "Components/SceneComponent.h"
 #include "LockOnTarget.generated.h"
@@ -14,6 +15,11 @@ public:
 
 	UFUNCTION()
 	FVector GetTargetLocation() const;
+
+	UFUNCTION()
+	FVector GetOwnerLocation() const;
+
+	static FVector Offset;
 
 protected:
 	virtual void BeginPlay() override;

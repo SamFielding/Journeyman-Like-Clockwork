@@ -8,8 +8,10 @@
 #include "StateMachineComponent.generated.h"
 
 
-DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnCombatStateChanged);
-DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnGameStateChanged);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnCombatStateEntries);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnCombatStateExits);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnGameStateEntries);  
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnGameStateExits); 
 
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
@@ -21,38 +23,58 @@ public:
 	// Sets default values for this component's properties
 	UStateMachineComponent();
 
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
-	ECombatState CurrentCombatState = ECombatState::NONE;
+	// State Transition Delegates
+	UPROPERTY(BlueprintAssignable, Category = "State Transitions", meta = (ToolTip = "[MUST] Implement to handle COMBAT State Entry Transitions"))
+	FOnCombatStateEntries OnCombatStateEntries;
 
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
-	EGameState CurrentGameState = EGameState::NONE;
+	UPROPERTY(BlueprintAssignable, Category = "State Transitions", meta = (ToolTip = "[MUST] Implement to handle COMBAT State Exit Transitions"))
+	FOnCombatStateExits OnCombatStateExits;
 
-	UFUNCTION(BlueprintCallable, meta = (ExpandEnumAsExecs = "OutputPin"))
+	UPROPERTY(BlueprintAssignable, Category = "State Transitions", meta = (ToolTip = "[MUST] Implement to handle GAME State Entry Transitions"))
+	FOnGameStateEntries OnGameStateEntries;
+
+	UPROPERTY(BlueprintAssignable, Category = "State Transitions", meta = (ToolTip = "[MUST] Implement to handle GAME State Exit Transitions"))
+	FOnGameStateExits OnGameStateExits;
+
+
+	// Current States
+	UPROPERTY(VisibleAnywhere, Category = "Current Combat State", BlueprintReadOnly)
+	ECombatState CurrentCombatState = ECombatState::EMPTY;
+
+	UPROPERTY(VisibleAnywhere, Category = "Current Game State", BlueprintReadOnly)
+	EGameState CurrentGameState = EGameState::EMPTY;
+
+
+
+	UFUNCTION(BlueprintCallable, Category = "State Switches", meta = (ExpandEnumAsExecs = "OutputPin"))
 	void SwitchOnCombatState(ECombatState& OutputPin);
 
-	UFUNCTION(BlueprintCallable)
+	UFUNCTION(BlueprintCallable, Category = "State Switches", meta = (ExpandEnumAsExecs = "OutputPin"))
+	void SwitchOnGameState(EGameState& OutputPin);
+
+	UFUNCTION(BlueprintCallable, Category = "Change States")
 	void Change_STATE_MELEE()
 	{
 		ChangeState(ECombatState::MELEE);
 	}
 
-	UFUNCTION(BlueprintCallable)
+	UFUNCTION(BlueprintCallable, Category = "Change States")
 	void Change_STATE_AB1()
 	{
 
 		ChangeState(ECombatState::AB1);
 	}
 
-	UFUNCTION(BlueprintCallable)
+	UFUNCTION(BlueprintCallable, Category = "Change States")
 	void Change_STATE_AB2()
 	{
 		ChangeState(ECombatState::AB2);
 	}
 
-	UFUNCTION(BlueprintCallable)
-	void Change_STATE_NONE()
+	UFUNCTION(BlueprintCallable, Category = "Change States")
+	void Change_STATE_EMPTY()
 	{
-		CurrentCombatState = ECombatState::NONE;
+		ChangeState(ECombatState::EMPTY);
 	}
 
 protected:

@@ -12,16 +12,17 @@
 UENUM()
 enum class ECombatState : uint8
 {
-	NONE UMETA(DisplayName = "NONE"),
+	EMPTY UMETA(DisplayName = "EMPTY"),
 	MELEE UMETA(DisplayName = "MELEE ATTACK"),
 	AB1 UMETA(DisplayName = "AB1 ATTACK"),
 	AB2 UMETA(DisplayName = "AB2 ATTACK"),
 };
 
+
 UENUM()
 enum class EGameState : uint8
 {
-	NONE UMETA(DisplayName = "NONE"),
+	EMPTY UMETA(DisplayName = "EMPTY"),
 	MAIN_MENU UMETA(DisplayName = "MAIN MENU"),
 	PAUSE_MENU UMETA(DisplayName = "PAUSE MENU"),
 	IN_GAME UMETA(DisplayName = "IN GAME"),

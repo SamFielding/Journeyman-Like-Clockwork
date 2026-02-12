@@ -13,10 +13,31 @@ UStateMachineComponent::UStateMachineComponent()
 	// ...
 }
 
+void UStateMachineComponent::SwitchOnCombatState(ECombatState& OutputPin)
+{
+	switch (CurrentCombatState)
+	{
+	case ECombatState::NONE:
+		OutputPin = ECombatState::NONE;
+		break;
+	case ECombatState::MELEE:
+		OutputPin = ECombatState::MELEE;
+		break;
+	case ECombatState::AB1:
+		OutputPin = ECombatState::AB1;
+		break;
+	case ECombatState::AB2:
+		OutputPin = ECombatState::AB2;
+		break;
+	default:
+		break;
+	}
+}
+
 
 void UStateMachineComponent::ChangeState(ECombatState NewState)
 {
-	if (CurrentState == NewState)
+	if (CurrentCombatState == NewState)
 		return;
 
 	OnStateExit();
@@ -30,18 +51,15 @@ void UStateMachineComponent::ChangeState(ECombatState NewState)
 
 void UStateMachineComponent::OnStateExit()
 {
-	switch (CurrentState)
+	switch (CurrentCombatState)
 	{
 	case ECombatState::NONE:
 		break;
 	case ECombatState::MELEE:
-		OnMeleeExit.Broadcast();
 		break;
 	case ECombatState::AB1:
-		OnAB1Exit.Broadcast();
 		break;
 	case ECombatState::AB2:
-		OnAB2Exit.Broadcast();
 		break;
 	default:
 		break;
@@ -55,19 +73,16 @@ void UStateMachineComponent::OnStateEnter(ECombatState NewState)
 	case ECombatState::NONE:
 		break;
 	case ECombatState::MELEE:
-		OnMeleeEnter.Broadcast();
 		break;
 	case ECombatState::AB1:
-		OnAB1Enter.Broadcast();
 		break;
 	case ECombatState::AB2:
-		OnAB2Enter.Broadcast();
 		break;
 	default:
 		break;
 	}
 
-	CurrentState = NewState;
+	CurrentCombatState = NewState;
 }
 
 // Called when the game starts
@@ -76,7 +91,7 @@ void UStateMachineComponent::BeginPlay()
 	Super::BeginPlay();
 
 	// ...
-	
+	CurrentGameState = EGameState::MAIN_MENU;
 }
 
 

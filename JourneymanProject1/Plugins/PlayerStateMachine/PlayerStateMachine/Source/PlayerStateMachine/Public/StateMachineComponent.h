@@ -8,13 +8,8 @@
 #include "StateMachineComponent.generated.h"
 
 
-DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnMeleeEnter);
-DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnAB1Enter);
-DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnAB2Enter);
-
-DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnMeleeExit);
-DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnAB1Exit);
-DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnAB2Exit);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnCombatStateChanged);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnGameStateChanged);
 
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
@@ -27,26 +22,13 @@ public:
 	UStateMachineComponent();
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
-	ECombatState CurrentState = ECombatState::NONE;
+	ECombatState CurrentCombatState = ECombatState::NONE;
 
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
+	EGameState CurrentGameState = EGameState::NONE;
 
-	UPROPERTY(BlueprintAssignable, Category = "State Machine", meta = (ToolTip = "[MUST] IMPLEMENT THIS EVENT TO HANDLE MELEE ENTER"))
-	FOnMeleeEnter OnMeleeEnter;
-
-	UPROPERTY(BlueprintAssignable, Category = "State Machine", meta = (ToolTip = "[MUST] IMPLEMENT THIS EVENT TO HANDLE AB1 ENTER"))
-	FOnAB1Enter OnAB1Enter;
-
-	UPROPERTY(BlueprintAssignable, Category = "State Machine", meta = (ToolTip = "[MUST] IMPLEMENT THIS EVENT TO HANDLE AB2 ENTER"))
-	FOnAB2Enter OnAB2Enter;
-
-	UPROPERTY(BlueprintAssignable, Category = "State Machine", meta = (ToolTip = "[MUST] IMPLEMENT THIS EVENT TO HANDLE MELEE EXIT"))
-	FOnMeleeExit OnMeleeExit;
-
-	UPROPERTY(BlueprintAssignable, Category = "State Machine", meta = (ToolTip = "[MUST] IMPLEMENT THIS EVENT TO HANDLE AB1 EXIT"))
-	FOnAB1Exit OnAB1Exit;
-
-	UPROPERTY(BlueprintAssignable, Category = "State Machine", meta = (ToolTip = "[MUST] IMPLEMENT THIS EVENT TO HANDLE AB2 EXIT"))
-	FOnAB2Exit OnAB2Exit;
+	UFUNCTION(BlueprintCallable, meta = (ExpandEnumAsExecs = "OutputPin"))
+	void SwitchOnCombatState(ECombatState& OutputPin);
 
 	UFUNCTION(BlueprintCallable)
 	void Change_STATE_MELEE()
@@ -70,7 +52,7 @@ public:
 	UFUNCTION(BlueprintCallable)
 	void Change_STATE_NONE()
 	{
-		CurrentState = ECombatState::NONE;
+		CurrentCombatState = ECombatState::NONE;
 	}
 
 protected:

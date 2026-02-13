@@ -1,0 +1,30 @@
+#pragma once
+
+#include "Components/WidgetComponent.h"
+#include "CoreMinimal.h"
+#include "Components/SceneComponent.h"
+#include "LockOnTarget.generated.h"
+
+UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
+class LOCKONCAMERA_API ULockOnTarget : public USceneComponent
+{
+	GENERATED_BODY()
+
+public:	
+	ULockOnTarget();
+
+	UFUNCTION()
+	FVector GetTargetLocation() const;
+
+	UFUNCTION()
+	FVector GetOwnerLocation() const;
+
+	static FVector Offset;
+
+protected:
+	virtual void BeginPlay() override;
+
+public:	
+	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
+
+};

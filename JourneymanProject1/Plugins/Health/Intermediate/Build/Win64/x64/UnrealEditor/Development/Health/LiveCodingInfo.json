@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Health.cpp.obj": [
+			"Health.init.gen.cpp.obj",
+			"WL_CPP_BASEHEALTHCOMPONENT.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"Health.cpp.obj",
+			"WL_CPP_BASEHEALTHCOMPONENT.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/e4086040/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/KNOWLESE4086040/IMC_Attacks.uasset",
+				"C:/Users/e4086040/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/KNOWLESE4086040/IA_Attack_Light.uasset",
+				"C:/Users/e4086040/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/KNOWLESE4086040/IA_Attack.uasset",
+				"C:/Users/e4086040/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/KNOWLESE4086040/IA_Attack_Heavy.uasset",
+				"C:/Users/e4086040/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/KNOWLESE4086040/C_Attack.uasset",
+				"C:/Users/e4086040/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/KNOWLESE4086040/Cylinder.uasset"
+			]
+		}
+	]
+}

@@ -4843,6 +4843,7 @@
 		},
 		{
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 			"Path": "$(ProjectDir)/Plugins/LockOnCamera/Binaries/Win64/UnrealEditor-LockOnCamera.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -4855,6 +4856,8 @@
 			"Type": "RequiredResource"
 		},
 		{
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 			"Path": "$(ProjectDir)/Plugins/PlayerTimeComponent/Binaries/Win64/UnrealEditor-PlayerTimeComponent.dll",
@@ -30608,10 +30611,13 @@
 		},
 		{
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 			"Path": "$(ProjectDir)/Plugins/LockOnCamera/LockOnCamera.uplugin",
 			"Type": "UFS"
 		},
 		{
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 			"Path": "$(ProjectDir)/Plugins/PlayerTimeComponent/PlayerTimeComponent.uplugin",
@@ -30730,7 +30736,10 @@
 		"LocalizableMessage",
 		"LocationServicesBPLibrary",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		"LockOnCamera",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 		"MacGraphicsSwitching",

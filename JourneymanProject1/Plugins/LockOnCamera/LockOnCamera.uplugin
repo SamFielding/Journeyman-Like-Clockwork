@@ -24,7 +24,7 @@
 		{
 			"Name": "LockOnCamera",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "PreDefault"
 		}
 	]
 }

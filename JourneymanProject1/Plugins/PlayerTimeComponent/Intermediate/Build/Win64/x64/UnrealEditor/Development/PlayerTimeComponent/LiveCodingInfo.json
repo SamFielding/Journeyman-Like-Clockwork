@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PlayerTimeComponent.cpp.obj": [
+			"PlayerTimeComponent.init.gen.cpp.obj",
+			"SF_CPP_PLAYERTIME.gen.cpp.obj",
+			"SF_CPP_TIMEPICKUP.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"PlayerTimeComponent.cpp.obj",
+			"SF_CPP_PLAYERTIME.cpp.obj",
+			"SF_CPP_TIMEPICKUP.cpp.obj"
+		]
+	}
+}

@@ -1,8 +1,7 @@
 #pragma once
 
-#include "PickupBase.h"
 #include "CoreMinimal.h"
-#include "GameFramework/Actor.h"
+#include "PickupBase.h"
 #include "CurrencyPickup.generated.h"
 
 class UPickupManager;

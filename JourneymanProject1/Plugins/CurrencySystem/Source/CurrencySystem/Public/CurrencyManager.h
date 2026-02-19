@@ -1,6 +1,5 @@
 #pragma once
 
-#include "CurrencyPickup.h"
 #include "CoreMinimal.h"
 #include "PickupManager.h"
 #include "CurrencyManager.generated.h"
@@ -16,8 +15,11 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Currency")
 	int32 CurrencyAmount;
 
-	UFUNCTION()
+	UFUNCTION(BlueprintCallable, Category = "Currency")
 	void AddCurrency(int32 Amount);
+
+	UFUNCTION(BlueprintCallable, Category = "Currency")
+	void RemoveCurrency(int32 Amount);
 
 protected:
 	virtual void BeginPlay() override;

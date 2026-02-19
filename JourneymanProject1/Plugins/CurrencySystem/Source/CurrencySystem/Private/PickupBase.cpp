@@ -4,6 +4,14 @@
 APickupBase::APickupBase()
 {
 	PrimaryActorTick.bCanEverTick = true;
+
+	RootComponent = CreateDefaultSubobject<USceneComponent>(TEXT("Root Component"));
+
+	Mesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Mesh"));
+	Mesh->SetupAttachment(RootComponent);
+
+	Collision = CreateDefaultSubobject<USphereComponent>(TEXT("Collision"));
+	Collision->SetupAttachment(RootComponent);
 }
 
 void APickupBase::BeginPlay()
@@ -24,9 +32,11 @@ void APickupBase::Tick(float DeltaTime)
 	if (!Target)
 		return;
 
+	ElapsedTime += DeltaTime;
+	SpeedCoefficient = 0.6f * FMath::Pow(ElapsedTime, ElapsedTime) - 0.6f;
+
 	FVector Direction = (Target->GetCollectionPointLocation() - GetActorLocation()).GetSafeNormal();
-	FVector NewLocation = GetActorLocation() + Direction * AttractionStrength * DeltaTime;
+	FVector NewLocation = GetActorLocation() + Direction * AttractionStrength * SpeedCoefficient * DeltaTime;
 
 	SetActorLocation(NewLocation);
 }
-

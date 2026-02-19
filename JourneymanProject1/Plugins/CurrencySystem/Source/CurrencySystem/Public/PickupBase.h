@@ -42,6 +42,12 @@ public:
 	UPROPERTY()
 	bool bIsMoving = false;
 
+	UPROPERTY()
+	float ElapsedTime = 0.f;
+
+	UPROPERTY()
+	float SpeedCoefficient;
+
 protected:
 	virtual void BeginPlay() override;
 

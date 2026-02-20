@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeCurrencySystem_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xC8C65F80,
+				0x3EA0485F,
 				0xE232F2B1,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeCurrencySystem_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_CurrencySystem.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xC8C65F80, 0xE232F2B1));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x3EA0485F, 0xE232F2B1));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

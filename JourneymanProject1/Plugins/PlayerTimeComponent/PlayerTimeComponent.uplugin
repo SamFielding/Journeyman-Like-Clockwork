@@ -18,13 +18,7 @@
 		{
 			"Name": "PlayerTimeComponent",
 			"Type": "Runtime",
-			"LoadingPhase": "PreDefault"
+			"LoadingPhase": "Default"
 		}
-	],
-	"Plugins": [
-		{
-			"Name": "CurrencySystem",
-			"Enabled": true
-		}
-	] 
+	]
 }

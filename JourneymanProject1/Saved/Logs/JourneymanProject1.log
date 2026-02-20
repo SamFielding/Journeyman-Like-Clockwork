@@ -1766,3 +1766,14 @@ FPackageName: Skipped package /Game/StarterContent/Shapes/Shape_NarrowCapsule ha
 [2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: ================================================
 [2026.02.20-09.53.01:016][534]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
 [2026.02.20-09.53.01:016][534]LogContentBrowser: End creating deferred item NewFolder
+[2026.02.20-09.53.52:351][862]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1706.784912
+[2026.02.20-09.53.53:351][865]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-09.53.53:351][865]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1707.451538, Update Interval: 325.397491
+[2026.02.20-09.56.09:994][369]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.02.20-09.56.10:906][475]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.02.20-09.56.10:906][475]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.02.20-09.56.10:957][475]LogStreaming: Display: FlushAsyncLoading(497): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.20-09.56.11:544][475]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2026.02.20-09.56.11:546][475]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2026.02.20-09.56.11:874][475]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.20-09.56.12:000][475]LogSlate: Took 0.003017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)

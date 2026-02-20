@@ -1624,3 +1624,145 @@ FPackageName: Skipped package /Game/StarterContent/Shapes/Shape_NarrowCapsule ha
 [2026.02.20-09.50.59:623][651]AssetCheck: /Game/Mechanism_prototype/Catapult/Charge_bar Validating asset
 [2026.02.20-09.50.59:623][651]AssetCheck: /Game/Mechanism_prototype/Catapult/CubeGridToolOutput_00315BB8 Validating asset
 [2026.02.20-09.50.59:624][651]AssetCheck: /Game/Mechanism_prototype/Catapult/CubeGridToolOutput_CC15773A Validating asset
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Catapult.Catapult_C' ref from Metadata '/Game/Mechanism_prototype/Catapult/Catapult.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Catapult.Catapult_C:ReceiveBeginPlay' ref from Metadata '/Game/Mechanism_prototype/Catapult/Catapult.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Catapult.SKEL_Catapult_C' ref from Metadata '/Game/Mechanism_prototype/Catapult/Catapult.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Catapult.SKEL_Catapult_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Mechanism_prototype/Catapult/Catapult.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Catapult.SKEL_Catapult_C:ReceiveTick' ref from Metadata '/Game/Mechanism_prototype/Catapult/Catapult.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Catapult.SKEL_Catapult_C:BndEvt__Catapult_Cube_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Mechanism_prototype/Catapult/Catapult.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Catapult.SKEL_Catapult_C:ReceiveBeginPlay' ref from Metadata '/Game/Mechanism_prototype/Catapult/Catapult.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Catapult.SKEL_Catapult_C:UserConstructionScript' ref from Metadata '/Game/Mechanism_prototype/Catapult/Catapult.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Catapult.Catapult:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mechanism_prototype/Catapult/Catapult.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Catapult.Catapult:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Mechanism_prototype/Catapult/Catapult.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Catapult.Catapult:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Mechanism_prototype/Catapult/Catapult.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C' ref from Metadata '/Game/Mechanism_prototype/Boots/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ReceiveControllerChanged' ref from Metadata '/Game/Mechanism_prototype/Boots/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ReceiveTick' ref from Metadata '/Game/Mechanism_prototype/Boots/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C' ref from Metadata '/Game/Mechanism_prototype/Boots/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:ReceiveControllerChanged' ref from Metadata '/Game/Mechanism_prototype/Boots/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:ReceiveTick' ref from Metadata '/Game/Mechanism_prototype/Boots/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:Start squirting' ref from Metadata '/Game/Mechanism_prototype/Boots/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:End squirting' ref from Metadata '/Game/Mechanism_prototype/Boots/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:reJump' ref from Metadata '/Game/Mechanism_prototype/Boots/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/Mechanism_prototype/Boots/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C' ref from Metadata '/Game/Mechanism_prototype/Boots/Blueprints/BP_ThirdPersonGameMode.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonGameMode.SKEL_BP_ThirdPersonGameMode_C' ref from Metadata '/Game/Mechanism_prototype/Boots/Blueprints/BP_ThirdPersonGameMode.PackageMetaData'
+[2026.02.20-09.51.51:414][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonGameMode.SKEL_BP_ThirdPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/Mechanism_prototype/Boots/Blueprints/BP_ThirdPersonGameMode.PackageMetaData'
+[2026.02.20-09.51.51:415][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Charge_bar.Charge_bar_C' ref from Metadata '/Game/Mechanism_prototype/Catapult/Charge_bar.PackageMetaData'
+[2026.02.20-09.51.51:415][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Charge_bar.SKEL_Charge_bar_C' ref from Metadata '/Game/Mechanism_prototype/Catapult/Charge_bar.PackageMetaData'
+[2026.02.20-09.51.51:415][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Charge_bar.SKEL_Charge_bar_C:PreConstruct' ref from Metadata '/Game/Mechanism_prototype/Catapult/Charge_bar.PackageMetaData'
+[2026.02.20-09.51.51:415][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Charge_bar.SKEL_Charge_bar_C:Construct' ref from Metadata '/Game/Mechanism_prototype/Catapult/Charge_bar.PackageMetaData'
+[2026.02.20-09.51.51:415][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Charge_bar.SKEL_Charge_bar_C:Tick' ref from Metadata '/Game/Mechanism_prototype/Catapult/Charge_bar.PackageMetaData'
+[2026.02.20-09.51.51:415][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Charge_bar.Charge_bar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Mechanism_prototype/Catapult/Charge_bar.PackageMetaData'
+[2026.02.20-09.51.51:415][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Charge_bar.Charge_bar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Mechanism_prototype/Catapult/Charge_bar.PackageMetaData'
+[2026.02.20-09.51.51:415][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Charge_bar.Charge_bar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Mechanism_prototype/Catapult/Charge_bar.PackageMetaData'
+[2026.02.20-09.51.51:415][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Charge_bar.Charge_bar:GetPercent.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mechanism_prototype/Catapult/Charge_bar.PackageMetaData'
+[2026.02.20-09.51.51:415][733]LogMetaData: Removing '/Game/YUAMBOE4155025/Catapult/Charge_bar.Charge_bar:GetPercent.K2Node_FunctionResult_0' ref from Metadata '/Game/Mechanism_prototype/Catapult/Charge_bar.PackageMetaData'
+[2026.02.20-09.51.51:417][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-09.51.51:417][733]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/YUAMBOE4155025/Catapult/Catapult] ([2] browsable assets)...
+[2026.02.20-09.51.51:417][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/YUAMBOE4155025/Catapult/Catapult]
+[2026.02.20-09.51.51:433][733]LogSavePackage: Moving output files for package: /Game/YUAMBOE4155025/Catapult/Catapult
+[2026.02.20-09.51.51:433][733]LogSavePackage: Moving '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Saved/CatapultD082AD2542E34A893C6057BF2DE3DFBA.tmp' to '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/YUAMBOE4155025/Catapult/Catapult.uasset'
+[2026.02.20-09.51.51:437][733]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.20-09.51.51:437][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.20-09.51.51:457][733]LogSavePackage: Moving output files for package: /Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonCharacter
+[2026.02.20-09.51.51:458][733]LogSavePackage: Moving '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Saved/BP_ThirdPersonCharacterE5F29A314A1CEBCE9F8E2DA045AE15F4.tmp' to '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.20-09.51.51:461][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2026.02.20-09.51.51:461][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonGameMode]
+[2026.02.20-09.51.51:464][733]LogSavePackage: Moving output files for package: /Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonGameMode
+[2026.02.20-09.51.51:464][733]LogSavePackage: Moving '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Saved/BP_ThirdPersonGameMode28630AF540852B134CF471A3975D2B4D.tmp' to '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2026.02.20-09.51.51:468][733]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/YUAMBOE4155025/Catapult/Charge_bar] ([2] browsable assets)...
+[2026.02.20-09.51.51:468][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/YUAMBOE4155025/Catapult/Charge_bar]
+[2026.02.20-09.51.51:474][733]LogSavePackage: Moving output files for package: /Game/YUAMBOE4155025/Catapult/Charge_bar
+[2026.02.20-09.51.51:474][733]LogSavePackage: Moving '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Saved/Charge_bar38E30E254651B08A7C096A9BDCDEEC03.tmp' to '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/YUAMBOE4155025/Catapult/Charge_bar.uasset'
+[2026.02.20-09.51.51:478][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/YUAMBOE4155025/Catapult/CubeGridToolOutput_CC15773A] ([1] browsable assets)...
+[2026.02.20-09.51.51:478][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/YUAMBOE4155025/Catapult/CubeGridToolOutput_CC15773A]
+[2026.02.20-09.51.51:482][733]LogSavePackage: Moving output files for package: /Game/YUAMBOE4155025/Catapult/CubeGridToolOutput_CC15773A
+[2026.02.20-09.51.51:482][733]LogSavePackage: Moving '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Saved/CubeGridToolOutput_CC15773AF6B0BEC84191366FE025628B5921409B.tmp' to '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/YUAMBOE4155025/Catapult/CubeGridToolOutput_CC15773A.uasset'
+[2026.02.20-09.51.51:484][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/YUAMBOE4155025/Catapult/CubeGridToolOutput_00315BB8] ([1] browsable assets)...
+[2026.02.20-09.51.51:484][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/YUAMBOE4155025/Catapult/CubeGridToolOutput_00315BB8]
+[2026.02.20-09.51.51:487][733]LogSavePackage: Moving output files for package: /Game/YUAMBOE4155025/Catapult/CubeGridToolOutput_00315BB8
+[2026.02.20-09.51.51:487][733]LogSavePackage: Moving '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Saved/CubeGridToolOutput_00315BB861A9C89346DBC451DB116B83FAE424FD.tmp' to '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/YUAMBOE4155025/Catapult/CubeGridToolOutput_00315BB8.uasset'
+[2026.02.20-09.51.51:490][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/YUAMBOE4155025/Boots/Input/Actions/IA_Jump] ([1] browsable assets)...
+[2026.02.20-09.51.51:490][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/YUAMBOE4155025/Boots/Input/Actions/IA_Jump]
+[2026.02.20-09.51.51:490][733]LogSavePackage: Moving output files for package: /Game/YUAMBOE4155025/Boots/Input/Actions/IA_Jump
+[2026.02.20-09.51.51:490][733]LogSavePackage: Moving '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Saved/IA_JumpEA63FAED49DB80E592E2C88DBC5F1438.tmp' to '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/YUAMBOE4155025/Boots/Input/Actions/IA_Jump.uasset'
+[2026.02.20-09.51.51:493][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/YUAMBOE4155025/Boots/Input/Actions/IA_Look] ([1] browsable assets)...
+[2026.02.20-09.51.51:493][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/YUAMBOE4155025/Boots/Input/Actions/IA_Look]
+[2026.02.20-09.51.51:494][733]LogSavePackage: Moving output files for package: /Game/YUAMBOE4155025/Boots/Input/Actions/IA_Look
+[2026.02.20-09.51.51:494][733]LogSavePackage: Moving '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Saved/IA_LookE59B65E349EC7AA9EA2EC5AB71CFA762.tmp' to '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/YUAMBOE4155025/Boots/Input/Actions/IA_Look.uasset'
+[2026.02.20-09.51.51:496][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/YUAMBOE4155025/Boots/Input/Actions/IA_Move] ([1] browsable assets)...
+[2026.02.20-09.51.51:496][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/YUAMBOE4155025/Boots/Input/Actions/IA_Move]
+[2026.02.20-09.51.51:497][733]LogSavePackage: Moving output files for package: /Game/YUAMBOE4155025/Boots/Input/Actions/IA_Move
+[2026.02.20-09.51.51:497][733]LogSavePackage: Moving '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Saved/IA_MoveCBD936324FD3BB7B13C82B99BB04BD1A.tmp' to '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/YUAMBOE4155025/Boots/Input/Actions/IA_Move.uasset'
+[2026.02.20-09.51.51:498][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/YUAMBOE4155025/Boots/Input/IMC_Default] ([1] browsable assets)...
+[2026.02.20-09.51.51:498][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/YUAMBOE4155025/Boots/Input/IMC_Default]
+[2026.02.20-09.51.51:502][733]LogSavePackage: Moving output files for package: /Game/YUAMBOE4155025/Boots/Input/IMC_Default
+[2026.02.20-09.51.51:502][733]LogSavePackage: Moving '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Saved/IMC_Default6A800CBB4CD6544FEE468B98CFEBAB30.tmp' to '../../../../../../Users/E4155025/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Content/YUAMBOE4155025/Boots/Input/IMC_Default.uasset'
+[2026.02.20-09.51.51:505][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.040 ms (total: 179.283 ms)
+[2026.02.20-09.51.51:606][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.02.20-09.51.51:616][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.20-09.51.51:624][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.02.20-09.51.51:682][733]LogContentValidation: Display: Starting to validate 10 assets
+[2026.02.20-09.51.51:682][733]LogContentValidation: Enabled validators:
+[2026.02.20-09.51.51:682][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-09.51.51:682][733]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-09.51.51:682][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-09.51.51:682][733]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-09.51.51:682][733]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-09.51.51:682][733]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-09.51.51:682][733]AssetCheck: /Game/YUAMBOE4155025/Catapult/Catapult Validating asset
+[2026.02.20-09.51.51:683][733]AssetCheck: /Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.20-09.51.51:683][733]AssetCheck: /Game/YUAMBOE4155025/Boots/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2026.02.20-09.51.51:683][733]AssetCheck: /Game/YUAMBOE4155025/Catapult/Charge_bar Validating asset
+[2026.02.20-09.51.51:683][733]AssetCheck: /Game/YUAMBOE4155025/Catapult/CubeGridToolOutput_CC15773A Validating asset
+[2026.02.20-09.51.51:683][733]AssetCheck: /Game/YUAMBOE4155025/Catapult/CubeGridToolOutput_00315BB8 Validating asset
+[2026.02.20-09.51.51:683][733]AssetCheck: /Game/YUAMBOE4155025/Boots/Input/Actions/IA_Jump Validating asset
+[2026.02.20-09.51.51:683][733]AssetCheck: /Game/YUAMBOE4155025/Boots/Input/Actions/IA_Look Validating asset
+[2026.02.20-09.51.51:683][733]AssetCheck: /Game/YUAMBOE4155025/Boots/Input/Actions/IA_Move Validating asset
+[2026.02.20-09.51.51:683][733]AssetCheck: /Game/YUAMBOE4155025/Boots/Input/IMC_Default Validating asset
+[2026.02.20-09.52.36:131][977]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.02.20-09.52.36:136][977]LogContentBrowser: Creating deferred item: NewFolder
+[2026.02.20-09.52.36:141][978]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: ================================================
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Total job queries 160, among them cache hits 7 (4.38%), DDC hits 146 (91.25%), Duplicates 2 (1.25%)
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Tracking 151 distinct input hashes that result in 141 distinct outputs (93.38%)
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: RAM used: 116.72 KiB of 3.20 GiB budget. Usage: 0.00%
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Shaders Compiled: 5
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.06 s
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Job execution time: average 2.18 s, max 2.57 s
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Job life time (pending + execution): average 2.24 s, max 2.63
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Shader code size: average 7.342 KiB, min 4.219 KiB, max 11.066 KiB
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.63 s
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Average processing rate: 1.90 jobs/sec
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Total thread time: 2.006 s
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Total thread preprocess time: 1.895 s
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Percentage time preprocessing: 94.43%
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Effective parallelization: 0.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 36.94% of total time (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.69% of total time (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display:                                                 FLumenCardPS - 15.42% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.93% of total time (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.01% of total time (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: === Material stats ===
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Materials Translated:    130
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Material Translation Only: 0.03 s (26%)
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: Material Cache Hits: 22 (17%)
+[2026.02.20-09.52.39:952][435]LogShaderCompilers: Display: ================================================
+[2026.02.20-09.53.01:016][534]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2026.02.20-09.53.01:016][534]LogContentBrowser: End creating deferred item NewFolder

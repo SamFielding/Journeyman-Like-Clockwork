@@ -5,13 +5,20 @@ APickupBase::APickupBase()
 {
 	PrimaryActorTick.bCanEverTick = true;
 
-	RootComponent = CreateDefaultSubobject<USceneComponent>(TEXT("Root Component"));
+	Collision = CreateDefaultSubobject<UCapsuleComponent>(TEXT("Collision"));
+	RootComponent = Collision;
+
+	Collision->SetSimulatePhysics(true);
+	Collision->SetEnableGravity(true);
+	Collision->SetCollisionEnabled(ECollisionEnabled::QueryAndPhysics);
+	Collision->SetCollisionObjectType(ECC_PhysicsBody);
+	Collision->SetCollisionResponseToChannel(ECollisionChannel::ECC_Pawn, ECollisionResponse::ECR_Ignore);
+	Collision->SetMobility(EComponentMobility::Movable);
+
+	Collision->BodyInstance.bLockRotation = true;
 
 	Mesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Mesh"));
 	Mesh->SetupAttachment(RootComponent);
-
-	Collision = CreateDefaultSubobject<USphereComponent>(TEXT("Collision"));
-	Collision->SetupAttachment(RootComponent);
 }
 
 void APickupBase::BeginPlay()
@@ -23,20 +30,25 @@ void APickupBase::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	if (!bIsMoving)
+	if (!bIsAttracted && !Collision->IsAnyRigidBodyAwake())
 	{
 		SetActorRotation(GetActorRotation() + FRotator(0.f, RotationRate * DeltaTime, 0.f));
 		SetActorLocation(GetActorLocation() + FVector(0.f, 0.f, FMath::Sin(GetWorld()->GetTimeSeconds() * 2.f * PI * OscillationFrequency) * OscillationAmplitude * DeltaTime));
 	}
 
-	if (!Target)
-		return;
+	if (Target)
+	{
+		Collision->SetSimulatePhysics(false);
 
-	ElapsedTime += DeltaTime;
-	SpeedCoefficient = 0.6f * FMath::Pow(ElapsedTime, ElapsedTime) - 0.6f;
+		bIsAttracted = true;
+		SetActorEnableCollision(false);
 
-	FVector Direction = (Target->GetCollectionPointLocation() - GetActorLocation()).GetSafeNormal();
-	FVector NewLocation = GetActorLocation() + Direction * AttractionStrength * SpeedCoefficient * DeltaTime;
+		ElapsedTime += DeltaTime;
+		SpeedCoefficient = 0.6f * FMath::Pow(ElapsedTime, ElapsedTime) - 0.6f;
 
-	SetActorLocation(NewLocation);
+		FVector Direction = (Target->GetCollectionPointLocation() - GetActorLocation()).GetSafeNormal();
+		FVector NewLocation = GetActorLocation() + Direction * AttractionStrength * SpeedCoefficient * DeltaTime;
+
+		SetActorLocation(NewLocation);
+	}
 }

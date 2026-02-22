@@ -26,6 +26,7 @@ public class PlayerTimeComponent : ModuleRules
 			new string[]
 			{
 				"Core",
+				"CurrencySystem",
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);

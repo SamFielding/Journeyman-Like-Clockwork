@@ -39,7 +39,7 @@ public:
 
 	// Current States
 	UPROPERTY(VisibleAnywhere, Category = "Current Combat State", BlueprintReadOnly)
-	ECombatState CurrentCombatState = ECombatState::EMPTY;
+	ECombatState CurrentCombatState = ECombatState::RESET;
 
 	UPROPERTY(VisibleAnywhere, Category = "Current Game State", BlueprintReadOnly)
 	EGameState CurrentGameState = EGameState::EMPTY;
@@ -53,35 +53,13 @@ public:
 	void SwitchOnGameState(EGameState& OutputPin);
 
 	UFUNCTION(BlueprintCallable, Category = "Change States")
-	void Change_STATE_MELEE()
-	{
-		ChangeState(ECombatState::MELEE);
-	}
-
-	UFUNCTION(BlueprintCallable, Category = "Change States")
-	void Change_STATE_AB1()
-	{
-
-		ChangeState(ECombatState::AB1);
-	}
-
-	UFUNCTION(BlueprintCallable, Category = "Change States")
-	void Change_STATE_AB2()
-	{
-		ChangeState(ECombatState::AB2);
-	}
-
-	UFUNCTION(BlueprintCallable, Category = "Change States")
-	void Change_STATE_EMPTY()
-	{
-		ChangeState(ECombatState::EMPTY);
-	}
+	void ChangeState(ECombatState NewState);
 
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
 private:
-	void ChangeState(ECombatState NewState);
+	
 
 	void OnStateExit();
 

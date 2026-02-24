@@ -26,7 +26,7 @@ void UStateMachineComponent::SwitchOnGameState(EGameState& OutputPin)
 
 void UStateMachineComponent::ChangeState(ECombatState NewState)
 {
-	if (CurrentCombatState != ECombatState::EMPTY && NewState != ECombatState::EMPTY)
+	if (CurrentCombatState != ECombatState::RESET && NewState != ECombatState::RESET)
 		return;
 
 	// Call Exit Current State

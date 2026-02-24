@@ -3,8 +3,8 @@
 **/Intermediate/
 **/Saved/
 **/DerivedDataCache/
-**/Plugins/Intermediate
-**/Plugins/Binaries
+**/Plugins/Intermediate/
+**/Plugins/Binaries/
 
 # Logs / crashes
 **/*.log

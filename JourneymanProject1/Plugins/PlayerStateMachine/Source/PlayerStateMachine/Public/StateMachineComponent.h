@@ -61,11 +61,6 @@ protected:
 private:
 	
 
-	void OnStateExit();
-
-
-	void OnStateEnter(ECombatState NewState);
-
 public:	
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;

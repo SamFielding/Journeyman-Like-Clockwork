@@ -17,11 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeLockOnCamera_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-<<<<<<< HEAD
 				0x9156DCEF,
-=======
-				0xCBFA3B5C,
->>>>>>> main
 				0x69A3288E,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -29,9 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeLockOnCamera_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_LockOnCamera.OuterSingleton;
 	}
-<<<<<<< HEAD
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LockOnCamera(Z_Construct_UPackage__Script_LockOnCamera, TEXT("/Script/LockOnCamera"), Z_Registration_Info_UPackage__Script_LockOnCamera, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x9156DCEF, 0x69A3288E));
-=======
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LockOnCamera(Z_Construct_UPackage__Script_LockOnCamera, TEXT("/Script/LockOnCamera"), Z_Registration_Info_UPackage__Script_LockOnCamera, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xCBFA3B5C, 0x69A3288E));
->>>>>>> main
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

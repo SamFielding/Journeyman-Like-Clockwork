@@ -14,20 +14,12 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define CURRENCYSYSTEM_CurrencyManager_generated_h
 
-<<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
-=======
-#define FID_Users_peace_University_Work_Year_2_Latest_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
->>>>>>> main
 	DECLARE_FUNCTION(execRemoveCurrency); \
 	DECLARE_FUNCTION(execAddCurrency);
 
 
-<<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_INCLASS_NO_PURE_DECLS \
-=======
-#define FID_Users_peace_University_Work_Year_2_Latest_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_INCLASS_NO_PURE_DECLS \
->>>>>>> main
 private: \
 	static void StaticRegisterNativesUCurrencyManager(); \
 	friend struct Z_Construct_UClass_UCurrencyManager_Statics; \
@@ -36,11 +28,7 @@ public: \
 	DECLARE_SERIALIZER(UCurrencyManager)
 
 
-<<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_ENHANCED_CONSTRUCTORS \
-=======
-#define FID_Users_peace_University_Work_Year_2_Latest_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_ENHANCED_CONSTRUCTORS \
->>>>>>> main
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	UCurrencyManager(UCurrencyManager&&); \
@@ -52,7 +40,6 @@ public: \
 	NO_API virtual ~UCurrencyManager();
 
 
-<<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_7_PROLOG
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
@@ -60,15 +47,6 @@ public: \
 	FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
 	FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_INCLASS_NO_PURE_DECLS \
 	FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_ENHANCED_CONSTRUCTORS \
-=======
-#define FID_Users_peace_University_Work_Year_2_Latest_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_7_PROLOG
-#define FID_Users_peace_University_Work_Year_2_Latest_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_GENERATED_BODY \
-PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-public: \
-	FID_Users_peace_University_Work_Year_2_Latest_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_peace_University_Work_Year_2_Latest_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_INCLASS_NO_PURE_DECLS \
-	FID_Users_peace_University_Work_Year_2_Latest_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_ENHANCED_CONSTRUCTORS \
->>>>>>> main
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -76,11 +54,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> CURRENCYSYSTEM_API UClass* StaticClass<class UCurrencyManager>();
 
 #undef CURRENT_FILE_ID
-<<<<<<< HEAD
 #define CURRENT_FILE_ID FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h
-=======
-#define CURRENT_FILE_ID FID_Users_peace_University_Work_Year_2_Latest_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h
->>>>>>> main
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

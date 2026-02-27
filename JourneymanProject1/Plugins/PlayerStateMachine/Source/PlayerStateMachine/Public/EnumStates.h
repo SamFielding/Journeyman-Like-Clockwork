@@ -17,6 +17,7 @@ enum class ECombatState : uint8
 	HEAVYMELEEATTACK UMETA(DisplayName = "HEAVY MELEE ATTACK"),
 	COGTHROW UMETA(DisplayName = "COG THROW"),
 	COGSPIN UMETA(DisplayName = "COG SPIN"),
+	COGDASH UMETA(DisplayName = "COG DASH"),
 	INTERACT UMETA(DisplayName = "INTERACT"),
 };
 

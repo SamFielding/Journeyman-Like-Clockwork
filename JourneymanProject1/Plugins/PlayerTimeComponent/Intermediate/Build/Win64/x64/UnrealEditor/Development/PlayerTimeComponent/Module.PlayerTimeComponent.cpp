@@ -8,11 +8,11 @@
 #include "C:/Users/e4135711/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/PlayerTimeComponent/Source/PlayerTimeComponent/Private/PlayerTimeManager.cpp"
 #include "C:/Users/e4135711/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/PlayerTimeComponent/Source/PlayerTimeComponent/Private/TimePickup.cpp"
 =======
-#include "C:/Users/peace/University Work/Year 2/Latest Journeyman/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/PlayerTimeComponent/Intermediate/Build/Win64/UnrealEditor/Inc/PlayerTimeComponent/UHT/PlayerTimeComponent.init.gen.cpp"
-#include "C:/Users/peace/University Work/Year 2/Latest Journeyman/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/PlayerTimeComponent/Intermediate/Build/Win64/UnrealEditor/Inc/PlayerTimeComponent/UHT/PlayerTimeManager.gen.cpp"
-#include "C:/Users/peace/University Work/Year 2/Latest Journeyman/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/PlayerTimeComponent/Intermediate/Build/Win64/UnrealEditor/Inc/PlayerTimeComponent/UHT/TimePickup.gen.cpp"
-#include "C:/Users/peace/University Work/Year 2/Latest Journeyman/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/PlayerTimeComponent/Intermediate/Build/Win64/x64/UnrealEditor/Development/PlayerTimeComponent/PerModuleInline.gen.cpp"
-#include "C:/Users/peace/University Work/Year 2/Latest Journeyman/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/PlayerTimeComponent/Source/PlayerTimeComponent/Private/PlayerTimeComponent.cpp"
-#include "C:/Users/peace/University Work/Year 2/Latest Journeyman/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/PlayerTimeComponent/Source/PlayerTimeComponent/Private/PlayerTimeManager.cpp"
-#include "C:/Users/peace/University Work/Year 2/Latest Journeyman/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/PlayerTimeComponent/Source/PlayerTimeComponent/Private/TimePickup.cpp"
+#include "C:/Users/dinsl/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/PlayerTimeComponent/Intermediate/Build/Win64/UnrealEditor/Inc/PlayerTimeComponent/UHT/PlayerTimeComponent.init.gen.cpp"
+#include "C:/Users/dinsl/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/PlayerTimeComponent/Intermediate/Build/Win64/UnrealEditor/Inc/PlayerTimeComponent/UHT/PlayerTimeManager.gen.cpp"
+#include "C:/Users/dinsl/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/PlayerTimeComponent/Intermediate/Build/Win64/UnrealEditor/Inc/PlayerTimeComponent/UHT/TimePickup.gen.cpp"
+#include "C:/Users/dinsl/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/PlayerTimeComponent/Intermediate/Build/Win64/x64/UnrealEditor/Development/PlayerTimeComponent/PerModuleInline.gen.cpp"
+#include "C:/Users/dinsl/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/PlayerTimeComponent/Source/PlayerTimeComponent/Private/PlayerTimeComponent.cpp"
+#include "C:/Users/dinsl/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/PlayerTimeComponent/Source/PlayerTimeComponent/Private/PlayerTimeManager.cpp"
+#include "C:/Users/dinsl/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/PlayerTimeComponent/Source/PlayerTimeComponent/Private/TimePickup.cpp"
 >>>>>>> main

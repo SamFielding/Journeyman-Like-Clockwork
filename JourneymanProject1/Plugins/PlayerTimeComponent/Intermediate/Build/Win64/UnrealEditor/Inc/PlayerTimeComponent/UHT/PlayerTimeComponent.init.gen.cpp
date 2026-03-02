@@ -20,7 +20,7 @@ void EmptyLinkFunctionForGeneratedCodePlayerTimeComponent_init() {}
 <<<<<<< HEAD
 				0x81EB41CD,
 =======
-				0x84698BBC,
+				0xF1492654,
 >>>>>>> main
 				0x7804365C,
 				METADATA_PARAMS(0, nullptr)
@@ -32,6 +32,6 @@ void EmptyLinkFunctionForGeneratedCodePlayerTimeComponent_init() {}
 <<<<<<< HEAD
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PlayerTimeComponent(Z_Construct_UPackage__Script_PlayerTimeComponent, TEXT("/Script/PlayerTimeComponent"), Z_Registration_Info_UPackage__Script_PlayerTimeComponent, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x81EB41CD, 0x7804365C));
 =======
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PlayerTimeComponent(Z_Construct_UPackage__Script_PlayerTimeComponent, TEXT("/Script/PlayerTimeComponent"), Z_Registration_Info_UPackage__Script_PlayerTimeComponent, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x84698BBC, 0x7804365C));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PlayerTimeComponent(Z_Construct_UPackage__Script_PlayerTimeComponent, TEXT("/Script/PlayerTimeComponent"), Z_Registration_Info_UPackage__Script_PlayerTimeComponent, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xF1492654, 0x7804365C));
 >>>>>>> main
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

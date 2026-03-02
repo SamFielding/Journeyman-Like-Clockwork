@@ -3,7 +3,7 @@
 <<<<<<< HEAD
 #include "C:/Users/e4135711/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Intermediate/Build/Win64/x64/JourneymanProject1Editor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.Cpp20.h"
 =======
-#include "C:/Users/peace/University Work/Year 2/Latest Journeyman/Journeyman-Like-Clockwork/JourneymanProject1/Intermediate/Build/Win64/x64/JourneymanProject1Editor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.Cpp20.h"
+#include "C:/Users/dinsl/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Intermediate/Build/Win64/x64/JourneymanProject1Editor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.Cpp20.h"
 >>>>>>> main
 #undef PLAYERTIMECOMPONENT_API
 #define UE_IS_ENGINE_MODULE 0

@@ -8,11 +8,11 @@
 #include "C:/Users/e4135711/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/LockOnCamera/Source/LockOnCamera/Private/LockOnCameraComponent.cpp"
 #include "C:/Users/e4135711/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/LockOnCamera/Source/LockOnCamera/Private/LockOnTarget.cpp"
 =======
-#include "C:/Users/peace/University Work/Year 2/Latest Journeyman/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/LockOnCamera/Intermediate/Build/Win64/UnrealEditor/Inc/LockOnCamera/UHT/LockOnCamera.init.gen.cpp"
-#include "C:/Users/peace/University Work/Year 2/Latest Journeyman/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/LockOnCamera/Intermediate/Build/Win64/UnrealEditor/Inc/LockOnCamera/UHT/LockOnCameraComponent.gen.cpp"
-#include "C:/Users/peace/University Work/Year 2/Latest Journeyman/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/LockOnCamera/Intermediate/Build/Win64/UnrealEditor/Inc/LockOnCamera/UHT/LockOnTarget.gen.cpp"
-#include "C:/Users/peace/University Work/Year 2/Latest Journeyman/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/LockOnCamera/Intermediate/Build/Win64/x64/UnrealEditor/Development/LockOnCamera/PerModuleInline.gen.cpp"
-#include "C:/Users/peace/University Work/Year 2/Latest Journeyman/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/LockOnCamera/Source/LockOnCamera/Private/LockOnCamera.cpp"
-#include "C:/Users/peace/University Work/Year 2/Latest Journeyman/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/LockOnCamera/Source/LockOnCamera/Private/LockOnCameraComponent.cpp"
-#include "C:/Users/peace/University Work/Year 2/Latest Journeyman/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/LockOnCamera/Source/LockOnCamera/Private/LockOnTarget.cpp"
+#include "C:/Users/dinsl/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/LockOnCamera/Intermediate/Build/Win64/UnrealEditor/Inc/LockOnCamera/UHT/LockOnCamera.init.gen.cpp"
+#include "C:/Users/dinsl/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/LockOnCamera/Intermediate/Build/Win64/UnrealEditor/Inc/LockOnCamera/UHT/LockOnCameraComponent.gen.cpp"
+#include "C:/Users/dinsl/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/LockOnCamera/Intermediate/Build/Win64/UnrealEditor/Inc/LockOnCamera/UHT/LockOnTarget.gen.cpp"
+#include "C:/Users/dinsl/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/LockOnCamera/Intermediate/Build/Win64/x64/UnrealEditor/Development/LockOnCamera/PerModuleInline.gen.cpp"
+#include "C:/Users/dinsl/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/LockOnCamera/Source/LockOnCamera/Private/LockOnCamera.cpp"
+#include "C:/Users/dinsl/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/LockOnCamera/Source/LockOnCamera/Private/LockOnCameraComponent.cpp"
+#include "C:/Users/dinsl/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Plugins/LockOnCamera/Source/LockOnCamera/Private/LockOnTarget.cpp"
 >>>>>>> main

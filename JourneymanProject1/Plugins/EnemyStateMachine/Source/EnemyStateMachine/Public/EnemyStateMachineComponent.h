@@ -4,17 +4,17 @@
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
-#include "EnemyStateMachine.generated.h"
+#include "EnemyStateMachineComponent.generated.h"
 
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
-class JOURNEYMANPROJECT1_API UEnemyStateMachine : public UActorComponent
+class ENEMYSTATEMACHINE_API UEnemyStateMachineComponent : public UActorComponent
 {
 	GENERATED_BODY()
 
 public:	
 	// Sets default values for this component's properties
-	UEnemyStateMachine();
+	UEnemyStateMachineComponent();
 
 protected:
 	// Called when the game starts

@@ -1,70 +1,38 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-
 #include "CurrencyPickup.h"
-#include "Components/SphereComponent.h"
 #include "CurrencyManager.h"
 
-// Sets default values
-ACurrencyPickup::ACurrencyPickup()
+ACurrencyPickup::ACurrencyPickup() : APickupBase()
 {
-	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
-
-	RootComponent = CreateDefaultSubobject<USceneComponent>(TEXT("RootComponent"));
-
-	Mesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Mesh"));
-	Mesh->SetupAttachment(RootComponent);
-
-	Collision = CreateDefaultSubobject<USphereComponent>(TEXT("Collision"));
-	Collision->SetupAttachment(RootComponent);
 }
 
-
-void ACurrencyPickup::CollectCurrency(UCurrencyManager* CurrencyManagerComponent)
+void ACurrencyPickup::Collect(UPickupManager* PickupManagerComponent)
 {
-	if (!CurrencyManagerComponent)
+	if (!PickupManagerComponent || bIsMoving)
 		return;
 
-	if (bIsMoving)
-		return;
+	if (UCurrencyManager* CurrencyManagerComponent = Cast<UCurrencyManager>(PickupManagerComponent))
+	{
+		Target = PickupManagerComponent;
+		bIsMoving = true;
 
-	Target = CurrencyManagerComponent;
-	bIsMoving = true;
-
-	SetActorEnableCollision(false);
+		SetActorEnableCollision(false);
+	}
 }
 
-// Called when the game starts or when spawned
 void ACurrencyPickup::BeginPlay()
 {
 	Super::BeginPlay();
-
 }
 
-// Called every frame
 void ACurrencyPickup::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+	APickupBase::Tick(DeltaTime);
 
-	if (!bIsMoving)
+	if (UCurrencyManager* CurrencyPickupManager = Cast<UCurrencyManager>(Target); CurrencyPickupManager && FVector::Dist(GetActorLocation(), Target->GetCollectionPointLocation()) <= AttractionStrength * SpeedCoefficient * DeltaTime + 1.f)
 	{
-		SetActorRotation(GetActorRotation() + FRotator(0.f, RotationRate * DeltaTime, 0.f));
-		SetActorLocation(GetActorLocation() + FVector(0.f, 0.f, FMath::Sin(GetWorld()->GetTimeSeconds() * 2.f * PI * OscillationFrequency) * OscillationAmplitude * DeltaTime));
-	}
-
-	if (!Target)
-		return;
-
-	FVector Direction = (Target->GetCollectionPointLocation() - GetActorLocation()).GetSafeNormal();
-	FVector NewLocation = GetActorLocation() + Direction * AttractionStrength * DeltaTime;
-
-	SetActorLocation(NewLocation);
-
-	if (FVector::Dist(NewLocation, Target->GetCollectionPointLocation()) < 10.f)
-	{
-		Target->AddCurrency(CurrencyValue);
+		CurrencyPickupManager->AddCurrency(CurrencyValue);
 		Destroy();
 	}
 }
-

@@ -8,15 +8,12 @@ ATimePickup::ATimePickup() : APickupBase()
 
 void ATimePickup::Collect(UPickupManager* PickupManagerComponent)
 {
-	if (!PickupManagerComponent || bIsMoving)
+	if (!PickupManagerComponent || bIsAttracted)
 		return;
 
 	if (UPlayerTimeManager* TimeManagerComponent = Cast<UPlayerTimeManager>(PickupManagerComponent))
 	{
 		Target = PickupManagerComponent;
-		bIsMoving = true;
-
-		SetActorEnableCollision(false);
 	}
 }
 

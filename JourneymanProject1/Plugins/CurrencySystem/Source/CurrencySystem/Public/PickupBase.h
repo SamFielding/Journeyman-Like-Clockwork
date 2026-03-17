@@ -1,6 +1,7 @@
 #pragma once
 
 #include "Components/SphereComponent.h"
+#include "Components/CapsuleComponent.h"
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "PickupBase.generated.h"
@@ -31,7 +32,7 @@ public:
 	TObjectPtr<UStaticMeshComponent> Mesh;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Pickup")
-	TObjectPtr<USphereComponent> Collision;
+	TObjectPtr<UCapsuleComponent> Collision;
 
 	UFUNCTION()
 	virtual void Collect(UPickupManager* PickupManagerComponent) {}
@@ -40,7 +41,10 @@ public:
 	UPickupManager* Target = nullptr;
 
 	UPROPERTY()
-	bool bIsMoving = false;
+	bool bIsAttracted = false;
+
+	UPROPERTY()
+	bool bFinishedFalling = false;
 
 	UPROPERTY()
 	float ElapsedTime = 0.f;

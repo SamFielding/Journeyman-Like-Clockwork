@@ -135,6 +135,11 @@ void ULockOnCameraComponent::UpdateCamera(float DeltaTime)
 
 void ULockOnCameraComponent::UpdateWidget()
 {
+	if (!LockOnWidget)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("LockOnCamera could not access LockOnWidget."));
+		return;
+	}
 	if (!CurrentTarget || !PlayerCamera || !PlayerController)
 	{
 		LockOnWidget->SetVisibility(ESlateVisibility::Hidden);

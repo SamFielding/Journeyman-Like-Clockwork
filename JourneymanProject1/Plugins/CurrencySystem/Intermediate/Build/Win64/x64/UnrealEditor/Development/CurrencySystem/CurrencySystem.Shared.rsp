@@ -1,6 +1,10 @@
 /I "."
 <<<<<<< HEAD
+<<<<<<< HEAD
+/I "C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Private"
+=======
 /I "C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Private"
+>>>>>>> main
 =======
 /I "D:\gitclockwork\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Private"
 >>>>>>> main
@@ -291,9 +295,15 @@
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
 <<<<<<< HEAD
+<<<<<<< HEAD
+/I "C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\UnrealEditor\Inc\CurrencySystem\UHT"
+/I "C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source"
+/I "C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public"
+=======
 /I "C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\UnrealEditor\Inc\CurrencySystem\UHT"
 /I "C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source"
 /I "C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public"
+>>>>>>> main
 =======
 /I "D:\gitclockwork\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\UnrealEditor\Inc\CurrencySystem\UHT"
 /I "D:\gitclockwork\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source"
@@ -306,13 +316,18 @@
 /external:I "ThirdParty\LibTiff\Source"
 /external:I "ThirdParty\OpenGL"
 <<<<<<< HEAD
+<<<<<<< HEAD
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE"
+=======
 /external:I "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
+>>>>>>> main
 =======
 /external:I "C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.38.33130\INCLUDE"
+>>>>>>> main
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"

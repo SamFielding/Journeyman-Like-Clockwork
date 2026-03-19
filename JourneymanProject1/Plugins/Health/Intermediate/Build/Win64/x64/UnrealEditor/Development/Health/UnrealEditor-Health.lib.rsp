@@ -8,5 +8,10 @@
 /NODEFAULTLIB
 "C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Module.Health.cpp.obj"
+<<<<<<< Updated upstream
+=======
+"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Health.init.gen.cpp.obj"
+"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\WL_CPP_BASEHEALTHCOMPONENT.gen.cpp.obj"
+>>>>>>> Stashed changes
 "C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Default.rc2.res"
 /OUT:"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\UnrealEditor-Health.lib"

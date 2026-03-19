@@ -2,7 +2,11 @@
 /D_WIN64
 /l 0x409
 /I "."
+<<<<<<< HEAD
 /I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE"
+=======
+/I "C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.38.33130\INCLUDE"
+>>>>>>> main
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
@@ -84,5 +88,9 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="Third Person Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=JourneymanProject1
+<<<<<<< HEAD
 /fo "C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Default.rc2.res"
+=======
+/fo "D:\gitclockwork\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Default.rc2.res"
+>>>>>>> main
 "..\Build\Windows\Resources\Default.rc2"

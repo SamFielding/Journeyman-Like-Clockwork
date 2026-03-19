@@ -1,6 +1,7 @@
 {
     "Version": "1.2",
     "Data": {
+<<<<<<< HEAD
         "Source": "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\health\\module.health.cpp",
         "ProvidedModule": "",
         "PCH": "c:\\journeyman-like-clockwork\\journeymanproject1\\intermediate\\build\\win64\\x64\\journeymanproject1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
@@ -15,6 +16,22 @@
             "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\private\\health.cpp",
             "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\public\\health.h",
             "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\private\\wl_cpp_basehealthcomponent.cpp"
+=======
+        "Source": "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\health\\module.health.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\intermediate\\build\\win64\\x64\\journeymanproject1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\health\\definitions.health.h",
+            "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\unrealeditor\\inc\\health\\uht\\health.init.gen.cpp",
+            "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\unrealeditor\\inc\\health\\uht\\wl_cpp_basehealthcomponent.gen.cpp",
+            "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\public\\wl_cpp_basehealthcomponent.h",
+            "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\unrealeditor\\inc\\health\\uht\\wl_cpp_basehealthcomponent.generated.h",
+            "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\health\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\private\\health.cpp",
+            "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\public\\health.h",
+            "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\private\\wl_cpp_basehealthcomponent.cpp"
+>>>>>>> main
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

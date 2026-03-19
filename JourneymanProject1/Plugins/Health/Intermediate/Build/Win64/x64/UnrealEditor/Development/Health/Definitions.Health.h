@@ -2,7 +2,13 @@
 #pragma once
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+#include "C:/Journeyman-Like-Clockwork/JourneymanProject1/Intermediate/Build/Win64/x64/JourneymanProject1Editor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.Cpp20.h"
+=======
+>>>>>>> main
 #include "C:/Users/kathr/OneDrive/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Intermediate/Build/Win64/x64/JourneymanProject1Editor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.Cpp20.h"
+>>>>>>> main
 =======
 #include "D:/gitclockwork/Journeyman-Like-Clockwork/JourneymanProject1/Intermediate/Build/Win64/x64/JourneymanProject1Editor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.Cpp20.h"
 >>>>>>> main

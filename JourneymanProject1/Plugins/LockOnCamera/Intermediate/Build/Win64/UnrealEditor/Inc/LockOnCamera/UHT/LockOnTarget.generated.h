@@ -15,7 +15,11 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define LOCKONCAMERA_LockOnTarget_generated_h
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
+=======
+#define FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
+>>>>>>> main
 =======
 #define FID_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
 >>>>>>> main
@@ -24,7 +28,11 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_INCLASS_NO_PURE_DECLS \
+=======
+#define FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_INCLASS_NO_PURE_DECLS \
+>>>>>>> main
 =======
 #define FID_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_INCLASS_NO_PURE_DECLS \
 >>>>>>> main
@@ -37,7 +45,11 @@ public: \
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_ENHANCED_CONSTRUCTORS \
+=======
+#define FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_ENHANCED_CONSTRUCTORS \
+>>>>>>> main
 =======
 #define FID_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
@@ -53,6 +65,7 @@ public: \
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_8_PROLOG
 #define FID_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
@@ -60,6 +73,15 @@ public: \
 	FID_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
 	FID_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_INCLASS_NO_PURE_DECLS \
 	FID_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_ENHANCED_CONSTRUCTORS \
+=======
+#define FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_8_PROLOG
+#define FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_INCLASS_NO_PURE_DECLS \
+	FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_ENHANCED_CONSTRUCTORS \
+>>>>>>> main
 =======
 #define FID_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_8_PROLOG
 #define FID_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_GENERATED_BODY \
@@ -77,7 +99,11 @@ template<> LOCKONCAMERA_API UClass* StaticClass<class ULockOnTarget>();
 
 #undef CURRENT_FILE_ID
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define CURRENT_FILE_ID FID_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h
+=======
+#define CURRENT_FILE_ID FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h
+>>>>>>> main
 =======
 #define CURRENT_FILE_ID FID_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h
 >>>>>>> main

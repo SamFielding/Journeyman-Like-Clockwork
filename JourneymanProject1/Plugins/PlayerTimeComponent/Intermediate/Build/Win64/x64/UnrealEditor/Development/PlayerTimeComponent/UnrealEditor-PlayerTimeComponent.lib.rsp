@@ -6,21 +6,7 @@
 /NAME:"UnrealEditor-PlayerTimeComponent.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-<<<<<<< HEAD
-<<<<<<< HEAD
-"C:\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Module.PlayerTimeComponent.cpp.obj"
-"C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
-/OUT:"C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\UnrealEditor-PlayerTimeComponent.lib"
-=======
-"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Module.PlayerTimeComponent.cpp.obj"
-"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
-/OUT:"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\UnrealEditor-PlayerTimeComponent.lib"
->>>>>>> main
-=======
-"D:\gitclockwork\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"D:\gitclockwork\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Module.PlayerTimeComponent.cpp.obj"
-"D:\gitclockwork\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
-/OUT:"D:\gitclockwork\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\UnrealEditor-PlayerTimeComponent.lib"
->>>>>>> main
+"C:\Users\E4089830\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\E4089830\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Module.PlayerTimeComponent.cpp.obj"
+"C:\Users\E4089830\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
+/OUT:"C:\Users\E4089830\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\UnrealEditor-PlayerTimeComponent.lib"

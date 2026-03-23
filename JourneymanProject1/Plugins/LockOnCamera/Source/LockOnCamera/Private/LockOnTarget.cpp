@@ -1,8 +1,6 @@
 #include "LockOnTarget.h"
 #include "Blueprint/UserWidget.h"
 
-FVector ULockOnTarget::Offset = FVector(0.f, 0.f, -200.f);
-
 ULockOnTarget::ULockOnTarget()
 {
 	PrimaryComponentTick.bCanEverTick = false;

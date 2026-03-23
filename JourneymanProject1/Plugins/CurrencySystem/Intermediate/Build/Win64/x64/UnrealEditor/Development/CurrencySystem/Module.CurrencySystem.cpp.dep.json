@@ -2,31 +2,163 @@
     "Version": "1.2",
     "Data": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+        "Source": "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\module.currencysystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\journeyman-like-clockwork\\journeymanproject1\\intermediate\\build\\win64\\x64\\journeymanproject1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\definitions.currencysystem.h",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencymanager.gen.cpp",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\currencymanager.h",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\pickupmanager.h",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\pickupbase.h",
+=======
+<<<<<<< HEAD
+        "Source": "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\module.currencysystem.cpp",
+=======
+<<<<<<< HEAD
+        "Source": "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\module.currencysystem.cpp",
+>>>>>>> main
+=======
         "Source": "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\module.currencysystem.cpp",
+>>>>>>> main
         "ProvidedModule": "",
         "PCH": "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\intermediate\\build\\win64\\x64\\journeymanproject1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
+<<<<<<< HEAD
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\definitions.currencysystem.h",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencymanager.gen.cpp",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\currencymanager.h",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\pickupmanager.h",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\pickupbase.h",
+=======
+        "Source": "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\module.currencysystem.cpp",
+>>>>>>> main
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\intermediate\\build\\win64\\x64\\journeymanproject1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+<<<<<<< HEAD
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\definitions.currencysystem.h",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencymanager.gen.cpp",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\currencymanager.h",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\pickupmanager.h",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\pickupbase.h",
+=======
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\definitions.currencysystem.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencymanager.gen.cpp",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\currencymanager.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\pickupmanager.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\pickupbase.h",
+>>>>>>> main
+>>>>>>> main
+=======
             "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\definitions.currencysystem.h",
             "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencymanager.gen.cpp",
             "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\currencymanager.h",
             "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\pickupmanager.h",
             "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\pickupbase.h",
-=======
-        "Source": "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\module.currencysystem.cpp",
-        "ProvidedModule": "",
-        "PCH": "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\intermediate\\build\\win64\\x64\\journeymanproject1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
-        "Includes": [
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\definitions.currencysystem.h",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencymanager.gen.cpp",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\currencymanager.h",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\pickupmanager.h",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\pickupbase.h",
 >>>>>>> main
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
 <<<<<<< HEAD
+<<<<<<< HEAD
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupbase.generated.h",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupmanager.generated.h",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencymanager.generated.h",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencypickup.gen.cpp",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\currencypickup.h",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencypickup.generated.h",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencysystem.init.gen.cpp",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\dropcurrencycomponent.gen.cpp",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\dropcurrencycomponent.h",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\dropcurrencycomponent.generated.h",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupbase.gen.cpp",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupmanager.gen.cpp",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\currencymanager.cpp",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\currencypickup.cpp",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\currencysystem.cpp",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\currencysystem.h",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\dropcurrencycomponent.cpp",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\pickupbase.cpp",
+            "c:\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\pickupmanager.cpp"
+=======
+<<<<<<< HEAD
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupbase.generated.h",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupmanager.generated.h",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencymanager.generated.h",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencypickup.gen.cpp",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\currencypickup.h",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencypickup.generated.h",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencysystem.init.gen.cpp",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\dropcurrencycomponent.gen.cpp",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\dropcurrencycomponent.h",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\dropcurrencycomponent.generated.h",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupbase.gen.cpp",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupmanager.gen.cpp",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\currencymanager.cpp",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\currencypickup.cpp",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\currencysystem.cpp",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\currencysystem.h",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\dropcurrencycomponent.cpp",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\pickupbase.cpp",
+            "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\pickupmanager.cpp"
+=======
+<<<<<<< HEAD
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupbase.generated.h",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupmanager.generated.h",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencymanager.generated.h",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencypickup.gen.cpp",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\currencypickup.h",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencypickup.generated.h",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencysystem.init.gen.cpp",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\dropcurrencycomponent.gen.cpp",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\dropcurrencycomponent.h",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\dropcurrencycomponent.generated.h",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupbase.gen.cpp",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupmanager.gen.cpp",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\currencymanager.cpp",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\currencypickup.cpp",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\currencysystem.cpp",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\currencysystem.h",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\dropcurrencycomponent.cpp",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\pickupbase.cpp",
+            "c:\\users\\e4089830\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\pickupmanager.cpp"
+=======
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupbase.generated.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupmanager.generated.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencymanager.generated.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencypickup.gen.cpp",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\currencypickup.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencypickup.generated.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencysystem.init.gen.cpp",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\dropcurrencycomponent.gen.cpp",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\dropcurrencycomponent.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\dropcurrencycomponent.generated.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupbase.gen.cpp",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupmanager.gen.cpp",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\currencymanager.cpp",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\currencypickup.cpp",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\currencysystem.cpp",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\currencysystem.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\dropcurrencycomponent.cpp",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\pickupbase.cpp",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\pickupmanager.cpp"
+>>>>>>> main
+>>>>>>> main
+>>>>>>> main
+=======
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\capsulecomponent.generated.h",
             "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupbase.generated.h",
             "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupmanager.generated.h",
             "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencymanager.generated.h",
@@ -48,28 +180,6 @@
             "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\dropcurrencycomponent.cpp",
             "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\pickupbase.cpp",
             "d:\\gitclockwork\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\pickupmanager.cpp"
-=======
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupbase.generated.h",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupmanager.generated.h",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencymanager.generated.h",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencypickup.gen.cpp",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\currencypickup.h",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencypickup.generated.h",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\currencysystem.init.gen.cpp",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\dropcurrencycomponent.gen.cpp",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\dropcurrencycomponent.h",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\dropcurrencycomponent.generated.h",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupbase.gen.cpp",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupmanager.gen.cpp",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\currencysystem\\permoduleinline.gen.cpp",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\currencymanager.cpp",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\currencypickup.cpp",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\currencysystem.cpp",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\currencysystem.h",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\dropcurrencycomponent.cpp",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\pickupbase.cpp",
-            "c:\\users\\e4463748\\documents\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\private\\pickupmanager.cpp"
 >>>>>>> main
         ],
         "ImportedModules": [],

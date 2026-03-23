@@ -8,15 +8,12 @@ ACurrencyPickup::ACurrencyPickup() : APickupBase()
 
 void ACurrencyPickup::Collect(UPickupManager* PickupManagerComponent)
 {
-	if (!PickupManagerComponent || bIsMoving)
+	if (!PickupManagerComponent || bIsAttracted)
 		return;
 
 	if (UCurrencyManager* CurrencyManagerComponent = Cast<UCurrencyManager>(PickupManagerComponent))
 	{
 		Target = PickupManagerComponent;
-		bIsMoving = true;
-
-		SetActorEnableCollision(false);
 	}
 }
 

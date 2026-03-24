@@ -19,7 +19,8 @@ public:
 	UFUNCTION()
 	FVector GetOwnerLocation() const;
 
-	static FVector Offset;
+	UPROPERTY(EditDefaultsOnly, Category = "Lock On Target")
+	FVector Offset = FVector(0.f, 0.f, -200.f);
 
 protected:
 	virtual void BeginPlay() override;

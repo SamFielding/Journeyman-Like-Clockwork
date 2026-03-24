@@ -124,7 +124,13 @@ struct Z_Construct_UClass_ULockOnTarget_Statics
 		{ "IncludePath", "LockOnTarget.h" },
 		{ "ModuleRelativePath", "Public/LockOnTarget.h" },
 	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_Offset_MetaData[] = {
+		{ "Category", "Lock On Target" },
+		{ "ModuleRelativePath", "Public/LockOnTarget.h" },
+	};
 #endif // WITH_METADATA
+	static const UECodeGen_Private::FStructPropertyParams NewProp_Offset;
+	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
 		{ &Z_Construct_UFunction_ULockOnTarget_GetOwnerLocation, "GetOwnerLocation" }, // 2030260665
@@ -136,6 +142,11 @@ struct Z_Construct_UClass_ULockOnTarget_Statics
 	};
 	static const UECodeGen_Private::FClassParams ClassParams;
 };
+const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_ULockOnTarget_Statics::NewProp_Offset = { "Offset", nullptr, (EPropertyFlags)0x0010000000010001, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ULockOnTarget, Offset), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_Offset_MetaData), NewProp_Offset_MetaData) };
+const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ULockOnTarget_Statics::PropPointers[] = {
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ULockOnTarget_Statics::NewProp_Offset,
+};
+static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_ULockOnTarget_Statics::PropPointers) < 2048);
 UObject* (*const Z_Construct_UClass_ULockOnTarget_Statics::DependentSingletons[])() = {
 	(UObject* (*)())Z_Construct_UClass_USceneComponent,
 	(UObject* (*)())Z_Construct_UPackage__Script_LockOnCamera,
@@ -147,11 +158,11 @@ const UECodeGen_Private::FClassParams Z_Construct_UClass_ULockOnTarget_Statics::
 	&StaticCppClassTypeInfo,
 	DependentSingletons,
 	FuncInfo,
-	nullptr,
+	Z_Construct_UClass_ULockOnTarget_Statics::PropPointers,
 	nullptr,
 	UE_ARRAY_COUNT(DependentSingletons),
 	UE_ARRAY_COUNT(FuncInfo),
-	0,
+	UE_ARRAY_COUNT(Z_Construct_UClass_ULockOnTarget_Statics::PropPointers),
 	0,
 	0x00B000A4u,
 	METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ULockOnTarget_Statics::Class_MetaDataParams), Z_Construct_UClass_ULockOnTarget_Statics::Class_MetaDataParams)
@@ -173,23 +184,14 @@ ULockOnTarget::~ULockOnTarget() {}
 // End Class ULockOnTarget
 
 // Begin Registration
-<<<<<<< HEAD
-struct Z_CompiledInDeferFile_FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics
-=======
-struct Z_CompiledInDeferFile_FID_Users_E4089830_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics
->>>>>>> main
+struct Z_CompiledInDeferFile_FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ULockOnTarget, ULockOnTarget::StaticClass, TEXT("ULockOnTarget"), &Z_Registration_Info_UClass_ULockOnTarget, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ULockOnTarget), 390221360U) },
+		{ Z_Construct_UClass_ULockOnTarget, ULockOnTarget::StaticClass, TEXT("ULockOnTarget"), &Z_Registration_Info_UClass_ULockOnTarget, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ULockOnTarget), 481421482U) },
 	};
 };
-<<<<<<< HEAD
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_2028242694(TEXT("/Script/LockOnCamera"),
-	Z_CompiledInDeferFile_FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics::ClassInfo),
-=======
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_E4089830_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_2028242694(TEXT("/Script/LockOnCamera"),
-	Z_CompiledInDeferFile_FID_Users_E4089830_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_E4089830_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics::ClassInfo),
->>>>>>> main
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_2164464267(TEXT("/Script/LockOnCamera"),
+	Z_CompiledInDeferFile_FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

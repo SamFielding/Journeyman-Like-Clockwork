@@ -24,7 +24,7 @@ void UStateMachineComponent::SwitchOnGameState(EGameState& OutputPin)
 }
 
 
-void UStateMachineComponent::ChangeState(ECombatState NewState)
+void UStateMachineComponent::ChangeCombatState(ECombatState NewState)
 {
 	if (CurrentCombatState != ECombatState::RESET && NewState != ECombatState::RESET)
 		return;
@@ -41,13 +41,26 @@ void UStateMachineComponent::ChangeState(ECombatState NewState)
 
 }
 
+void UStateMachineComponent::ChangeGameState(EGameState NewState)
+{
+
+	// Call Exit Current State
+	OnGameStateExits.Broadcast();
+
+	// Set New State
+	CurrentGameState = NewState;
+
+	// Call Enter New State
+	OnGameStateEntries.Broadcast();
+}
+
 // Called when the game starts
 void UStateMachineComponent::BeginPlay()
 {
 	Super::BeginPlay();
 
 	// ...
-	CurrentGameState = EGameState::MAIN_MENU;
+	CurrentGameState = EGameState::IN_GAME;
 }
 
 

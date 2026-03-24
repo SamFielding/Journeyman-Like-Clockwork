@@ -53,7 +53,10 @@ public:
 	void SwitchOnGameState(EGameState& OutputPin);
 
 	UFUNCTION(BlueprintCallable, Category = "Change States")
-	void ChangeState(ECombatState NewState);
+	void ChangeCombatState(ECombatState NewState);
+
+	UFUNCTION(BlueprintCallable, Category = "Change States")
+	void ChangeGameState(EGameState NewState);
 
 protected:
 	// Called when the game starts

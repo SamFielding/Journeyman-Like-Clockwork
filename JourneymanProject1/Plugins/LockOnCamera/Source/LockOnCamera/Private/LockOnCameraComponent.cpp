@@ -35,7 +35,7 @@ void ULockOnCameraComponent::LockOnClosest()
 	const FVector OwnerLocation = GetOwner()->GetActorLocation();
 	NearbyTargets.Sort([OwnerLocation](const ULockOnTarget& A, const ULockOnTarget& B)
 		{
-			return FVector::DistSquared(OwnerLocation, A.GetTargetLocation() + ULockOnTarget::Offset) < FVector::DistSquared(OwnerLocation, B.GetTargetLocation() + ULockOnTarget::Offset);
+			return FVector::DistSquared(OwnerLocation, A.GetTargetLocation() + A.Offset) < FVector::DistSquared(OwnerLocation, B.GetTargetLocation() + B.Offset);
 		});
 
 	CurrentTarget = NearbyTargets[0];
@@ -64,7 +64,7 @@ void ULockOnCameraComponent::SwitchTarget(const FVector2D& Input)
 	FVector2D InputDir = Input.GetSafeNormal();
 
 	FVector2D CurrentScreenPos;
-	if (!PlayerController->ProjectWorldLocationToScreen(CurrentTarget->GetTargetLocation() + ULockOnTarget::Offset, CurrentScreenPos))
+	if (!PlayerController->ProjectWorldLocationToScreen(CurrentTarget->GetTargetLocation() + CurrentTarget->Offset, CurrentScreenPos))
 		return;
 
 	ULockOnTarget* BestTarget = nullptr;
@@ -76,7 +76,7 @@ void ULockOnCameraComponent::SwitchTarget(const FVector2D& Input)
 			continue;
 
 		FVector2D ScreenPos;
-		if (!PlayerController->ProjectWorldLocationToScreen(Target->GetTargetLocation() + ULockOnTarget::Offset, ScreenPos))
+		if (!PlayerController->ProjectWorldLocationToScreen(Target->GetTargetLocation() + Target->Offset, ScreenPos))
 			continue;
 
 		FVector2D ToTarget = ScreenPos - CurrentScreenPos;
@@ -125,7 +125,7 @@ void ULockOnCameraComponent::UpdateCamera(float DeltaTime)
 
 	FRotator NewRotation = FMath::RInterpTo(
 		PlayerController->GetControlRotation(),
-		(CurrentTarget->GetTargetLocation() + ULockOnTarget::Offset - PlayerCamera->GetComponentLocation()).Rotation(),
+		(CurrentTarget->GetTargetLocation() + CurrentTarget->Offset - PlayerCamera->GetComponentLocation()).Rotation(),
 		DeltaTime,
 		CameraInterpolationSpeed
 	);

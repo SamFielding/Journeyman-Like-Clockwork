@@ -419,6 +419,9 @@ ULockOnCameraComponent::~ULockOnCameraComponent() {}
 
 // Begin Registration
 <<<<<<< HEAD
+struct Z_CompiledInDeferFile_FID_Users_e4125334_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_Statics
+=======
+<<<<<<< HEAD
 struct Z_CompiledInDeferFile_FID_Users_E4155025_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_Statics
 =======
 <<<<<<< HEAD
@@ -427,11 +430,16 @@ struct Z_CompiledInDeferFile_FID_Users_kathr_OneDrive_Documents_GitHub_Journeyma
 struct Z_CompiledInDeferFile_FID_Users_E4089830_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_Statics
 >>>>>>> main
 >>>>>>> main
+>>>>>>> main
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ULockOnCameraComponent, ULockOnCameraComponent::StaticClass, TEXT("ULockOnCameraComponent"), &Z_Registration_Info_UClass_ULockOnCameraComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ULockOnCameraComponent), 3711368873U) },
 	};
 };
+<<<<<<< HEAD
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_e4125334_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_72913738(TEXT("/Script/LockOnCamera"),
+	Z_CompiledInDeferFile_FID_Users_e4125334_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_e4125334_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_Statics::ClassInfo),
+=======
 <<<<<<< HEAD
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_E4155025_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_72913738(TEXT("/Script/LockOnCamera"),
 	Z_CompiledInDeferFile_FID_Users_E4155025_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_E4155025_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_Statics::ClassInfo),
@@ -442,6 +450,7 @@ static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_kathr_OneDrive_Do
 =======
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_E4089830_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_72913738(TEXT("/Script/LockOnCamera"),
 	Z_CompiledInDeferFile_FID_Users_E4089830_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_E4089830_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_Statics::ClassInfo),
+>>>>>>> main
 >>>>>>> main
 >>>>>>> main
 	nullptr, 0,

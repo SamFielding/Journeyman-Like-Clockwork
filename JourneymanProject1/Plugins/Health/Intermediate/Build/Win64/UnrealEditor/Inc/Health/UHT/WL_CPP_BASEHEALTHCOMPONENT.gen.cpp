@@ -382,6 +382,9 @@ UWL_CPP_BASEHEALTHCOMPONENT::~UWL_CPP_BASEHEALTHCOMPONENT() {}
 
 // Begin Registration
 <<<<<<< HEAD
+struct Z_CompiledInDeferFile_FID_Users_e4125334_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics
+=======
+<<<<<<< HEAD
 struct Z_CompiledInDeferFile_FID_Users_E4155025_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics
 =======
 <<<<<<< HEAD
@@ -390,11 +393,16 @@ struct Z_CompiledInDeferFile_FID_Users_kathr_OneDrive_Documents_GitHub_Journeyma
 struct Z_CompiledInDeferFile_FID_Users_E4089830_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics
 >>>>>>> main
 >>>>>>> main
+>>>>>>> main
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT, UWL_CPP_BASEHEALTHCOMPONENT::StaticClass, TEXT("UWL_CPP_BASEHEALTHCOMPONENT"), &Z_Registration_Info_UClass_UWL_CPP_BASEHEALTHCOMPONENT, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UWL_CPP_BASEHEALTHCOMPONENT), 2572751673U) },
 	};
 };
+<<<<<<< HEAD
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_e4125334_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_2487398827(TEXT("/Script/Health"),
+	Z_CompiledInDeferFile_FID_Users_e4125334_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_e4125334_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo),
+=======
 <<<<<<< HEAD
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_E4155025_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_2487398827(TEXT("/Script/Health"),
 	Z_CompiledInDeferFile_FID_Users_E4155025_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_E4155025_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo),
@@ -405,6 +413,7 @@ static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_kathr_OneDrive_Do
 =======
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_E4089830_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_2487398827(TEXT("/Script/Health"),
 	Z_CompiledInDeferFile_FID_Users_E4089830_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_E4089830_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo),
+>>>>>>> main
 >>>>>>> main
 >>>>>>> main
 	nullptr, 0,

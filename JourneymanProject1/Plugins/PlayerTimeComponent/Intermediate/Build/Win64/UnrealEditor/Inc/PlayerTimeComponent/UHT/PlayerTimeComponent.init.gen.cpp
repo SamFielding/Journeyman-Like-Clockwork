@@ -17,11 +17,7 @@ void EmptyLinkFunctionForGeneratedCodePlayerTimeComponent_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-<<<<<<< HEAD
-				0xBE7D2D6A,
-=======
-				0xC07004CA,
->>>>>>> main
+				0xD06C4411,
 				0x7804365C,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -29,9 +25,5 @@ void EmptyLinkFunctionForGeneratedCodePlayerTimeComponent_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_PlayerTimeComponent.OuterSingleton;
 	}
-<<<<<<< HEAD
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PlayerTimeComponent(Z_Construct_UPackage__Script_PlayerTimeComponent, TEXT("/Script/PlayerTimeComponent"), Z_Registration_Info_UPackage__Script_PlayerTimeComponent, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xBE7D2D6A, 0x7804365C));
-=======
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PlayerTimeComponent(Z_Construct_UPackage__Script_PlayerTimeComponent, TEXT("/Script/PlayerTimeComponent"), Z_Registration_Info_UPackage__Script_PlayerTimeComponent, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xC07004CA, 0x7804365C));
->>>>>>> main
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PlayerTimeComponent(Z_Construct_UPackage__Script_PlayerTimeComponent, TEXT("/Script/PlayerTimeComponent"), Z_Registration_Info_UPackage__Script_PlayerTimeComponent, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xD06C4411, 0x7804365C));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

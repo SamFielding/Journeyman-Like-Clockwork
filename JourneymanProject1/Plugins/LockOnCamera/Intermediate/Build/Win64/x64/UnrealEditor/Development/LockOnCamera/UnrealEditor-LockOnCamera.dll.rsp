@@ -36,9 +36,15 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 /NOIMPLIB
+<<<<<<< HEAD
+"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Module.LockOnCamera.cpp.obj"
+"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Default.rc2.res"
+=======
 "C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Module.LockOnCamera.cpp.obj"
 "C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Default.rc2.res"
+>>>>>>> main
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
@@ -71,6 +77,11 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
+<<<<<<< HEAD
+/OUT:"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Binaries\Win64\UnrealEditor-LockOnCamera.dll"
+/PDB:"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Binaries\Win64\UnrealEditor-LockOnCamera.pdb"
+=======
 /OUT:"C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Binaries\Win64\UnrealEditor-LockOnCamera.dll"
 /PDB:"C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Binaries\Win64\UnrealEditor-LockOnCamera.pdb"
+>>>>>>> main
 /ignore:4078

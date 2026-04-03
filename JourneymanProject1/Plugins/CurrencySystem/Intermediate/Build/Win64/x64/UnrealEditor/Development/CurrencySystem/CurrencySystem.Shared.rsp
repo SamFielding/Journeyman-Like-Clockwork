@@ -1,9 +1,16 @@
 /I "."
 <<<<<<< HEAD
+<<<<<<< HEAD
 /I "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Private"
 =======
 /I "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Private"
 >>>>>>> WL-PRO-MERGING_CHARACTER_MECHANICS
+=======
+/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Private"
+=======
+/I "C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Private"
+>>>>>>> main
+>>>>>>> main
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\VerseVMBytecode"
 /I "Runtime\CoreUObject\Public"
@@ -291,6 +298,7 @@
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
 <<<<<<< HEAD
+<<<<<<< HEAD
 /I "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\UnrealEditor\Inc\CurrencySystem\UHT"
 /I "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source"
 /I "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public"
@@ -299,6 +307,16 @@
 /I "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source"
 /I "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public"
 >>>>>>> WL-PRO-MERGING_CHARACTER_MECHANICS
+=======
+/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\UnrealEditor\Inc\CurrencySystem\UHT"
+/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source"
+/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public"
+=======
+/I "C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\UnrealEditor\Inc\CurrencySystem\UHT"
+/I "C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source"
+/I "C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public"
+>>>>>>> main
+>>>>>>> main
 /external:W0
 /external:I "ThirdParty\GuidelinesSupportLibrary\GSL-1144\include"
 /external:I "ThirdParty\RapidJSON\1.1.0"

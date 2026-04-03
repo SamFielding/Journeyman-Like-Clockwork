@@ -89,8 +89,15 @@
 /DPROJECT_PRODUCT_NAME="Third Person Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=JourneymanProject1
 <<<<<<< HEAD
+<<<<<<< HEAD
 /fo "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
 =======
 /fo "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
 >>>>>>> WL-PRO-MERGING_CHARACTER_MECHANICS
+=======
+/fo "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
+=======
+/fo "C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
+>>>>>>> main
+>>>>>>> main
 "..\Build\Windows\Resources\Default.rc2"

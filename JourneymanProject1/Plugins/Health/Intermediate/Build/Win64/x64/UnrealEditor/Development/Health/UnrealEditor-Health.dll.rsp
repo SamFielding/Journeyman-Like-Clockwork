@@ -41,6 +41,7 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 <<<<<<< HEAD
+<<<<<<< HEAD
 "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Module.Health.cpp.obj"
 "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Health.init.gen.cpp.obj"
@@ -51,6 +52,16 @@
 "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Module.Health.cpp.obj"
 "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Default.rc2.res"
 >>>>>>> WL-PRO-MERGING_CHARACTER_MECHANICS
+=======
+"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Module.Health.cpp.obj"
+"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Default.rc2.res"
+=======
+"C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Module.Health.cpp.obj"
+"C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Default.rc2.res"
+>>>>>>> main
+>>>>>>> main
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
@@ -80,10 +91,19 @@
 "dwmapi.lib"
 "imm32.lib"
 <<<<<<< HEAD
+<<<<<<< HEAD
 /OUT:"C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Binaries\Win64\UnrealEditor-Health.dll"
 /PDB:"C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Binaries\Win64\UnrealEditor-Health.pdb"
 =======
 /OUT:"C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Binaries\Win64\UnrealEditor-Health.dll"
 /PDB:"C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Binaries\Win64\UnrealEditor-Health.pdb"
 >>>>>>> WL-PRO-MERGING_CHARACTER_MECHANICS
+=======
+/OUT:"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Binaries\Win64\UnrealEditor-Health.dll"
+/PDB:"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Binaries\Win64\UnrealEditor-Health.pdb"
+=======
+/OUT:"C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Binaries\Win64\UnrealEditor-Health.dll"
+/PDB:"C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Binaries\Win64\UnrealEditor-Health.pdb"
+>>>>>>> main
+>>>>>>> main
 /ignore:4078

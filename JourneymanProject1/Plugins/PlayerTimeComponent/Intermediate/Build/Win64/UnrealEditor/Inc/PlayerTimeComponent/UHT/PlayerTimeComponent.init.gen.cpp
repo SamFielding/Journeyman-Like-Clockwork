@@ -19,6 +19,7 @@ void EmptyLinkFunctionForGeneratedCodePlayerTimeComponent_init() {}
 				PKG_CompiledIn | 0x00000000,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				0xD06C4411,
 =======
 				0x29F39D17,
@@ -26,6 +27,9 @@ void EmptyLinkFunctionForGeneratedCodePlayerTimeComponent_init() {}
 =======
 				0x1E2309E8,
 >>>>>>> main
+=======
+				0x19DF1F75,
+>>>>>>> origin/KRK_DES_Enemy4
 				0x7804365C,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -35,6 +39,7 @@ void EmptyLinkFunctionForGeneratedCodePlayerTimeComponent_init() {}
 	}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PlayerTimeComponent(Z_Construct_UPackage__Script_PlayerTimeComponent, TEXT("/Script/PlayerTimeComponent"), Z_Registration_Info_UPackage__Script_PlayerTimeComponent, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xD06C4411, 0x7804365C));
 =======
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PlayerTimeComponent(Z_Construct_UPackage__Script_PlayerTimeComponent, TEXT("/Script/PlayerTimeComponent"), Z_Registration_Info_UPackage__Script_PlayerTimeComponent, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x29F39D17, 0x7804365C));
@@ -42,4 +47,7 @@ void EmptyLinkFunctionForGeneratedCodePlayerTimeComponent_init() {}
 =======
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PlayerTimeComponent(Z_Construct_UPackage__Script_PlayerTimeComponent, TEXT("/Script/PlayerTimeComponent"), Z_Registration_Info_UPackage__Script_PlayerTimeComponent, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x1E2309E8, 0x7804365C));
 >>>>>>> main
+=======
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PlayerTimeComponent(Z_Construct_UPackage__Script_PlayerTimeComponent, TEXT("/Script/PlayerTimeComponent"), Z_Registration_Info_UPackage__Script_PlayerTimeComponent, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x19DF1F75, 0x7804365C));
+>>>>>>> origin/KRK_DES_Enemy4
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

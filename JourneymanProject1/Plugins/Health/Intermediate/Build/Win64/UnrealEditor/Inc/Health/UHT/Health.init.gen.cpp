@@ -23,6 +23,7 @@ void EmptyLinkFunctionForGeneratedCodeHealth_init() {}
 				PKG_CompiledIn | 0x00000000,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				0x53854473,
 =======
 				0xB1978FEC,
@@ -30,6 +31,9 @@ void EmptyLinkFunctionForGeneratedCodeHealth_init() {}
 =======
 				0xB5762982,
 >>>>>>> main
+=======
+				0x19B7803B,
+>>>>>>> origin/KRK_DES_Enemy4
 				0x6BFE2CAE,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -39,6 +43,7 @@ void EmptyLinkFunctionForGeneratedCodeHealth_init() {}
 	}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Health(Z_Construct_UPackage__Script_Health, TEXT("/Script/Health"), Z_Registration_Info_UPackage__Script_Health, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x53854473, 0x6BFE2CAE));
 =======
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Health(Z_Construct_UPackage__Script_Health, TEXT("/Script/Health"), Z_Registration_Info_UPackage__Script_Health, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xB1978FEC, 0x6BFE2CAE));
@@ -46,4 +51,7 @@ void EmptyLinkFunctionForGeneratedCodeHealth_init() {}
 =======
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Health(Z_Construct_UPackage__Script_Health, TEXT("/Script/Health"), Z_Registration_Info_UPackage__Script_Health, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xB5762982, 0x6BFE2CAE));
 >>>>>>> main
+=======
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Health(Z_Construct_UPackage__Script_Health, TEXT("/Script/Health"), Z_Registration_Info_UPackage__Script_Health, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x19B7803B, 0x6BFE2CAE));
+>>>>>>> origin/KRK_DES_Enemy4
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

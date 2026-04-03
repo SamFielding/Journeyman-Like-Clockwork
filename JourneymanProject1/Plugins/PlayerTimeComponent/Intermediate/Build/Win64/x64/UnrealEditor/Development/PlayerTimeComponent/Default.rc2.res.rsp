@@ -2,19 +2,11 @@
 /D_WIN64
 /l 0x409
 /I "."
-<<<<<<< HEAD
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE"
+/I "C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-=======
-/I "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.44.35207\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
->>>>>>> main
 /DIS_PROGRAM=0
 /DUE_EDITOR=1
 /DUSE_SHADER_COMPILER_WORKER_TRACE=0
@@ -94,6 +86,7 @@
 /DPROJECT_PRODUCT_IDENTIFIER=JourneymanProject1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /fo "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
 =======
 /fo "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
@@ -101,4 +94,7 @@
 =======
 /fo "C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
 >>>>>>> main
+=======
+/fo "C:\Users\windc\Documents\Unreal Projects\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
+>>>>>>> origin/KRK_DES_Enemy4
 "..\Build\Windows\Resources\Default.rc2"

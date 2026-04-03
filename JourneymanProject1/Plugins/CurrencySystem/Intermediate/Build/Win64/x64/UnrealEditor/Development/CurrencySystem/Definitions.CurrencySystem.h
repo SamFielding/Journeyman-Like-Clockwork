@@ -2,6 +2,7 @@
 #pragma once
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #include "C:/Users/junio/source/Journeyman-Like-Clockwork/JourneymanProject1/Intermediate/Build/Win64/x64/JourneymanProject1Editor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.Cpp20.h"
 =======
 #include "C:/Users/e4135711/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Intermediate/Build/Win64/x64/JourneymanProject1Editor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.Cpp20.h"
@@ -9,6 +10,9 @@
 =======
 #include "C:/Users/E4150013/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Intermediate/Build/Win64/x64/JourneymanProject1Editor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.Cpp20.h"
 >>>>>>> main
+=======
+#include "C:/Users/windc/Documents/Unreal Projects/Journeyman-Like-Clockwork/JourneymanProject1/Intermediate/Build/Win64/x64/JourneymanProject1Editor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.Cpp20.h"
+>>>>>>> origin/KRK_DES_Enemy4
 #undef CURRENCYSYSTEM_API
 #define UE_IS_ENGINE_MODULE 0
 #define UE_DEPRECATED_FORGAME UE_DEPRECATED

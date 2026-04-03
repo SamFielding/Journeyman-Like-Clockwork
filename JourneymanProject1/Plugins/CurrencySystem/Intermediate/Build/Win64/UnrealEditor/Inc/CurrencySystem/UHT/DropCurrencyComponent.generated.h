@@ -16,6 +16,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execDropCurrency);
 
@@ -35,6 +36,13 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 #define FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_INCLASS_NO_PURE_DECLS \
 >>>>>>> main
+=======
+#define FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
+	DECLARE_FUNCTION(execDropCurrency);
+
+
+#define FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_INCLASS_NO_PURE_DECLS \
+>>>>>>> origin/KRK_DES_Enemy4
 private: \
 	static void StaticRegisterNativesUDropCurrencyComponent(); \
 	friend struct Z_Construct_UClass_UDropCurrencyComponent_Statics; \
@@ -45,6 +53,7 @@ public: \
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_ENHANCED_CONSTRUCTORS \
 =======
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_ENHANCED_CONSTRUCTORS \
@@ -52,6 +61,9 @@ public: \
 =======
 #define FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
+=======
+#define FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_ENHANCED_CONSTRUCTORS \
+>>>>>>> origin/KRK_DES_Enemy4
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	UDropCurrencyComponent(UDropCurrencyComponent&&); \
@@ -63,6 +75,7 @@ public: \
 	NO_API virtual ~UDropCurrencyComponent();
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_8_PROLOG
@@ -90,6 +103,15 @@ public: \
 	FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_INCLASS_NO_PURE_DECLS \
 	FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
+=======
+#define FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_8_PROLOG
+#define FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_INCLASS_NO_PURE_DECLS \
+	FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_ENHANCED_CONSTRUCTORS \
+>>>>>>> origin/KRK_DES_Enemy4
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -99,6 +121,7 @@ template<> CURRENCYSYSTEM_API UClass* StaticClass<class UDropCurrencyComponent>(
 #undef CURRENT_FILE_ID
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define CURRENT_FILE_ID FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h
 =======
 #define CURRENT_FILE_ID FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h
@@ -106,6 +129,9 @@ template<> CURRENCYSYSTEM_API UClass* StaticClass<class UDropCurrencyComponent>(
 =======
 #define CURRENT_FILE_ID FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h
 >>>>>>> main
+=======
+#define CURRENT_FILE_ID FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h
+>>>>>>> origin/KRK_DES_Enemy4
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

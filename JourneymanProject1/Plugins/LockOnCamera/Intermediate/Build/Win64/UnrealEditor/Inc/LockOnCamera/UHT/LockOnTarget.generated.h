@@ -16,6 +16,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
 =======
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
@@ -23,10 +24,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 =======
 #define FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
 >>>>>>> main
+=======
+#define FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
+>>>>>>> origin/KRK_DES_Enemy4
 	DECLARE_FUNCTION(execGetOwnerLocation); \
 	DECLARE_FUNCTION(execGetTargetLocation);
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_INCLASS_NO_PURE_DECLS \
@@ -36,6 +41,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 =======
 #define FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_INCLASS_NO_PURE_DECLS \
 >>>>>>> main
+=======
+#define FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_INCLASS_NO_PURE_DECLS \
+>>>>>>> origin/KRK_DES_Enemy4
 private: \
 	static void StaticRegisterNativesULockOnTarget(); \
 	friend struct Z_Construct_UClass_ULockOnTarget_Statics; \
@@ -46,6 +54,7 @@ public: \
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_ENHANCED_CONSTRUCTORS \
 =======
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_ENHANCED_CONSTRUCTORS \
@@ -53,6 +62,9 @@ public: \
 =======
 #define FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
+=======
+#define FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_ENHANCED_CONSTRUCTORS \
+>>>>>>> origin/KRK_DES_Enemy4
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ULockOnTarget(ULockOnTarget&&); \
@@ -64,6 +76,7 @@ public: \
 	NO_API virtual ~ULockOnTarget();
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_8_PROLOG
@@ -91,6 +104,15 @@ public: \
 	FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_INCLASS_NO_PURE_DECLS \
 	FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
+=======
+#define FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_8_PROLOG
+#define FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_INCLASS_NO_PURE_DECLS \
+	FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_11_ENHANCED_CONSTRUCTORS \
+>>>>>>> origin/KRK_DES_Enemy4
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -100,6 +122,7 @@ template<> LOCKONCAMERA_API UClass* StaticClass<class ULockOnTarget>();
 #undef CURRENT_FILE_ID
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define CURRENT_FILE_ID FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h
 =======
 #define CURRENT_FILE_ID FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h
@@ -107,6 +130,9 @@ template<> LOCKONCAMERA_API UClass* StaticClass<class ULockOnTarget>();
 =======
 #define CURRENT_FILE_ID FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h
 >>>>>>> main
+=======
+#define CURRENT_FILE_ID FID_Users_windc_Documents_Unreal_Projects_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h
+>>>>>>> origin/KRK_DES_Enemy4
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

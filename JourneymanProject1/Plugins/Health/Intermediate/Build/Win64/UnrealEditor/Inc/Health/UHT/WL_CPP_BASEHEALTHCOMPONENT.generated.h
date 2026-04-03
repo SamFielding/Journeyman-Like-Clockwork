@@ -15,11 +15,19 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define HEALTH_WL_CPP_BASEHEALTHCOMPONENT_generated_h
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_13_DELEGATE \
 HEALTH_API void FOnTakenDamage_DelegateWrapper(const FMulticastScriptDelegate& OnTakenDamage);
 
 
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+=======
+#define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_13_DELEGATE \
+HEALTH_API void FOnTakenDamage_DelegateWrapper(const FMulticastScriptDelegate& OnTakenDamage);
+
+
+#define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+>>>>>>> main
 =======
 #define FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_13_DELEGATE \
 HEALTH_API void FOnTakenDamage_DelegateWrapper(const FMulticastScriptDelegate& OnTakenDamage);
@@ -35,7 +43,11 @@ HEALTH_API void FOnTakenDamage_DelegateWrapper(const FMulticastScriptDelegate& O
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_INCLASS_NO_PURE_DECLS \
+=======
+#define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_INCLASS_NO_PURE_DECLS \
+>>>>>>> main
 =======
 #define FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_INCLASS_NO_PURE_DECLS \
 >>>>>>> main
@@ -48,7 +60,11 @@ public: \
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_ENHANCED_CONSTRUCTORS \
+=======
+#define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_ENHANCED_CONSTRUCTORS \
+>>>>>>> main
 =======
 #define FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
@@ -64,6 +80,7 @@ public: \
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_15_PROLOG
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
@@ -71,6 +88,15 @@ public: \
 	FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
 	FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_INCLASS_NO_PURE_DECLS \
 	FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_ENHANCED_CONSTRUCTORS \
+=======
+#define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_15_PROLOG
+#define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_INCLASS_NO_PURE_DECLS \
+	FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_ENHANCED_CONSTRUCTORS \
+>>>>>>> main
 =======
 #define FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_15_PROLOG
 #define FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_GENERATED_BODY \
@@ -88,7 +114,11 @@ template<> HEALTH_API UClass* StaticClass<class UWL_CPP_BASEHEALTHCOMPONENT>();
 
 #undef CURRENT_FILE_ID
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define CURRENT_FILE_ID FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h
+=======
+#define CURRENT_FILE_ID FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h
+>>>>>>> main
 =======
 #define CURRENT_FILE_ID FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h
 >>>>>>> main

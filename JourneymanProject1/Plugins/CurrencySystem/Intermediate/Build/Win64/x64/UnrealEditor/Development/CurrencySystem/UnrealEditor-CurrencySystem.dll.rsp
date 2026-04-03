@@ -43,9 +43,15 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 <<<<<<< HEAD
+<<<<<<< HEAD
 "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Module.CurrencySystem.cpp.obj"
 "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Default.rc2.res"
+=======
+"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Module.CurrencySystem.cpp.obj"
+"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Default.rc2.res"
+>>>>>>> main
 =======
 "C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Module.CurrencySystem.cpp.obj"
@@ -80,8 +86,13 @@
 "dwmapi.lib"
 "imm32.lib"
 <<<<<<< HEAD
+<<<<<<< HEAD
 /OUT:"C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Binaries\Win64\UnrealEditor-CurrencySystem.dll"
 /PDB:"C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Binaries\Win64\UnrealEditor-CurrencySystem.pdb"
+=======
+/OUT:"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Binaries\Win64\UnrealEditor-CurrencySystem.dll"
+/PDB:"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Binaries\Win64\UnrealEditor-CurrencySystem.pdb"
+>>>>>>> main
 =======
 /OUT:"C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Binaries\Win64\UnrealEditor-CurrencySystem.dll"
 /PDB:"C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Binaries\Win64\UnrealEditor-CurrencySystem.pdb"

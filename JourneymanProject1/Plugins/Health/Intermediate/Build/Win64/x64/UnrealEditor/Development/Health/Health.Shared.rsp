@@ -1,6 +1,10 @@
 /I "."
 <<<<<<< HEAD
+<<<<<<< HEAD
 /I "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Private"
+=======
+/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Private"
+>>>>>>> main
 =======
 /I "C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Private"
 >>>>>>> main
@@ -291,9 +295,15 @@
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
 <<<<<<< HEAD
+<<<<<<< HEAD
 /I "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\UnrealEditor\Inc\Health\UHT"
 /I "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source"
 /I "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Public"
+=======
+/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\UnrealEditor\Inc\Health\UHT"
+/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source"
+/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Public"
+>>>>>>> main
 =======
 /I "C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\UnrealEditor\Inc\Health\UHT"
 /I "C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source"

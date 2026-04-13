@@ -16,6 +16,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
 =======
 #define FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
@@ -26,10 +27,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
 >>>>>>> main
 >>>>>>> main
+=======
+#define FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+>>>>>>> origin/KH-DES-UIAndSound11
 	DECLARE_FUNCTION(execRemoveCurrency); \
 	DECLARE_FUNCTION(execAddCurrency);
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_INCLASS_NO_PURE_DECLS \
@@ -42,6 +47,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_INCLASS_NO_PURE_DECLS \
 >>>>>>> main
 >>>>>>> main
+=======
+#define FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_INCLASS_NO_PURE_DECLS \
+>>>>>>> origin/KH-DES-UIAndSound11
 private: \
 	static void StaticRegisterNativesUCurrencyManager(); \
 	friend struct Z_Construct_UClass_UCurrencyManager_Statics; \
@@ -50,6 +58,7 @@ public: \
 	DECLARE_SERIALIZER(UCurrencyManager)
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_ENHANCED_CONSTRUCTORS \
@@ -62,6 +71,9 @@ public: \
 #define FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
 >>>>>>> main
+=======
+#define FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_ENHANCED_CONSTRUCTORS \
+>>>>>>> origin/KH-DES-UIAndSound11
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	UCurrencyManager(UCurrencyManager&&); \
@@ -73,6 +85,7 @@ public: \
 	NO_API virtual ~UCurrencyManager();
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_7_PROLOG
@@ -109,6 +122,15 @@ public: \
 	FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
 >>>>>>> main
+=======
+#define FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_7_PROLOG
+#define FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_INCLASS_NO_PURE_DECLS \
+	FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_ENHANCED_CONSTRUCTORS \
+>>>>>>> origin/KH-DES-UIAndSound11
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -116,6 +138,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> CURRENCYSYSTEM_API UClass* StaticClass<class UCurrencyManager>();
 
 #undef CURRENT_FILE_ID
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 #define CURRENT_FILE_ID FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h
@@ -128,6 +151,9 @@ template<> CURRENCYSYSTEM_API UClass* StaticClass<class UCurrencyManager>();
 #define CURRENT_FILE_ID FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h
 >>>>>>> main
 >>>>>>> main
+=======
+#define CURRENT_FILE_ID FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h
+>>>>>>> origin/KH-DES-UIAndSound11
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

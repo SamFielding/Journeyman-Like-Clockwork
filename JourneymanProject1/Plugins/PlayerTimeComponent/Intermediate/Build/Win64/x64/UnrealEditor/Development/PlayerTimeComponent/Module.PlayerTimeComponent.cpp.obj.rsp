@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Module.PlayerTimeComponent.cpp"
 /FI"C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
 /FI"C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Definitions.PlayerTimeComponent.h"
@@ -42,6 +43,17 @@
 @"C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\PlayerTimeComponent.Shared.rsp"
 >>>>>>> main
 >>>>>>> main
+=======
+"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Module.PlayerTimeComponent.cpp"
+/FI"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Definitions.PlayerTimeComponent.h"
+/Yu"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Module.PlayerTimeComponent.cpp.obj"
+/experimental:log "C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Module.PlayerTimeComponent.cpp.sarif"
+/sourceDependencies "C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Module.PlayerTimeComponent.cpp.dep.json"
+@"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\PlayerTimeComponent.Shared.rsp"
+>>>>>>> origin/KH-DES-UIAndSound11
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

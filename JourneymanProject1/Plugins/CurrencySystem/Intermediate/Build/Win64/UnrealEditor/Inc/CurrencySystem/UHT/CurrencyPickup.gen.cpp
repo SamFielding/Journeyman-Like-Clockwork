@@ -89,6 +89,7 @@ ACurrencyPickup::~ACurrencyPickup() {}
 // Begin Registration
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 struct Z_CompiledInDeferFile_FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_Statics
 =======
 struct Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_Statics
@@ -99,11 +100,15 @@ struct Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like
 struct Z_CompiledInDeferFile_FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_Statics
 >>>>>>> main
 >>>>>>> main
+=======
+struct Z_CompiledInDeferFile_FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_Statics
+>>>>>>> origin/KH-DES-UIAndSound11
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ACurrencyPickup, ACurrencyPickup::StaticClass, TEXT("ACurrencyPickup"), &Z_Registration_Info_UClass_ACurrencyPickup, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACurrencyPickup), 1606659507U) },
 	};
 };
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_3333820061(TEXT("/Script/CurrencySystem"),
@@ -120,6 +125,10 @@ static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_E4150013_Document
 	Z_CompiledInDeferFile_FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_Statics::ClassInfo),
 >>>>>>> main
 >>>>>>> main
+=======
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_3333820061(TEXT("/Script/CurrencySystem"),
+	Z_CompiledInDeferFile_FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_Statics::ClassInfo),
+>>>>>>> origin/KH-DES-UIAndSound11
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

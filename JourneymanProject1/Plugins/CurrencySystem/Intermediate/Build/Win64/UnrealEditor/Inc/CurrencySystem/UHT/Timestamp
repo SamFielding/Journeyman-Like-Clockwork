@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\CurrencyManager.h
 C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\PickupBase.h
 C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\CurrencyPickup.h
@@ -26,3 +27,10 @@ C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\
 C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\CurrencyPickup.h
 >>>>>>> main
 >>>>>>> main
+=======
+C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\CurrencyManager.h
+C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\CurrencyPickup.h
+C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\PickupBase.h
+C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\DropCurrencyComponent.h
+C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\PickupManager.h
+>>>>>>> origin/KH-DES-UIAndSound11

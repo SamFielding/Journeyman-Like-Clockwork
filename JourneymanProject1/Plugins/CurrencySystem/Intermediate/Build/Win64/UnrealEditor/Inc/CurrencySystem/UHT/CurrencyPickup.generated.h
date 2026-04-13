@@ -16,6 +16,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_INCLASS_NO_PURE_DECLS \
 =======
 #define FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_INCLASS_NO_PURE_DECLS \
@@ -26,6 +27,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_INCLASS_NO_PURE_DECLS \
 >>>>>>> main
 >>>>>>> main
+=======
+#define FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_INCLASS_NO_PURE_DECLS \
+>>>>>>> origin/KH-DES-UIAndSound11
 private: \
 	static void StaticRegisterNativesACurrencyPickup(); \
 	friend struct Z_Construct_UClass_ACurrencyPickup_Statics; \
@@ -34,6 +38,7 @@ public: \
 	DECLARE_SERIALIZER(ACurrencyPickup)
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_ENHANCED_CONSTRUCTORS \
@@ -46,6 +51,9 @@ public: \
 #define FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
 >>>>>>> main
+=======
+#define FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_ENHANCED_CONSTRUCTORS \
+>>>>>>> origin/KH-DES-UIAndSound11
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ACurrencyPickup(ACurrencyPickup&&); \
@@ -57,6 +65,7 @@ public: \
 	NO_API virtual ~ACurrencyPickup();
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 #define FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_9_PROLOG
@@ -89,6 +98,14 @@ public: \
 	FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
 >>>>>>> main
+=======
+#define FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_9_PROLOG
+#define FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_ENHANCED_CONSTRUCTORS \
+>>>>>>> origin/KH-DES-UIAndSound11
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -96,6 +113,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> CURRENCYSYSTEM_API UClass* StaticClass<class ACurrencyPickup>();
 
 #undef CURRENT_FILE_ID
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 #define CURRENT_FILE_ID FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h
@@ -108,6 +126,9 @@ template<> CURRENCYSYSTEM_API UClass* StaticClass<class ACurrencyPickup>();
 #define CURRENT_FILE_ID FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h
 >>>>>>> main
 >>>>>>> main
+=======
+#define CURRENT_FILE_ID FID_Users_kathr_OneDrive_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h
+>>>>>>> origin/KH-DES-UIAndSound11
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

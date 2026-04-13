@@ -8,6 +8,7 @@
 /NODEFAULTLIB
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Module.Health.cpp.obj"
 "C:\Users\junio\source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Health.init.gen.cpp.obj"
@@ -32,3 +33,9 @@
 /OUT:"C:\Users\E4150013\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\UnrealEditor-Health.lib"
 >>>>>>> main
 >>>>>>> main
+=======
+"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Module.Health.cpp.obj"
+"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Default.rc2.res"
+/OUT:"C:\Users\kathr\OneDrive\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\UnrealEditor-Health.lib"
+>>>>>>> origin/KH-DES-UIAndSound11

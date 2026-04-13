@@ -19,6 +19,7 @@ void EmptyLinkFunctionForGeneratedCodePlayerTimeComponent_init() {}
 				PKG_CompiledIn | 0x00000000,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				0xD06C4411,
 =======
 				0xD30DB771,
@@ -29,6 +30,9 @@ void EmptyLinkFunctionForGeneratedCodePlayerTimeComponent_init() {}
 				0x1E2309E8,
 >>>>>>> main
 >>>>>>> main
+=======
+				0xBE7D2D6A,
+>>>>>>> origin/KH-DES-UIAndSound11
 				0x7804365C,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -36,6 +40,7 @@ void EmptyLinkFunctionForGeneratedCodePlayerTimeComponent_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_PlayerTimeComponent.OuterSingleton;
 	}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PlayerTimeComponent(Z_Construct_UPackage__Script_PlayerTimeComponent, TEXT("/Script/PlayerTimeComponent"), Z_Registration_Info_UPackage__Script_PlayerTimeComponent, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xD06C4411, 0x7804365C));
@@ -48,4 +53,7 @@ void EmptyLinkFunctionForGeneratedCodePlayerTimeComponent_init() {}
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PlayerTimeComponent(Z_Construct_UPackage__Script_PlayerTimeComponent, TEXT("/Script/PlayerTimeComponent"), Z_Registration_Info_UPackage__Script_PlayerTimeComponent, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x1E2309E8, 0x7804365C));
 >>>>>>> main
 >>>>>>> main
+=======
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PlayerTimeComponent(Z_Construct_UPackage__Script_PlayerTimeComponent, TEXT("/Script/PlayerTimeComponent"), Z_Registration_Info_UPackage__Script_PlayerTimeComponent, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xBE7D2D6A, 0x7804365C));
+>>>>>>> origin/KH-DES-UIAndSound11
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

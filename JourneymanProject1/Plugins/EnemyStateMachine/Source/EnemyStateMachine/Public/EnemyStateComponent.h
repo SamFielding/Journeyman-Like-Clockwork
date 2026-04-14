@@ -23,7 +23,7 @@ public:
 	UPROPERTY(BlueprintAssignable)
 	FOnEnemyStateExits OnEnemyStateExits;
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
-	EEnemyStates currentState{ EEnemyStates::RESET };
+	EEnemyStates currentState = EEnemyStates::RESET;
 	UFUNCTION(BlueprintCallable, meta = (ExpandEnumAsExecs = "OutputPin"))
 	void SwitchOnEnemyState(EEnemyStates& OutputPin);
 	UFUNCTION(BlueprintCallable)

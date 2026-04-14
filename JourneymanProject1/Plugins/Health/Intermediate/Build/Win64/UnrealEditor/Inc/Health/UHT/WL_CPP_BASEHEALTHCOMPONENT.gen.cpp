@@ -389,10 +389,14 @@ struct Z_CompiledInDeferFile_FID_Users_junio_source_Journeyman_Like_Clockwork_Jo
 };
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_2487398827(TEXT("/Script/Health"),
 	Z_CompiledInDeferFile_FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_junio_source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo),
 =======
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_1711400944(TEXT("/Script/Health"),
+=======
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_2487398827(TEXT("/Script/Health"),
+>>>>>>> parent of dc32e3f2 (asfwa)
 =======
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_2487398827(TEXT("/Script/Health"),
 >>>>>>> parent of dc32e3f2 (asfwa)

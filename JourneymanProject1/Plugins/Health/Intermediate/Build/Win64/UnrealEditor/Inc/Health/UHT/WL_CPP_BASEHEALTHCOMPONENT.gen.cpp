@@ -304,6 +304,10 @@ struct Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT_Statics
 		{ "IncludePath", "WL_CPP_BASEHEALTHCOMPONENT.h" },
 		{ "ModuleRelativePath", "Public/WL_CPP_BASEHEALTHCOMPONENT.h" },
 	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_canDamage_MetaData[] = {
+		{ "Category", "Set Can Damage" },
+		{ "ModuleRelativePath", "Public/WL_CPP_BASEHEALTHCOMPONENT.h" },
+	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_MaxHealth_MetaData[] = {
 		{ "Category", "Set Max Health" },
 		{ "ModuleRelativePath", "Public/WL_CPP_BASEHEALTHCOMPONENT.h" },
@@ -317,6 +321,8 @@ struct Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT_Statics
 		{ "ModuleRelativePath", "Public/WL_CPP_BASEHEALTHCOMPONENT.h" },
 	};
 #endif // WITH_METADATA
+	static void NewProp_canDamage_SetBit(void* Obj);
+	static const UECodeGen_Private::FBoolPropertyParams NewProp_canDamage;
 	static const UECodeGen_Private::FFloatPropertyParams NewProp_MaxHealth;
 	static const UECodeGen_Private::FFloatPropertyParams NewProp_CurrentHealth;
 	static const UECodeGen_Private::FMulticastDelegatePropertyParams NewProp_OnTakenDamage;
@@ -335,10 +341,16 @@ struct Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT_Statics
 	};
 	static const UECodeGen_Private::FClassParams ClassParams;
 };
+void Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT_Statics::NewProp_canDamage_SetBit(void* Obj)
+{
+	((UWL_CPP_BASEHEALTHCOMPONENT*)Obj)->canDamage = 1;
+}
+const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT_Statics::NewProp_canDamage = { "canDamage", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, sizeof(bool), sizeof(UWL_CPP_BASEHEALTHCOMPONENT), &Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT_Statics::NewProp_canDamage_SetBit, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_canDamage_MetaData), NewProp_canDamage_MetaData) };
 const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT_Statics::NewProp_MaxHealth = { "MaxHealth", nullptr, (EPropertyFlags)0x0010000000000015, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UWL_CPP_BASEHEALTHCOMPONENT, MaxHealth), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_MaxHealth_MetaData), NewProp_MaxHealth_MetaData) };
 const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT_Statics::NewProp_CurrentHealth = { "CurrentHealth", nullptr, (EPropertyFlags)0x0010000000000015, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UWL_CPP_BASEHEALTHCOMPONENT, CurrentHealth), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_CurrentHealth_MetaData), NewProp_CurrentHealth_MetaData) };
 const UECodeGen_Private::FMulticastDelegatePropertyParams Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT_Statics::NewProp_OnTakenDamage = { "OnTakenDamage", nullptr, (EPropertyFlags)0x0010000010080000, UECodeGen_Private::EPropertyGenFlags::InlineMulticastDelegate, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UWL_CPP_BASEHEALTHCOMPONENT, OnTakenDamage), Z_Construct_UDelegateFunction_Health_OnTakenDamage__DelegateSignature, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_OnTakenDamage_MetaData), NewProp_OnTakenDamage_MetaData) }; // 1338827116
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT_Statics::PropPointers[] = {
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT_Statics::NewProp_canDamage,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT_Statics::NewProp_MaxHealth,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT_Statics::NewProp_CurrentHealth,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT_Statics::NewProp_OnTakenDamage,
@@ -381,23 +393,14 @@ UWL_CPP_BASEHEALTHCOMPONENT::~UWL_CPP_BASEHEALTHCOMPONENT() {}
 // End Class UWL_CPP_BASEHEALTHCOMPONENT
 
 // Begin Registration
-<<<<<<< HEAD
-struct Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics
-=======
-struct Z_CompiledInDeferFile_FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics
->>>>>>> main
+struct Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT, UWL_CPP_BASEHEALTHCOMPONENT::StaticClass, TEXT("UWL_CPP_BASEHEALTHCOMPONENT"), &Z_Registration_Info_UClass_UWL_CPP_BASEHEALTHCOMPONENT, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UWL_CPP_BASEHEALTHCOMPONENT), 2572751673U) },
+		{ Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT, UWL_CPP_BASEHEALTHCOMPONENT::StaticClass, TEXT("UWL_CPP_BASEHEALTHCOMPONENT"), &Z_Registration_Info_UClass_UWL_CPP_BASEHEALTHCOMPONENT, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UWL_CPP_BASEHEALTHCOMPONENT), 3439365174U) },
 	};
 };
-<<<<<<< HEAD
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_2487398827(TEXT("/Script/Health"),
-	Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo),
-=======
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_2487398827(TEXT("/Script/Health"),
-	Z_CompiledInDeferFile_FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_E4150013_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo),
->>>>>>> main
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_1711400944(TEXT("/Script/Health"),
+	Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

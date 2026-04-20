@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Module.CurrencySystem.cpp"
 /FI"C:\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
 /FI"C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Definitions.CurrencySystem.h"
@@ -7,6 +8,17 @@
 /experimental:log "C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Module.CurrencySystem.cpp.sarif"
 /sourceDependencies "C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Module.CurrencySystem.cpp.dep.json"
 @"C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\CurrencySystem.Shared.rsp"
+=======
+"C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Module.CurrencySystem.cpp"
+/FI"C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Definitions.CurrencySystem.h"
+/Yu"C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Module.CurrencySystem.cpp.obj"
+/experimental:log "C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Module.CurrencySystem.cpp.sarif"
+/sourceDependencies "C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Module.CurrencySystem.cpp.dep.json"
+@"C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\CurrencySystem.Shared.rsp"
+>>>>>>> main
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

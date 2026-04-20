@@ -6,6 +6,7 @@
 /NAME:"UnrealEditor-LockOnCamera.dll"
 /IGNORE:4221
 /NODEFAULTLIB
+<<<<<<< HEAD
 "C:\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Module.LockOnCamera.cpp.obj"
 "C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\LockOnCamera.init.gen.cpp.obj"
@@ -13,3 +14,9 @@
 "C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\LockOnTarget.gen.cpp.obj"
 "C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Default.rc2.res"
 /OUT:"C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\UnrealEditor-LockOnCamera.lib"
+=======
+"C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Module.LockOnCamera.cpp.obj"
+"C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Default.rc2.res"
+/OUT:"C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\UnrealEditor-LockOnCamera.lib"
+>>>>>>> main

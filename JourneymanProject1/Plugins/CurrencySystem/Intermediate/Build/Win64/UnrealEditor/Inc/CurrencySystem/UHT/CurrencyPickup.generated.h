@@ -14,7 +14,11 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define CURRENCYSYSTEM_CurrencyPickup_generated_h
 
+<<<<<<< HEAD
 #define FID_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_INCLASS_NO_PURE_DECLS \
+=======
+#define FID_github_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_INCLASS_NO_PURE_DECLS \
+>>>>>>> main
 private: \
 	static void StaticRegisterNativesACurrencyPickup(); \
 	friend struct Z_Construct_UClass_ACurrencyPickup_Statics; \
@@ -23,7 +27,11 @@ public: \
 	DECLARE_SERIALIZER(ACurrencyPickup)
 
 
+<<<<<<< HEAD
 #define FID_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_ENHANCED_CONSTRUCTORS \
+=======
+#define FID_github_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_ENHANCED_CONSTRUCTORS \
+>>>>>>> main
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ACurrencyPickup(ACurrencyPickup&&); \
@@ -35,12 +43,21 @@ public: \
 	NO_API virtual ~ACurrencyPickup();
 
 
+<<<<<<< HEAD
 #define FID_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_9_PROLOG
 #define FID_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	FID_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_INCLASS_NO_PURE_DECLS \
 	FID_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_ENHANCED_CONSTRUCTORS \
+=======
+#define FID_github_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_9_PROLOG
+#define FID_github_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_github_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_INCLASS_NO_PURE_DECLS \
+	FID_github_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_ENHANCED_CONSTRUCTORS \
+>>>>>>> main
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +65,11 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> CURRENCYSYSTEM_API UClass* StaticClass<class ACurrencyPickup>();
 
 #undef CURRENT_FILE_ID
+<<<<<<< HEAD
 #define CURRENT_FILE_ID FID_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h
+=======
+#define CURRENT_FILE_ID FID_github_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h
+>>>>>>> main
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

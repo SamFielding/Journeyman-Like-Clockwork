@@ -6,6 +6,7 @@
 /NAME:"UnrealEditor-CurrencySystem.dll"
 /IGNORE:4221
 /NODEFAULTLIB
+<<<<<<< HEAD
 "C:\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Module.CurrencySystem.cpp.obj"
 "C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\CurrencyManager.gen.cpp.obj"
@@ -14,3 +15,9 @@
 "C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\DropCurrencyComponent.gen.cpp.obj"
 "C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Default.rc2.res"
 /OUT:"C:\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\UnrealEditor-CurrencySystem.lib"
+=======
+"C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Module.CurrencySystem.cpp.obj"
+"C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\Default.rc2.res"
+/OUT:"C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\UnrealEditor-CurrencySystem.lib"
+>>>>>>> main

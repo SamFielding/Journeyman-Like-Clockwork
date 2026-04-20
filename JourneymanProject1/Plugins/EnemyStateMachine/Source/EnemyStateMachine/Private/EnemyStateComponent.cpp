@@ -22,15 +22,10 @@ void UEnemyStateComponent::SwitchOnEnemyState(EEnemyStates& OutputPin)
 
 void UEnemyStateComponent::ChangeState(EEnemyStates newState)
 {
-	if (currentState != EEnemyStates::RESET && newState != EEnemyStates::RESET)
-	{
-		return;
-	}
 
 	OnEnemyStateExits.Broadcast();
 	currentState = newState;
 	OnEnemyStateEntries.Broadcast();
-
 }
 
 // Called when the game starts

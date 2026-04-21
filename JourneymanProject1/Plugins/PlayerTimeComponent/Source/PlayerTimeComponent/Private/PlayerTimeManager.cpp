@@ -13,6 +13,11 @@ bool UPlayerTimeManager::IsPlayerOutOfTime() const
 void UPlayerTimeManager::TimeTickDown(float DeltaTime)
 {
 	CurrentPlayerTime = FMath::Clamp(CurrentPlayerTime - TickDownRate * DeltaTime, 0.f, MaxPlayerTime);
+
+	if (IsPlayerOutOfTime())
+	{
+		OnPlayerTimeOut.Broadcast();
+	}
 }
 
 void UPlayerTimeManager::AddTime(float Time)

@@ -21,6 +21,8 @@ public:
 	// Sets default values for this component's properties
 	UWL_CPP_BASEHEALTHCOMPONENT();
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Set Can Damage")
+	bool canDamage{ true };
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Set Max Health")
 	float MaxHealth = 100.0f;
@@ -36,10 +38,18 @@ public:
 	{	
 		return (CurrentHealth > 0);
 	}
-
+	
+	void SetCanDamage(bool Toggle)
+	{
+		canDamage = Toggle;
+	}
+	
 	UFUNCTION(BlueprintCallable, Category = "Current Health Status", meta = (ToolTip = "- Damages the actor by a specified amount"))
 	void TakeDamage(float Damage)
 	{
+		if (!canDamage)
+			return;
+	
 		CurrentHealth = FMath::Clamp(CurrentHealth - Damage, 0.f, MaxHealth);
 		UE_LOG(LogTemp, Warning, TEXT("OW"));
 		OnTakenDamage.Broadcast();

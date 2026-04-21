@@ -1,17 +1,5 @@
 /I "."
-<<<<<<< HEAD
-<<<<<<< HEAD
-/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Source\PlayerTimeComponent\Private"
-=======
-<<<<<<< HEAD
-/I "C:\Users\E4125334\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Source\PlayerTimeComponent\Private"
-=======
-/I "C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Source\PlayerTimeComponent\Private"
->>>>>>> main
->>>>>>> main
-=======
 /I "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Source\PlayerTimeComponent\Private"
->>>>>>> main
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\VerseVMBytecode"
 /I "Runtime\CoreUObject\Public"
@@ -298,47 +286,20 @@
 /I "Editor\SceneDepthPickerMode\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
-<<<<<<< HEAD
-<<<<<<< HEAD
-/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\UnrealEditor\Inc\PlayerTimeComponent\UHT"
-/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Source"
-/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Source\PlayerTimeComponent\Public"
-/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\UnrealEditor\Inc\CurrencySystem\UHT"
-/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source"
-/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public"
-=======
-<<<<<<< HEAD
-/I "C:\Users\E4125334\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\UnrealEditor\Inc\PlayerTimeComponent\UHT"
-/I "C:\Users\E4125334\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Source"
-/I "C:\Users\E4125334\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Source\PlayerTimeComponent\Public"
-/I "C:\Users\E4125334\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\UnrealEditor\Inc\CurrencySystem\UHT"
-/I "C:\Users\E4125334\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source"
-/I "C:\Users\E4125334\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public"
-=======
-/I "C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\UnrealEditor\Inc\PlayerTimeComponent\UHT"
-/I "C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Source"
-/I "C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Source\PlayerTimeComponent\Public"
-/I "C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\UnrealEditor\Inc\CurrencySystem\UHT"
-/I "C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source"
-/I "C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public"
->>>>>>> main
->>>>>>> main
-=======
 /I "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\UnrealEditor\Inc\PlayerTimeComponent\UHT"
 /I "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Source"
 /I "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Source\PlayerTimeComponent\Public"
 /I "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\UnrealEditor\Inc\CurrencySystem\UHT"
 /I "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source"
 /I "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public"
->>>>>>> main
 /external:W0
 /external:I "ThirdParty\GuidelinesSupportLibrary\GSL-1144\include"
 /external:I "ThirdParty\RapidJSON\1.1.0"
 /external:I "ThirdParty\LibTiff\Source\Win64"
 /external:I "ThirdParty\LibTiff\Source"
 /external:I "ThirdParty\OpenGL"
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.44.35207\INCLUDE"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\INCLUDE"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"

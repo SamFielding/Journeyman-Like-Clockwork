@@ -18,6 +18,7 @@ void EmptyLinkFunctionForGeneratedCodeCurrencySystem_init() {}
 				0,
 				PKG_CompiledIn | 0x00000000,
 <<<<<<< HEAD
+<<<<<<< HEAD
 				0xA80DA5C8,
 =======
 <<<<<<< HEAD
@@ -25,6 +26,9 @@ void EmptyLinkFunctionForGeneratedCodeCurrencySystem_init() {}
 =======
 				0xCF064D0C,
 >>>>>>> main
+>>>>>>> main
+=======
+				0x9C657AC1,
 >>>>>>> main
 				0x0C270F8D,
 				METADATA_PARAMS(0, nullptr)
@@ -34,6 +38,7 @@ void EmptyLinkFunctionForGeneratedCodeCurrencySystem_init() {}
 		return Z_Registration_Info_UPackage__Script_CurrencySystem.OuterSingleton;
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xA80DA5C8, 0x0C270F8D));
 =======
 <<<<<<< HEAD
@@ -41,5 +46,8 @@ void EmptyLinkFunctionForGeneratedCodeCurrencySystem_init() {}
 =======
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xCF064D0C, 0x0C270F8D));
 >>>>>>> main
+>>>>>>> main
+=======
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x9C657AC1, 0x0C270F8D));
 >>>>>>> main
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -2,6 +2,7 @@
     "Version": "1.2",
     "Data": {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "Source": "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\health\\module.health.cpp",
 =======
 <<<<<<< HEAD
@@ -20,6 +21,8 @@
             "c:\\users\\e4125334\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\public\\health.h",
             "c:\\users\\e4125334\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\private\\wl_cpp_basehealthcomponent.cpp"
 =======
+=======
+>>>>>>> main
         "Source": "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\health\\module.health.cpp",
 >>>>>>> main
         "ProvidedModule": "",
@@ -40,7 +43,10 @@
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\private\\health.cpp",
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\public\\health.h",
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\private\\wl_cpp_basehealthcomponent.cpp"
+<<<<<<< HEAD
 >>>>>>> main
+>>>>>>> main
+=======
 >>>>>>> main
         ],
         "ImportedModules": [],

@@ -37,6 +37,7 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 <<<<<<< HEAD
+<<<<<<< HEAD
 "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Module.Health.cpp.obj"
 "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Default.rc2.res"
@@ -52,6 +53,11 @@
 "C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\WL_CPP_BASEHEALTHCOMPONENT.gen.cpp.obj"
 "C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Default.rc2.res"
 >>>>>>> main
+>>>>>>> main
+=======
+"C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Module.Health.cpp.obj"
+"C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Default.rc2.res"
 >>>>>>> main
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -82,6 +88,7 @@
 "dwmapi.lib"
 "imm32.lib"
 <<<<<<< HEAD
+<<<<<<< HEAD
 /OUT:"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Binaries\Win64\UnrealEditor-Health.dll"
 /PDB:"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Binaries\Win64\UnrealEditor-Health.pdb"
 =======
@@ -92,5 +99,9 @@
 /OUT:"C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Binaries\Win64\UnrealEditor-Health.dll"
 /PDB:"C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Binaries\Win64\UnrealEditor-Health.pdb"
 >>>>>>> main
+>>>>>>> main
+=======
+/OUT:"C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Binaries\Win64\UnrealEditor-Health.dll"
+/PDB:"C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Binaries\Win64\UnrealEditor-Health.pdb"
 >>>>>>> main
 /ignore:4078

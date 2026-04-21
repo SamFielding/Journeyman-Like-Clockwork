@@ -2,6 +2,7 @@
     "Version": "1.2",
     "Data": {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "Source": "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lockoncamera\\module.lockoncamera.cpp",
 =======
 <<<<<<< HEAD
@@ -14,6 +15,8 @@
             "c:\\users\\e4125334\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\unrealeditor\\inc\\lockoncamera\\uht\\lockoncameracomponent.gen.cpp",
             "c:\\users\\e4125334\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\public\\lockoncameracomponent.h",
 =======
+=======
+>>>>>>> main
         "Source": "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lockoncamera\\module.lockoncamera.cpp",
 >>>>>>> main
         "ProvidedModule": "",
@@ -29,7 +32,10 @@
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\unrealeditor\\inc\\lockoncamera\\uht\\lockoncamera.init.gen.cpp",
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\unrealeditor\\inc\\lockoncamera\\uht\\lockoncameracomponent.gen.cpp",
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\public\\lockoncameracomponent.h",
+<<<<<<< HEAD
 >>>>>>> main
+>>>>>>> main
+=======
 >>>>>>> main
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\umg\\public\\components\\widgetcomponent.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\umg\\public\\blueprint\\userwidget.h",
@@ -68,6 +74,7 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
 <<<<<<< HEAD
+<<<<<<< HEAD
             "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\unrealeditor\\inc\\lockoncamera\\uht\\lockoncameracomponent.generated.h",
             "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\unrealeditor\\inc\\lockoncamera\\uht\\lockontarget.gen.cpp",
             "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\public\\lockontarget.h",
@@ -88,6 +95,8 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\overlapresult.generated.h",
             "c:\\users\\e4125334\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\private\\lockontarget.cpp"
 =======
+=======
+>>>>>>> main
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\unrealeditor\\inc\\lockoncamera\\uht\\lockoncameracomponent.generated.h",
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\unrealeditor\\inc\\lockoncamera\\uht\\lockontarget.gen.cpp",
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\public\\lockontarget.h",
@@ -104,7 +113,10 @@
             "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\private\\lockontarget.cpp"
 =======
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\private\\lockontarget.cpp"
+<<<<<<< HEAD
 >>>>>>> main
+>>>>>>> main
+=======
 >>>>>>> main
         ],
         "ImportedModules": [],

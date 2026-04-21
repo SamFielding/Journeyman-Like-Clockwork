@@ -2,6 +2,7 @@
     "Version": "1.2",
     "Data": {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "Source": "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\playertimecomponent\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\playertimecomponent\\module.playertimecomponent.cpp",
 =======
 <<<<<<< HEAD
@@ -16,6 +17,8 @@
             "c:\\users\\e4125334\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\pickupmanager.h",
             "c:\\users\\e4125334\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\pickupbase.h",
 =======
+=======
+>>>>>>> main
         "Source": "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\playertimecomponent\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\playertimecomponent\\module.playertimecomponent.cpp",
 >>>>>>> main
         "ProvidedModule": "",
@@ -35,7 +38,10 @@
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\playertimecomponent\\source\\playertimecomponent\\public\\playertimemanager.h",
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\pickupmanager.h",
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\source\\currencysystem\\public\\pickupbase.h",
+<<<<<<< HEAD
 >>>>>>> main
+>>>>>>> main
+=======
 >>>>>>> main
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
@@ -43,6 +49,7 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\capsulecomponent.generated.h",
+<<<<<<< HEAD
 <<<<<<< HEAD
             "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupbase.generated.h",
             "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupmanager.generated.h",
@@ -71,6 +78,8 @@
             "c:\\users\\e4125334\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\playertimecomponent\\source\\playertimecomponent\\private\\playertimemanager.cpp",
             "c:\\users\\e4125334\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\playertimecomponent\\source\\playertimecomponent\\private\\timepickup.cpp"
 =======
+=======
+>>>>>>> main
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupbase.generated.h",
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\currencysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\currencysystem\\uht\\pickupmanager.generated.h",
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\playertimecomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\playertimecomponent\\uht\\playertimemanager.generated.h",
@@ -83,7 +92,10 @@
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\playertimecomponent\\source\\playertimecomponent\\public\\playertimecomponent.h",
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\playertimecomponent\\source\\playertimecomponent\\private\\playertimemanager.cpp",
             "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\playertimecomponent\\source\\playertimecomponent\\private\\timepickup.cpp"
+<<<<<<< HEAD
 >>>>>>> main
+>>>>>>> main
+=======
 >>>>>>> main
         ],
         "ImportedModules": [],

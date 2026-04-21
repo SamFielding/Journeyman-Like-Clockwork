@@ -85,6 +85,7 @@
 /DPROJECT_PRODUCT_NAME="Third Person Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=JourneymanProject1
 <<<<<<< HEAD
+<<<<<<< HEAD
 /fo "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Default.rc2.res"
 =======
 <<<<<<< HEAD
@@ -92,5 +93,8 @@
 =======
 /fo "C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Default.rc2.res"
 >>>>>>> main
+>>>>>>> main
+=======
+/fo "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Default.rc2.res"
 >>>>>>> main
 "..\Build\Windows\Resources\Default.rc2"

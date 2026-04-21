@@ -15,6 +15,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define CURRENCYSYSTEM_DropCurrencyComponent_generated_h
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execDropCurrency);
 
@@ -35,6 +36,13 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FID_Users_joecu_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_INCLASS_NO_PURE_DECLS \
 >>>>>>> main
 >>>>>>> main
+=======
+#define FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
+	DECLARE_FUNCTION(execDropCurrency);
+
+
+#define FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_INCLASS_NO_PURE_DECLS \
+>>>>>>> main
 private: \
 	static void StaticRegisterNativesUDropCurrencyComponent(); \
 	friend struct Z_Construct_UClass_UDropCurrencyComponent_Statics; \
@@ -44,6 +52,7 @@ public: \
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_ENHANCED_CONSTRUCTORS \
 =======
 <<<<<<< HEAD
@@ -51,6 +60,9 @@ public: \
 =======
 #define FID_Users_joecu_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
+>>>>>>> main
+=======
+#define FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
@@ -63,6 +75,7 @@ public: \
 	NO_API virtual ~UDropCurrencyComponent();
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_8_PROLOG
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_GENERATED_BODY \
@@ -90,6 +103,15 @@ public: \
 	FID_Users_joecu_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
 >>>>>>> main
+=======
+#define FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_8_PROLOG
+#define FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_INCLASS_NO_PURE_DECLS \
+	FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_11_ENHANCED_CONSTRUCTORS \
+>>>>>>> main
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -98,6 +120,7 @@ template<> CURRENCYSYSTEM_API UClass* StaticClass<class UDropCurrencyComponent>(
 
 #undef CURRENT_FILE_ID
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define CURRENT_FILE_ID FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h
 =======
 <<<<<<< HEAD
@@ -105,6 +128,9 @@ template<> CURRENCYSYSTEM_API UClass* StaticClass<class UDropCurrencyComponent>(
 =======
 #define CURRENT_FILE_ID FID_Users_joecu_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h
 >>>>>>> main
+>>>>>>> main
+=======
+#define CURRENT_FILE_ID FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h
 >>>>>>> main
 
 

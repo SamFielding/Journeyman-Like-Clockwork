@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "C:\Users\E4125334\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Module.LockOnCamera.cpp"
 /FI"C:\Users\E4125334\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
 /FI"C:\Users\E4125334\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Definitions.LockOnCamera.h"
@@ -7,6 +8,17 @@
 /experimental:log "C:\Users\E4125334\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Module.LockOnCamera.cpp.sarif"
 /sourceDependencies "C:\Users\E4125334\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Module.LockOnCamera.cpp.dep.json"
 @"C:\Users\E4125334\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\LockOnCamera.Shared.rsp"
+=======
+"C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Module.LockOnCamera.cpp"
+/FI"C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Definitions.LockOnCamera.h"
+/Yu"C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Module.LockOnCamera.cpp.obj"
+/experimental:log "C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Module.LockOnCamera.cpp.sarif"
+/sourceDependencies "C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Module.LockOnCamera.cpp.dep.json"
+@"C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\LockOnCamera.Shared.rsp"
+>>>>>>> main
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

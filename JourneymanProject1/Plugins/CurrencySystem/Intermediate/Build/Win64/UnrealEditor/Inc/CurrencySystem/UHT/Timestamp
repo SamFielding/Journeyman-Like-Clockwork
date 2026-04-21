@@ -1,5 +1,13 @@
-C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\CurrencyManager.h
-C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\CurrencyPickup.h
-C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\PickupBase.h
-C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\DropCurrencyComponent.h
-C:\Users\joecu\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\PickupManager.h
+<<<<<<< HEAD
+C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\DropCurrencyComponent.h
+C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\CurrencyManager.h
+C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\PickupBase.h
+C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\CurrencyPickup.h
+C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\PickupManager.h
+=======
+C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\CurrencyManager.h
+C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\CurrencyPickup.h
+C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\DropCurrencyComponent.h
+C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\PickupBase.h
+C:\github\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public\PickupManager.h
+>>>>>>> main

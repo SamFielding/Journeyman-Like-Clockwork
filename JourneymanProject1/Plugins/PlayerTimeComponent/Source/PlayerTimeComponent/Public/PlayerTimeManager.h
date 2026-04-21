@@ -4,6 +4,8 @@
 #include "PickupManager.h"
 #include "PlayerTimeManager.generated.h"
 
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnPlayerTimeOut);
+
 UCLASS(ClassGroup=(Custom), meta=(BlueprintSpawnableComponent))
 class PLAYERTIMECOMPONENT_API UPlayerTimeManager : public UPickupManager
 {
@@ -11,6 +13,9 @@ class PLAYERTIMECOMPONENT_API UPlayerTimeManager : public UPickupManager
 
 public:
 	UPlayerTimeManager();
+
+	UPROPERTY(BlueprintAssignable, Category = "Time")
+	FOnPlayerTimeOut OnPlayerTimeOut;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Time")
 	float MaxPlayerTime;

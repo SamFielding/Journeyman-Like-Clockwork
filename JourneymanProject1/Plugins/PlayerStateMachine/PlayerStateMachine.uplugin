@@ -18,7 +18,7 @@
 		{
 			"Name": "PlayerStateMachine",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "PreDefault"
 		}
 	]
 }

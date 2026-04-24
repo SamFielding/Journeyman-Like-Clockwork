@@ -187,14 +187,23 @@ UCurrencyManager::~UCurrencyManager() {}
 // End Class UCurrencyManager
 
 // Begin Registration
+<<<<<<< HEAD
 struct Z_CompiledInDeferFile_FID_UNIVERSITY_WORK_Year_2_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_Statics
+=======
+struct Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_Statics
+>>>>>>> main
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UCurrencyManager, UCurrencyManager::StaticClass, TEXT("UCurrencyManager"), &Z_Registration_Info_UClass_UCurrencyManager, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UCurrencyManager), 2314637022U) },
 	};
 };
+<<<<<<< HEAD
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UNIVERSITY_WORK_Year_2_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_3494251881(TEXT("/Script/CurrencySystem"),
 	Z_CompiledInDeferFile_FID_UNIVERSITY_WORK_Year_2_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UNIVERSITY_WORK_Year_2_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_Statics::ClassInfo),
+=======
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_3494251881(TEXT("/Script/CurrencySystem"),
+	Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_Statics::ClassInfo),
+>>>>>>> main
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

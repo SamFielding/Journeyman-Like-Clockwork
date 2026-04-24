@@ -418,14 +418,23 @@ ULockOnCameraComponent::~ULockOnCameraComponent() {}
 // End Class ULockOnCameraComponent
 
 // Begin Registration
+<<<<<<< HEAD
 struct Z_CompiledInDeferFile_FID_UNIVERSITY_WORK_Year_2_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_Statics
+=======
+struct Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_Statics
+>>>>>>> main
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ULockOnCameraComponent, ULockOnCameraComponent::StaticClass, TEXT("ULockOnCameraComponent"), &Z_Registration_Info_UClass_ULockOnCameraComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ULockOnCameraComponent), 3711368873U) },
 	};
 };
+<<<<<<< HEAD
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UNIVERSITY_WORK_Year_2_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_72913738(TEXT("/Script/LockOnCamera"),
 	Z_CompiledInDeferFile_FID_UNIVERSITY_WORK_Year_2_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UNIVERSITY_WORK_Year_2_Journeyman_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_Statics::ClassInfo),
+=======
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_72913738(TEXT("/Script/LockOnCamera"),
+	Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnCameraComponent_h_Statics::ClassInfo),
+>>>>>>> main
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

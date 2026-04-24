@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "C:\UNIVERSITY WORK\Year 2\Journeyman\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Module.Health.cpp"
 /FI"C:\UNIVERSITY WORK\Year 2\Journeyman\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
 /FI"C:\UNIVERSITY WORK\Year 2\Journeyman\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Definitions.Health.h"
@@ -7,6 +8,17 @@
 /experimental:log "C:\UNIVERSITY WORK\Year 2\Journeyman\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Module.Health.cpp.sarif"
 /sourceDependencies "C:\UNIVERSITY WORK\Year 2\Journeyman\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Module.Health.cpp.dep.json"
 @"C:\UNIVERSITY WORK\Year 2\Journeyman\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Health.Shared.rsp"
+=======
+"C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Module.Health.cpp"
+/FI"C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Definitions.Health.h"
+/Yu"C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Module.Health.cpp.obj"
+/experimental:log "C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Module.Health.cpp.sarif"
+/sourceDependencies "C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Module.Health.cpp.dep.json"
+@"C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\x64\UnrealEditor\Development\Health\Health.Shared.rsp"
+>>>>>>> main
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

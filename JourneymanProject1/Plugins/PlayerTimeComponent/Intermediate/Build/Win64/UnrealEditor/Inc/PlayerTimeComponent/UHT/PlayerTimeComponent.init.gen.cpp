@@ -21,22 +21,13 @@ void EmptyLinkFunctionForGeneratedCodePlayerTimeComponent_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-<<<<<<< HEAD
-				0xE90E2282,
-				0x7804365C,
-=======
-				0x8012124E,
+				0x84B3DD74,
 				0xA4C1AE9C,
->>>>>>> main
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_PlayerTimeComponent.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_PlayerTimeComponent.OuterSingleton;
 	}
-<<<<<<< HEAD
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PlayerTimeComponent(Z_Construct_UPackage__Script_PlayerTimeComponent, TEXT("/Script/PlayerTimeComponent"), Z_Registration_Info_UPackage__Script_PlayerTimeComponent, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xE90E2282, 0x7804365C));
-=======
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PlayerTimeComponent(Z_Construct_UPackage__Script_PlayerTimeComponent, TEXT("/Script/PlayerTimeComponent"), Z_Registration_Info_UPackage__Script_PlayerTimeComponent, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x8012124E, 0xA4C1AE9C));
->>>>>>> main
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PlayerTimeComponent(Z_Construct_UPackage__Script_PlayerTimeComponent, TEXT("/Script/PlayerTimeComponent"), Z_Registration_Info_UPackage__Script_PlayerTimeComponent, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x84B3DD74, 0xA4C1AE9C));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

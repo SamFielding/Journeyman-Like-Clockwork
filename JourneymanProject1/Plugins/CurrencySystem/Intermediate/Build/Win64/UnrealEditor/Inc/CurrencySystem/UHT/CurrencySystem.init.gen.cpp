@@ -17,7 +17,22 @@ void EmptyLinkFunctionForGeneratedCodeCurrencySystem_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
+<<<<<<< HEAD
 				0xA8A11643,
+=======
+<<<<<<< HEAD
+				0xBEAF9419,
+=======
+<<<<<<< HEAD
+				0xA80DA5C8,
+=======
+<<<<<<< HEAD
+				0xA80DA5C8,
+=======
+				0x847C1BFA,
+>>>>>>> main
+>>>>>>> main
+>>>>>>> origin/Lee_LightingIntegration
 				0x0C270F8D,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +40,20 @@ void EmptyLinkFunctionForGeneratedCodeCurrencySystem_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_CurrencySystem.OuterSingleton;
 	}
+<<<<<<< HEAD
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xA8A11643, 0x0C270F8D));
+=======
+<<<<<<< HEAD
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xBEAF9419, 0x0C270F8D));
+=======
+<<<<<<< HEAD
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xA80DA5C8, 0x0C270F8D));
+=======
+<<<<<<< HEAD
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xA80DA5C8, 0x0C270F8D));
+=======
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x847C1BFA, 0x0C270F8D));
+>>>>>>> main
+>>>>>>> main
+>>>>>>> origin/Lee_LightingIntegration
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -185,9 +185,13 @@ ULockOnTarget::~ULockOnTarget() {}
 
 // Begin Registration
 <<<<<<< HEAD
+struct Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics
+=======
+<<<<<<< HEAD
 struct Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics
 =======
 struct Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics
+>>>>>>> main
 >>>>>>> main
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
@@ -195,11 +199,16 @@ struct Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_LockOnCamera_Source_
 	};
 };
 <<<<<<< HEAD
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_2164464267(TEXT("/Script/LockOnCamera"),
+	Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics::ClassInfo),
+=======
+<<<<<<< HEAD
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_2164464267(TEXT("/Script/LockOnCamera"),
 	Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics::ClassInfo),
 =======
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_2164464267(TEXT("/Script/LockOnCamera"),
 	Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_LockOnCamera_Source_LockOnCamera_Public_LockOnTarget_h_Statics::ClassInfo),
+>>>>>>> main
 >>>>>>> main
 	nullptr, 0,
 	nullptr, 0);

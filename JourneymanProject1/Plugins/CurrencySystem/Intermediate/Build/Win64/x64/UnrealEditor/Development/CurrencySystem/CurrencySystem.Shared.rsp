@@ -1,5 +1,8 @@
 /I "."
 <<<<<<< HEAD
+/I "C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Private"
+=======
+<<<<<<< HEAD
 /I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Private"
 =======
 <<<<<<< HEAD
@@ -294,6 +297,11 @@
 /I "Editor\SceneDepthPickerMode\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
+<<<<<<< HEAD
+/I "C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\UnrealEditor\Inc\CurrencySystem\UHT"
+/I "C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source"
+/I "C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source\CurrencySystem\Public"
+=======
 <<<<<<< HEAD
 /I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\UnrealEditor\Inc\CurrencySystem\UHT"
 /I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Source"

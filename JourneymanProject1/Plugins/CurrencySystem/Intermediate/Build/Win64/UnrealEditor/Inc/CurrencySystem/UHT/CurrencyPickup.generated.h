@@ -15,6 +15,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define CURRENCYSYSTEM_CurrencyPickup_generated_h
 
 <<<<<<< HEAD
+#define FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_INCLASS_NO_PURE_DECLS \
+=======
+<<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_INCLASS_NO_PURE_DECLS \
 =======
 <<<<<<< HEAD
@@ -31,6 +34,9 @@ public: \
 	DECLARE_SERIALIZER(ACurrencyPickup)
 
 
+<<<<<<< HEAD
+#define FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_ENHANCED_CONSTRUCTORS \
+=======
 <<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_ENHANCED_CONSTRUCTORS \
 =======
@@ -51,6 +57,14 @@ public: \
 	NO_API virtual ~ACurrencyPickup();
 
 
+<<<<<<< HEAD
+#define FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_9_PROLOG
+#define FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_ENHANCED_CONSTRUCTORS \
+=======
 <<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_9_PROLOG
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h_12_GENERATED_BODY \
@@ -82,6 +96,9 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> CURRENCYSYSTEM_API UClass* StaticClass<class ACurrencyPickup>();
 
 #undef CURRENT_FILE_ID
+<<<<<<< HEAD
+#define CURRENT_FILE_ID FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h
+=======
 <<<<<<< HEAD
 #define CURRENT_FILE_ID FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyPickup_h
 =======

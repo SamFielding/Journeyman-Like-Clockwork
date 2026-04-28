@@ -22,6 +22,9 @@ void EmptyLinkFunctionForGeneratedCodeHealth_init() {}
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
 <<<<<<< HEAD
+				0x05F6A195,
+=======
+<<<<<<< HEAD
 				0xF161CC55,
 =======
 <<<<<<< HEAD
@@ -37,6 +40,9 @@ void EmptyLinkFunctionForGeneratedCodeHealth_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_Health.OuterSingleton;
 	}
+<<<<<<< HEAD
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Health(Z_Construct_UPackage__Script_Health, TEXT("/Script/Health"), Z_Registration_Info_UPackage__Script_Health, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x05F6A195, 0x6BFE2CAE));
+=======
 <<<<<<< HEAD
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Health(Z_Construct_UPackage__Script_Health, TEXT("/Script/Health"), Z_Registration_Info_UPackage__Script_Health, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xF161CC55, 0x6BFE2CAE));
 =======

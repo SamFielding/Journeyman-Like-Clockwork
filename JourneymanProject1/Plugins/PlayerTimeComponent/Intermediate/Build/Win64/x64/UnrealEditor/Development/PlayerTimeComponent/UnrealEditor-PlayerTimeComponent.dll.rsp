@@ -45,6 +45,11 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 <<<<<<< HEAD
+"C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Module.PlayerTimeComponent.cpp.obj"
+"C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
+=======
+<<<<<<< HEAD
 "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Module.PlayerTimeComponent.cpp.obj"
 "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
@@ -64,6 +69,9 @@
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\SlateCore\UnrealEditor-SlateCore.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
+<<<<<<< HEAD
+"C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\UnrealEditor-CurrencySystem.lib"
+=======
 <<<<<<< HEAD
 "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\CurrencySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\CurrencySystem\UnrealEditor-CurrencySystem.lib"
 =======
@@ -98,6 +106,10 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
+<<<<<<< HEAD
+/OUT:"C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Binaries\Win64\UnrealEditor-PlayerTimeComponent.dll"
+/PDB:"C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Binaries\Win64\UnrealEditor-PlayerTimeComponent.pdb"
+=======
 <<<<<<< HEAD
 /OUT:"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Binaries\Win64\UnrealEditor-PlayerTimeComponent.dll"
 /PDB:"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Binaries\Win64\UnrealEditor-PlayerTimeComponent.pdb"

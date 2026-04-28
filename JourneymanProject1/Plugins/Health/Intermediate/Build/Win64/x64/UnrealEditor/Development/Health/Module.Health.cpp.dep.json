@@ -2,6 +2,9 @@
     "Version": "1.2",
     "Data": {
 <<<<<<< HEAD
+        "Source": "c:\\users\\e4086040\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\health\\module.health.cpp",
+=======
+<<<<<<< HEAD
         "Source": "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\health\\module.health.cpp",
 =======
 <<<<<<< HEAD
@@ -23,6 +26,7 @@
         "Source": "c:\\users\\24298\\desktop\\jm2\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\health\\module.health.cpp",
 >>>>>>> main
         "ProvidedModule": "",
+<<<<<<< HEAD
         "PCH": "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\intermediate\\build\\win64\\x64\\journeymanproject1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
 <<<<<<< HEAD
@@ -36,6 +40,21 @@
             "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\private\\health.cpp",
             "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\public\\health.h",
             "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\private\\wl_cpp_basehealthcomponent.cpp"
+=======
+        "PCH": "c:\\users\\e4086040\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\intermediate\\build\\win64\\x64\\journeymanproject1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+<<<<<<< HEAD
+            "c:\\users\\e4086040\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\health\\definitions.health.h",
+            "c:\\users\\e4086040\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\unrealeditor\\inc\\health\\uht\\health.init.gen.cpp",
+            "c:\\users\\e4086040\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\unrealeditor\\inc\\health\\uht\\wl_cpp_basehealthcomponent.gen.cpp",
+            "c:\\users\\e4086040\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\public\\wl_cpp_basehealthcomponent.h",
+            "c:\\users\\e4086040\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\unrealeditor\\inc\\health\\uht\\wl_cpp_basehealthcomponent.generated.h",
+            "c:\\users\\e4086040\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\health\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "c:\\users\\e4086040\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\private\\health.cpp",
+            "c:\\users\\e4086040\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\public\\health.h",
+            "c:\\users\\e4086040\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\source\\health\\private\\wl_cpp_basehealthcomponent.cpp"
+>>>>>>> main
 =======
             "c:\\users\\24298\\desktop\\jm2\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\health\\definitions.health.h",
             "c:\\users\\24298\\desktop\\jm2\\journeyman-like-clockwork\\journeymanproject1\\plugins\\health\\intermediate\\build\\win64\\unrealeditor\\inc\\health\\uht\\health.init.gen.cpp",

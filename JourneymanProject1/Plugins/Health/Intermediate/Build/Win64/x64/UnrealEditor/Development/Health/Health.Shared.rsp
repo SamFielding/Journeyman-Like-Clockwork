@@ -1,5 +1,8 @@
 /I "."
 <<<<<<< HEAD
+/I "C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Private"
+=======
+<<<<<<< HEAD
 /I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Private"
 =======
 <<<<<<< HEAD
@@ -294,6 +297,11 @@
 /I "Editor\SceneDepthPickerMode\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
+<<<<<<< HEAD
+/I "C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\UnrealEditor\Inc\Health\UHT"
+/I "C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source"
+/I "C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Public"
+=======
 <<<<<<< HEAD
 /I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\UnrealEditor\Inc\Health\UHT"
 /I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source"

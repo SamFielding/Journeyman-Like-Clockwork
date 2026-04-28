@@ -2,6 +2,7 @@
     "Version": "1.2",
     "Data": {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "Source": "c:\\users\\d3448955\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lockoncamera\\module.lockoncamera.cpp",
         "ProvidedModule": "",
         "PCH": "c:\\users\\d3448955\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\intermediate\\build\\win64\\x64\\journeymanproject1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
@@ -16,6 +17,9 @@
 =======
 <<<<<<< HEAD
         "Source": "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lockoncamera\\module.lockoncamera.cpp",
+=======
+        "Source": "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lockoncamera\\module.lockoncamera.cpp",
+>>>>>>> origin/WL-PRO-ENEMYQOL
 =======
 <<<<<<< HEAD
         "Source": "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lockoncamera\\module.lockoncamera.cpp",
@@ -94,6 +98,7 @@
 >>>>>>> main
         "ProvidedModule": "",
 <<<<<<< HEAD
+<<<<<<< HEAD
         "PCH": "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\intermediate\\build\\win64\\x64\\journeymanproject1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
 <<<<<<< HEAD
@@ -110,6 +115,15 @@
             "c:\\users\\e4086040\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\unrealeditor\\inc\\lockoncamera\\uht\\lockoncameracomponent.gen.cpp",
             "c:\\users\\e4086040\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\public\\lockoncameracomponent.h",
 >>>>>>> main
+=======
+        "PCH": "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\intermediate\\build\\win64\\x64\\journeymanproject1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+<<<<<<< HEAD
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lockoncamera\\definitions.lockoncamera.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\unrealeditor\\inc\\lockoncamera\\uht\\lockoncamera.init.gen.cpp",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\unrealeditor\\inc\\lockoncamera\\uht\\lockoncameracomponent.gen.cpp",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\public\\lockoncameracomponent.h",
+>>>>>>> origin/WL-PRO-ENEMYQOL
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\umg\\public\\components\\widgetcomponent.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\umg\\public\\blueprint\\userwidget.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\umg\\public\\blueprint\\widgetchild.h",
@@ -147,6 +161,7 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
 <<<<<<< HEAD
+<<<<<<< HEAD
             "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\unrealeditor\\inc\\lockoncamera\\uht\\lockoncameracomponent.generated.h",
             "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\unrealeditor\\inc\\lockoncamera\\uht\\lockontarget.gen.cpp",
             "c:\\users\\e4135711\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\public\\lockontarget.h",
@@ -173,6 +188,20 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\overlapresult.generated.h",
             "c:\\users\\e4086040\\documents\\github\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\private\\lockontarget.cpp"
 >>>>>>> main
+=======
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\unrealeditor\\inc\\lockoncamera\\uht\\lockoncameracomponent.generated.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\unrealeditor\\inc\\lockoncamera\\uht\\lockontarget.gen.cpp",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\public\\lockontarget.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\unrealeditor\\inc\\lockoncamera\\uht\\lockontarget.generated.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lockoncamera\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\private\\lockoncamera.cpp",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\public\\lockoncamera.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\private\\lockoncameracomponent.cpp",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\overlapresult.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\overlapresult.generated.h",
+            "c:\\users\\e4410025\\source\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\private\\lockontarget.cpp"
+>>>>>>> origin/WL-PRO-ENEMYQOL
 =======
             "c:\\users\\24298\\desktop\\jm2\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lockoncamera\\definitions.lockoncamera.h",
             "c:\\users\\24298\\desktop\\jm2\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\intermediate\\build\\win64\\unrealeditor\\inc\\lockoncamera\\uht\\lockoncamera.init.gen.cpp",
@@ -228,7 +257,10 @@
             "c:\\users\\24298\\desktop\\jm2\\journeyman-like-clockwork\\journeymanproject1\\plugins\\lockoncamera\\source\\lockoncamera\\private\\lockontarget.cpp"
 >>>>>>> main
 >>>>>>> main
+<<<<<<< HEAD
 >>>>>>> origin/Lee_LightingIntegration
+=======
+>>>>>>> origin/WL-PRO-ENEMYQOL
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

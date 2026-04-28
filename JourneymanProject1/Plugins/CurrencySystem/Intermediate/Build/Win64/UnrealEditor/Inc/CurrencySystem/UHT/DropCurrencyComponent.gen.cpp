@@ -148,6 +148,7 @@ UDropCurrencyComponent::~UDropCurrencyComponent() {}
 
 // Begin Registration
 <<<<<<< HEAD
+<<<<<<< HEAD
 struct Z_CompiledInDeferFile_FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_Statics
 =======
 <<<<<<< HEAD
@@ -156,18 +157,25 @@ struct Z_CompiledInDeferFile_FID_Users_e4086040_Documents_GitHub_Journeyman_Like
 <<<<<<< HEAD
 struct Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_Statics
 =======
+struct Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_Statics
+>>>>>>> origin/WL-PRO-ENEMYQOL
+=======
 <<<<<<< HEAD
 struct Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_Statics
 =======
 struct Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_Statics
 >>>>>>> main
 >>>>>>> main
+<<<<<<< HEAD
 >>>>>>> origin/Lee_LightingIntegration
+=======
+>>>>>>> origin/WL-PRO-ENEMYQOL
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UDropCurrencyComponent, UDropCurrencyComponent::StaticClass, TEXT("UDropCurrencyComponent"), &Z_Registration_Info_UClass_UDropCurrencyComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UDropCurrencyComponent), 1004103478U) },
 	};
 };
+<<<<<<< HEAD
 <<<<<<< HEAD
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_2552527308(TEXT("/Script/CurrencySystem"),
 	Z_CompiledInDeferFile_FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_Statics::ClassInfo),
@@ -180,6 +188,10 @@ static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_e4086040_Document
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_2552527308(TEXT("/Script/CurrencySystem"),
 	Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_Statics::ClassInfo),
 =======
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_2552527308(TEXT("/Script/CurrencySystem"),
+	Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_Statics::ClassInfo),
+>>>>>>> origin/WL-PRO-ENEMYQOL
+=======
 <<<<<<< HEAD
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_2552527308(TEXT("/Script/CurrencySystem"),
 	Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_Statics::ClassInfo),
@@ -188,7 +200,10 @@ static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_JourneymanProject1_Plug
 	Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_DropCurrencyComponent_h_Statics::ClassInfo),
 >>>>>>> main
 >>>>>>> main
+<<<<<<< HEAD
 >>>>>>> origin/Lee_LightingIntegration
+=======
+>>>>>>> origin/WL-PRO-ENEMYQOL
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

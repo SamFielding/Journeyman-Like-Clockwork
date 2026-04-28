@@ -394,6 +394,7 @@ UWL_CPP_BASEHEALTHCOMPONENT::~UWL_CPP_BASEHEALTHCOMPONENT() {}
 
 // Begin Registration
 <<<<<<< HEAD
+<<<<<<< HEAD
 struct Z_CompiledInDeferFile_FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics
 =======
 <<<<<<< HEAD
@@ -402,18 +403,25 @@ struct Z_CompiledInDeferFile_FID_Users_e4086040_Documents_GitHub_Journeyman_Like
 <<<<<<< HEAD
 struct Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics
 =======
+struct Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics
+>>>>>>> origin/WL-PRO-ENEMYQOL
+=======
 <<<<<<< HEAD
 struct Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics
 =======
 struct Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics
 >>>>>>> main
 >>>>>>> main
+<<<<<<< HEAD
 >>>>>>> origin/Lee_LightingIntegration
+=======
+>>>>>>> origin/WL-PRO-ENEMYQOL
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT, UWL_CPP_BASEHEALTHCOMPONENT::StaticClass, TEXT("UWL_CPP_BASEHEALTHCOMPONENT"), &Z_Registration_Info_UClass_UWL_CPP_BASEHEALTHCOMPONENT, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UWL_CPP_BASEHEALTHCOMPONENT), 3439365174U) },
 	};
 };
+<<<<<<< HEAD
 <<<<<<< HEAD
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_1711400944(TEXT("/Script/Health"),
 	Z_CompiledInDeferFile_FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo),
@@ -426,6 +434,10 @@ static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_e4086040_Document
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_1711400944(TEXT("/Script/Health"),
 	Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo),
 =======
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_1711400944(TEXT("/Script/Health"),
+	Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo),
+>>>>>>> origin/WL-PRO-ENEMYQOL
+=======
 <<<<<<< HEAD
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_1711400944(TEXT("/Script/Health"),
 	Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo),
@@ -434,7 +446,10 @@ static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_JourneymanProject1_Plug
 	Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_Statics::ClassInfo),
 >>>>>>> main
 >>>>>>> main
+<<<<<<< HEAD
 >>>>>>> origin/Lee_LightingIntegration
+=======
+>>>>>>> origin/WL-PRO-ENEMYQOL
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

@@ -15,6 +15,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define HEALTH_WL_CPP_BASEHEALTHCOMPONENT_generated_h
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_13_DELEGATE \
 HEALTH_API void FOnTakenDamage_DelegateWrapper(const FMulticastScriptDelegate& OnTakenDamage);
 
@@ -35,6 +36,13 @@ HEALTH_API void FOnTakenDamage_DelegateWrapper(const FMulticastScriptDelegate& O
 
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
 =======
+#define FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_13_DELEGATE \
+HEALTH_API void FOnTakenDamage_DelegateWrapper(const FMulticastScriptDelegate& OnTakenDamage);
+
+
+#define FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+>>>>>>> origin/WL-PRO-ENEMYQOL
+=======
 <<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_13_DELEGATE \
 HEALTH_API void FOnTakenDamage_DelegateWrapper(const FMulticastScriptDelegate& OnTakenDamage);
@@ -49,7 +57,10 @@ HEALTH_API void FOnTakenDamage_DelegateWrapper(const FMulticastScriptDelegate& O
 #define FID_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
 >>>>>>> main
 >>>>>>> main
+<<<<<<< HEAD
 >>>>>>> origin/Lee_LightingIntegration
+=======
+>>>>>>> origin/WL-PRO-ENEMYQOL
 	DECLARE_FUNCTION(execDecreaseMaxHealth); \
 	DECLARE_FUNCTION(execIncreaseMaxHealth); \
 	DECLARE_FUNCTION(execHeal); \
@@ -57,6 +68,7 @@ HEALTH_API void FOnTakenDamage_DelegateWrapper(const FMulticastScriptDelegate& O
 	DECLARE_FUNCTION(execisAlive);
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 #define FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_INCLASS_NO_PURE_DECLS \
 =======
@@ -66,13 +78,19 @@ HEALTH_API void FOnTakenDamage_DelegateWrapper(const FMulticastScriptDelegate& O
 <<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_INCLASS_NO_PURE_DECLS \
 =======
+#define FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_INCLASS_NO_PURE_DECLS \
+>>>>>>> origin/WL-PRO-ENEMYQOL
+=======
 <<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_INCLASS_NO_PURE_DECLS \
 =======
 #define FID_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_INCLASS_NO_PURE_DECLS \
 >>>>>>> main
 >>>>>>> main
+<<<<<<< HEAD
 >>>>>>> origin/Lee_LightingIntegration
+=======
+>>>>>>> origin/WL-PRO-ENEMYQOL
 private: \
 	static void StaticRegisterNativesUWL_CPP_BASEHEALTHCOMPONENT(); \
 	friend struct Z_Construct_UClass_UWL_CPP_BASEHEALTHCOMPONENT_Statics; \
@@ -82,6 +100,7 @@ public: \
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_ENHANCED_CONSTRUCTORS \
 =======
 <<<<<<< HEAD
@@ -90,13 +109,19 @@ public: \
 <<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_ENHANCED_CONSTRUCTORS \
 =======
+#define FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_ENHANCED_CONSTRUCTORS \
+>>>>>>> origin/WL-PRO-ENEMYQOL
+=======
 <<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_ENHANCED_CONSTRUCTORS \
 =======
 #define FID_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
 >>>>>>> main
+<<<<<<< HEAD
 >>>>>>> origin/Lee_LightingIntegration
+=======
+>>>>>>> origin/WL-PRO-ENEMYQOL
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	UWL_CPP_BASEHEALTHCOMPONENT(UWL_CPP_BASEHEALTHCOMPONENT&&); \
@@ -108,6 +133,7 @@ public: \
 	NO_API virtual ~UWL_CPP_BASEHEALTHCOMPONENT();
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 #define FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_15_PROLOG
 #define FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_GENERATED_BODY \
@@ -135,6 +161,15 @@ public: \
 	FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_INCLASS_NO_PURE_DECLS \
 	FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_ENHANCED_CONSTRUCTORS \
 =======
+#define FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_15_PROLOG
+#define FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_INCLASS_NO_PURE_DECLS \
+	FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_ENHANCED_CONSTRUCTORS \
+>>>>>>> origin/WL-PRO-ENEMYQOL
+=======
 <<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_15_PROLOG
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_GENERATED_BODY \
@@ -153,7 +188,10 @@ public: \
 	FID_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h_18_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
 >>>>>>> main
+<<<<<<< HEAD
 >>>>>>> origin/Lee_LightingIntegration
+=======
+>>>>>>> origin/WL-PRO-ENEMYQOL
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -161,6 +199,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> HEALTH_API UClass* StaticClass<class UWL_CPP_BASEHEALTHCOMPONENT>();
 
 #undef CURRENT_FILE_ID
+<<<<<<< HEAD
 <<<<<<< HEAD
 #define CURRENT_FILE_ID FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h
 =======
@@ -170,13 +209,19 @@ template<> HEALTH_API UClass* StaticClass<class UWL_CPP_BASEHEALTHCOMPONENT>();
 <<<<<<< HEAD
 #define CURRENT_FILE_ID FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h
 =======
+#define CURRENT_FILE_ID FID_Users_E4410025_Source_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h
+>>>>>>> origin/WL-PRO-ENEMYQOL
+=======
 <<<<<<< HEAD
 #define CURRENT_FILE_ID FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h
 =======
 #define CURRENT_FILE_ID FID_JourneymanProject1_Plugins_Health_Source_Health_Public_WL_CPP_BASEHEALTHCOMPONENT_h
 >>>>>>> main
 >>>>>>> main
+<<<<<<< HEAD
 >>>>>>> origin/Lee_LightingIntegration
+=======
+>>>>>>> origin/WL-PRO-ENEMYQOL
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

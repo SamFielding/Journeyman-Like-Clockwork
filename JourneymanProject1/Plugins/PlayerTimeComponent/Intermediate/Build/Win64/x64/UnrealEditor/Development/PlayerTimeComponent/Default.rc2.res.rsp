@@ -10,9 +10,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 /I "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.44.35207\INCLUDE"
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> origin/WL-PRO-ENEMYQOL
 /I "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.44.35207\INCLUDE"
 =======
 /I "C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\INCLUDE"
@@ -22,7 +25,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
+<<<<<<< HEAD
 >>>>>>> origin/Lee_LightingIntegration
+=======
+>>>>>>> main
+>>>>>>> origin/WL-PRO-ENEMYQOL
 /DIS_PROGRAM=0
 /DUE_EDITOR=1
 /DUSE_SHADER_COMPILER_WORKER_TRACE=0
@@ -101,6 +108,7 @@
 /DPROJECT_PRODUCT_NAME="Third Person Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=JourneymanProject1
 <<<<<<< HEAD
+<<<<<<< HEAD
 /fo "C:\Users\D3448955\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
 =======
 <<<<<<< HEAD
@@ -109,11 +117,17 @@
 <<<<<<< HEAD
 /fo "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
 =======
+/fo "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
+>>>>>>> origin/WL-PRO-ENEMYQOL
+=======
 <<<<<<< HEAD
 /fo "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
 =======
 /fo "C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\PlayerTimeComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayerTimeComponent\Default.rc2.res"
 >>>>>>> main
 >>>>>>> main
+<<<<<<< HEAD
 >>>>>>> origin/Lee_LightingIntegration
+=======
+>>>>>>> origin/WL-PRO-ENEMYQOL
 "..\Build\Windows\Resources\Default.rc2"

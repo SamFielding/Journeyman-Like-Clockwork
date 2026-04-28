@@ -15,6 +15,12 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define CURRENCYSYSTEM_CurrencyManager_generated_h
 
 <<<<<<< HEAD
+#define FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+=======
+<<<<<<< HEAD
+#define FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+=======
+<<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
 =======
 <<<<<<< HEAD
@@ -23,10 +29,17 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FID_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
 >>>>>>> main
 >>>>>>> main
+>>>>>>> origin/Lee_LightingIntegration
 	DECLARE_FUNCTION(execRemoveCurrency); \
 	DECLARE_FUNCTION(execAddCurrency);
 
 
+<<<<<<< HEAD
+#define FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_INCLASS_NO_PURE_DECLS \
+=======
+<<<<<<< HEAD
+#define FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_INCLASS_NO_PURE_DECLS \
+=======
 <<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_INCLASS_NO_PURE_DECLS \
 =======
@@ -36,6 +49,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FID_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_INCLASS_NO_PURE_DECLS \
 >>>>>>> main
 >>>>>>> main
+>>>>>>> origin/Lee_LightingIntegration
 private: \
 	static void StaticRegisterNativesUCurrencyManager(); \
 	friend struct Z_Construct_UClass_UCurrencyManager_Statics; \
@@ -45,6 +59,12 @@ public: \
 
 
 <<<<<<< HEAD
+#define FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_ENHANCED_CONSTRUCTORS \
+=======
+<<<<<<< HEAD
+#define FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_ENHANCED_CONSTRUCTORS \
+=======
+<<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_ENHANCED_CONSTRUCTORS \
 =======
 <<<<<<< HEAD
@@ -53,6 +73,7 @@ public: \
 #define FID_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
 >>>>>>> main
+>>>>>>> origin/Lee_LightingIntegration
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	UCurrencyManager(UCurrencyManager&&); \
@@ -64,6 +85,24 @@ public: \
 	NO_API virtual ~UCurrencyManager();
 
 
+<<<<<<< HEAD
+#define FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_7_PROLOG
+#define FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_INCLASS_NO_PURE_DECLS \
+	FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_ENHANCED_CONSTRUCTORS \
+=======
+<<<<<<< HEAD
+#define FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_7_PROLOG
+#define FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_INCLASS_NO_PURE_DECLS \
+	FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_ENHANCED_CONSTRUCTORS \
+=======
 <<<<<<< HEAD
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_7_PROLOG
 #define FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_GENERATED_BODY \
@@ -91,6 +130,7 @@ public: \
 	FID_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_10_ENHANCED_CONSTRUCTORS \
 >>>>>>> main
 >>>>>>> main
+>>>>>>> origin/Lee_LightingIntegration
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -98,6 +138,12 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> CURRENCYSYSTEM_API UClass* StaticClass<class UCurrencyManager>();
 
 #undef CURRENT_FILE_ID
+<<<<<<< HEAD
+#define CURRENT_FILE_ID FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h
+=======
+<<<<<<< HEAD
+#define CURRENT_FILE_ID FID_Users_e4086040_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h
+=======
 <<<<<<< HEAD
 #define CURRENT_FILE_ID FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h
 =======
@@ -107,6 +153,7 @@ template<> CURRENCYSYSTEM_API UClass* StaticClass<class UCurrencyManager>();
 #define CURRENT_FILE_ID FID_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h
 >>>>>>> main
 >>>>>>> main
+>>>>>>> origin/Lee_LightingIntegration
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

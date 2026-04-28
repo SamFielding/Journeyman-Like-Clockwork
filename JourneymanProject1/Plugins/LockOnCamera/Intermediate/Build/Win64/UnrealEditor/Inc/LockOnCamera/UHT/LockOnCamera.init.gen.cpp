@@ -18,6 +18,12 @@ void EmptyLinkFunctionForGeneratedCodeLockOnCamera_init() {}
 				0,
 				PKG_CompiledIn | 0x00000000,
 <<<<<<< HEAD
+				0xEE214776,
+=======
+<<<<<<< HEAD
+				0xEACCBCE5,
+=======
+<<<<<<< HEAD
 				0x133868D0,
 =======
 <<<<<<< HEAD
@@ -26,6 +32,7 @@ void EmptyLinkFunctionForGeneratedCodeLockOnCamera_init() {}
 				0xE3C87699,
 >>>>>>> main
 >>>>>>> main
+>>>>>>> origin/Lee_LightingIntegration
 				0x69A3288E,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -33,6 +40,12 @@ void EmptyLinkFunctionForGeneratedCodeLockOnCamera_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_LockOnCamera.OuterSingleton;
 	}
+<<<<<<< HEAD
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LockOnCamera(Z_Construct_UPackage__Script_LockOnCamera, TEXT("/Script/LockOnCamera"), Z_Registration_Info_UPackage__Script_LockOnCamera, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xEE214776, 0x69A3288E));
+=======
+<<<<<<< HEAD
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LockOnCamera(Z_Construct_UPackage__Script_LockOnCamera, TEXT("/Script/LockOnCamera"), Z_Registration_Info_UPackage__Script_LockOnCamera, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xEACCBCE5, 0x69A3288E));
+=======
 <<<<<<< HEAD
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LockOnCamera(Z_Construct_UPackage__Script_LockOnCamera, TEXT("/Script/LockOnCamera"), Z_Registration_Info_UPackage__Script_LockOnCamera, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x133868D0, 0x69A3288E));
 =======
@@ -42,4 +55,5 @@ void EmptyLinkFunctionForGeneratedCodeLockOnCamera_init() {}
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LockOnCamera(Z_Construct_UPackage__Script_LockOnCamera, TEXT("/Script/LockOnCamera"), Z_Registration_Info_UPackage__Script_LockOnCamera, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xE3C87699, 0x69A3288E));
 >>>>>>> main
 >>>>>>> main
+>>>>>>> origin/Lee_LightingIntegration
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

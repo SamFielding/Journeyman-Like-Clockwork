@@ -188,15 +188,23 @@ UCurrencyManager::~UCurrencyManager() {}
 
 // Begin Registration
 <<<<<<< HEAD
+struct Z_CompiledInDeferFile_FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_Statics
+=======
+<<<<<<< HEAD
 struct Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_Statics
 =======
 struct Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_Statics
 >>>>>>> main
+>>>>>>> origin/Lee_LightingIntegration
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UCurrencyManager, UCurrencyManager::StaticClass, TEXT("UCurrencyManager"), &Z_Registration_Info_UClass_UCurrencyManager, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UCurrencyManager), 2314637022U) },
 	};
 };
+<<<<<<< HEAD
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_3494251881(TEXT("/Script/CurrencySystem"),
+	Z_CompiledInDeferFile_FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_D3448955_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_Statics::ClassInfo),
+=======
 <<<<<<< HEAD
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_3494251881(TEXT("/Script/CurrencySystem"),
 	Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_e4135711_Documents_GitHub_Journeyman_Like_Clockwork_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_Statics::ClassInfo),
@@ -204,6 +212,7 @@ static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_e4135711_Document
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_3494251881(TEXT("/Script/CurrencySystem"),
 	Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_JourneymanProject1_Plugins_CurrencySystem_Source_CurrencySystem_Public_CurrencyManager_h_Statics::ClassInfo),
 >>>>>>> main
+>>>>>>> origin/Lee_LightingIntegration
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

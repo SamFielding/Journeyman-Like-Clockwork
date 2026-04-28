@@ -21,7 +21,11 @@
 /ALTERNATENAME:__imp___std_init_once_complete=__imp_InitOnceComplete
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
+<<<<<<< HEAD
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.44.35207\lib\x64"
+=======
 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\lib\x64"
+>>>>>>> main
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\ucrt\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
@@ -36,9 +40,15 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 /NOIMPLIB
+<<<<<<< HEAD
+"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Module.LockOnCamera.cpp.obj"
+"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Default.rc2.res"
+=======
 "C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Module.LockOnCamera.cpp.obj"
 "C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Default.rc2.res"
+>>>>>>> main
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
@@ -71,6 +81,11 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
+<<<<<<< HEAD
+/OUT:"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Binaries\Win64\UnrealEditor-LockOnCamera.dll"
+/PDB:"C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Binaries\Win64\UnrealEditor-LockOnCamera.pdb"
+=======
 /OUT:"C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Binaries\Win64\UnrealEditor-LockOnCamera.dll"
 /PDB:"C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Binaries\Win64\UnrealEditor-LockOnCamera.pdb"
+>>>>>>> main
 /ignore:4078

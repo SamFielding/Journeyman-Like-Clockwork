@@ -2,12 +2,19 @@
 #pragma once
 <<<<<<< HEAD
 <<<<<<< HEAD
+#include "C:/Users/e4086040/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Intermediate/Build/Win64/x64/JourneymanProject1Editor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.Cpp20.h"
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 #include "C:/UNIVERSITY WORK/Year 2/Journeyman/Journeyman-Like-Clockwork/JourneymanProject1/Intermediate/Build/Win64/x64/JourneymanProject1Editor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.Cpp20.h"
 =======
+>>>>>>> main
 #include "C:/Users/e4135711/Documents/GitHub/Journeyman-Like-Clockwork/JourneymanProject1/Intermediate/Build/Win64/x64/JourneymanProject1Editor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.Cpp20.h"
 >>>>>>> main
 =======
 #include "C:/Users/24298/Desktop/JM2/Journeyman-Like-Clockwork/JourneymanProject1/Intermediate/Build/Win64/x64/JourneymanProject1Editor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.Cpp20.h"
+>>>>>>> main
 >>>>>>> main
 #undef PLAYERTIMECOMPONENT_API
 #define UE_IS_ENGINE_MODULE 0

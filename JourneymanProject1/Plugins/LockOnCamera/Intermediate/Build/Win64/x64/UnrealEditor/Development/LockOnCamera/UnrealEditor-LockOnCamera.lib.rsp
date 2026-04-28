@@ -7,6 +7,12 @@
 /IGNORE:4221
 /NODEFAULTLIB
 <<<<<<< HEAD
+"C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Module.LockOnCamera.cpp.obj"
+"C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Default.rc2.res"
+/OUT:"C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\UnrealEditor-LockOnCamera.lib"
+=======
+<<<<<<< HEAD
 "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Intermediate\Build\Win64\x64\JourneymanProject1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Module.LockOnCamera.cpp.obj"
 "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Default.rc2.res"
@@ -16,4 +22,5 @@
 "C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Module.LockOnCamera.cpp.obj"
 "C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\Default.rc2.res"
 /OUT:"C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\LockOnCamera\UnrealEditor-LockOnCamera.lib"
+>>>>>>> main
 >>>>>>> main

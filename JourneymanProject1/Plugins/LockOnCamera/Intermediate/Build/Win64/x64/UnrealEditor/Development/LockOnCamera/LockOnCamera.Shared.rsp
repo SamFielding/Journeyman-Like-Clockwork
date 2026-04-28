@@ -1,5 +1,13 @@
 /I "."
+<<<<<<< HEAD
 /I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Source\LockOnCamera\Private"
+=======
+<<<<<<< HEAD
+/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Source\LockOnCamera\Private"
+=======
+/I "C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Source\LockOnCamera\Private"
+>>>>>>> main
+>>>>>>> main
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\VerseVMBytecode"
 /I "Runtime\CoreUObject\Public"
@@ -286,16 +294,36 @@
 /I "Editor\SceneDepthPickerMode\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
+<<<<<<< HEAD
 /I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\UnrealEditor\Inc\LockOnCamera\UHT"
 /I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Source"
 /I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Source\LockOnCamera\Public"
+=======
+<<<<<<< HEAD
+/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\UnrealEditor\Inc\LockOnCamera\UHT"
+/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Source"
+/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Source\LockOnCamera\Public"
+=======
+/I "C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Intermediate\Build\Win64\UnrealEditor\Inc\LockOnCamera\UHT"
+/I "C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Source"
+/I "C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\LockOnCamera\Source\LockOnCamera\Public"
+>>>>>>> main
+>>>>>>> main
 /external:W0
 /external:I "ThirdParty\GuidelinesSupportLibrary\GSL-1144\include"
 /external:I "ThirdParty\RapidJSON\1.1.0"
 /external:I "ThirdParty\LibTiff\Source\Win64"
 /external:I "ThirdParty\LibTiff\Source"
 /external:I "ThirdParty\OpenGL"
+<<<<<<< HEAD
 /external:I "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.44.35207\INCLUDE"
+=======
+<<<<<<< HEAD
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.44.35207\INCLUDE"
+=======
+/external:I "C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\INCLUDE"
+>>>>>>> main
+>>>>>>> main
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"

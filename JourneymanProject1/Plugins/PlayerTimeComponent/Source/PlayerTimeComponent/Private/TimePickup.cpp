@@ -30,6 +30,7 @@ void ATimePickup::Tick(float DeltaTime)
 	if (UPlayerTimeManager* TimeManagerComponent = Cast<UPlayerTimeManager>(Target); TimeManagerComponent && FVector::Dist(GetActorLocation(), Target->GetCollectionPointLocation()) < AttractionStrength * SpeedCoefficient * DeltaTime + 1.f)
 	{
 		TimeManagerComponent->AddTime(TimeValue);
+		OnPickup.Broadcast();
 		Destroy();
 	}
 }

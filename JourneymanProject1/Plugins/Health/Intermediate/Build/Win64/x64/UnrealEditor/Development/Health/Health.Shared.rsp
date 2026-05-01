@@ -1,27 +1,5 @@
 /I "."
-<<<<<<< HEAD
-<<<<<<< HEAD
-/I "C:\Users\D3448955\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Private"
-=======
-<<<<<<< HEAD
-/I "C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Private"
-=======
-<<<<<<< HEAD
-/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Private"
-=======
-/I "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Private"
->>>>>>> origin/WL-PRO-ENEMYQOL
-=======
-<<<<<<< HEAD
-/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Private"
-=======
-/I "C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Private"
->>>>>>> main
->>>>>>> main
-<<<<<<< HEAD
->>>>>>> origin/Lee_LightingIntegration
-=======
->>>>>>> origin/WL-PRO-ENEMYQOL
+/I "C:\Users\E4050212\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Private"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\VerseVMBytecode"
 /I "Runtime\CoreUObject\Public"
@@ -308,72 +286,17 @@
 /I "Editor\SceneDepthPickerMode\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
-<<<<<<< HEAD
-<<<<<<< HEAD
-/I "C:\Users\D3448955\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\UnrealEditor\Inc\Health\UHT"
-/I "C:\Users\D3448955\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source"
-/I "C:\Users\D3448955\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Public"
-=======
-<<<<<<< HEAD
-/I "C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\UnrealEditor\Inc\Health\UHT"
-/I "C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source"
-/I "C:\Users\e4086040\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Public"
-=======
-<<<<<<< HEAD
-/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\UnrealEditor\Inc\Health\UHT"
-/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source"
-/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Public"
-=======
-/I "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\UnrealEditor\Inc\Health\UHT"
-/I "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source"
-/I "C:\Users\E4410025\Source\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Public"
->>>>>>> origin/WL-PRO-ENEMYQOL
-=======
-<<<<<<< HEAD
-/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\UnrealEditor\Inc\Health\UHT"
-/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source"
-/I "C:\Users\e4135711\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Public"
-=======
-/I "C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\UnrealEditor\Inc\Health\UHT"
-/I "C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source"
-/I "C:\Users\24298\Desktop\JM2\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Public"
->>>>>>> main
->>>>>>> main
-<<<<<<< HEAD
->>>>>>> origin/Lee_LightingIntegration
-=======
->>>>>>> origin/WL-PRO-ENEMYQOL
+/I "C:\Users\E4050212\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Intermediate\Build\Win64\UnrealEditor\Inc\Health\UHT"
+/I "C:\Users\E4050212\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source"
+/I "C:\Users\E4050212\Documents\GitHub\Journeyman-Like-Clockwork\JourneymanProject1\Plugins\Health\Source\Health\Public"
 /external:W0
 /external:I "ThirdParty\GuidelinesSupportLibrary\GSL-1144\include"
 /external:I "ThirdParty\RapidJSON\1.1.0"
 /external:I "ThirdParty\LibTiff\Source\Win64"
 /external:I "ThirdParty\LibTiff\Source"
 /external:I "ThirdParty\OpenGL"
-<<<<<<< HEAD
 /external:I "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.44.35207\INCLUDE"
-=======
-<<<<<<< HEAD
-=======
->>>>>>> origin/WL-PRO-ENEMYQOL
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.44.35207\INCLUDE"
-=======
-/external:I "C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\INCLUDE"
->>>>>>> main
->>>>>>> main
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
-<<<<<<< HEAD
->>>>>>> origin/Lee_LightingIntegration
-=======
->>>>>>> main
->>>>>>> origin/WL-PRO-ENEMYQOL

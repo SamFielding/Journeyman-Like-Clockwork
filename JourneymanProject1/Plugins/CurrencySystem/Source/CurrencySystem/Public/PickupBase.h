@@ -8,6 +8,8 @@
 
 class UPickupManager;
 
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnPickup);
+
 UCLASS(Abstract)
 class CURRENCYSYSTEM_API APickupBase : public AActor
 {
@@ -51,6 +53,9 @@ public:
 
 	UPROPERTY()
 	float SpeedCoefficient;
+
+	UPROPERTY(BlueprintAssignable)
+	FOnPickup OnPickup;
 
 protected:
 	virtual void BeginPlay() override;

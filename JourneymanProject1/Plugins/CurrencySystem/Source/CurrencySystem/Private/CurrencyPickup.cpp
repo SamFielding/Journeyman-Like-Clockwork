@@ -30,6 +30,7 @@ void ACurrencyPickup::Tick(float DeltaTime)
 	if (UCurrencyManager* CurrencyPickupManager = Cast<UCurrencyManager>(Target); CurrencyPickupManager && FVector::Dist(GetActorLocation(), Target->GetCollectionPointLocation()) <= AttractionStrength * SpeedCoefficient * DeltaTime + 1.f)
 	{
 		CurrencyPickupManager->AddCurrency(CurrencyValue);
+		OnPickup.Broadcast();
 		Destroy();
 	}
 }

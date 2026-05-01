@@ -7,67 +7,27 @@
 #include "UObject/GeneratedCppIncludes.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeCurrencySystem_init() {}
+	CURRENCYSYSTEM_API UFunction* Z_Construct_UDelegateFunction_CurrencySystem_OnPickup__DelegateSignature();
 	static FPackageRegistrationInfo Z_Registration_Info_UPackage__Script_CurrencySystem;
 	FORCENOINLINE UPackage* Z_Construct_UPackage__Script_CurrencySystem()
 	{
 		if (!Z_Registration_Info_UPackage__Script_CurrencySystem.OuterSingleton)
 		{
+			static UObject* (*const SingletonFuncArray[])() = {
+				(UObject* (*)())Z_Construct_UDelegateFunction_CurrencySystem_OnPickup__DelegateSignature,
+			};
 			static const UECodeGen_Private::FPackageParams PackageParams = {
 				"/Script/CurrencySystem",
-				nullptr,
-				0,
+				SingletonFuncArray,
+				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-<<<<<<< HEAD
-<<<<<<< HEAD
-				0xA8A11643,
-=======
-<<<<<<< HEAD
-				0xBEAF9419,
-=======
-<<<<<<< HEAD
-				0xA80DA5C8,
-=======
-				0x9C657AC1,
->>>>>>> origin/WL-PRO-ENEMYQOL
-=======
-<<<<<<< HEAD
-				0xA80DA5C8,
-=======
-				0x847C1BFA,
->>>>>>> main
->>>>>>> main
-<<<<<<< HEAD
->>>>>>> origin/Lee_LightingIntegration
-=======
->>>>>>> origin/WL-PRO-ENEMYQOL
-				0x0C270F8D,
+				0x3DB44386,
+				0x4B365D31,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_CurrencySystem.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_CurrencySystem.OuterSingleton;
 	}
-<<<<<<< HEAD
-<<<<<<< HEAD
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xA8A11643, 0x0C270F8D));
-=======
-<<<<<<< HEAD
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xBEAF9419, 0x0C270F8D));
-=======
-<<<<<<< HEAD
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xA80DA5C8, 0x0C270F8D));
-=======
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x9C657AC1, 0x0C270F8D));
->>>>>>> origin/WL-PRO-ENEMYQOL
-=======
-<<<<<<< HEAD
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xA80DA5C8, 0x0C270F8D));
-=======
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x847C1BFA, 0x0C270F8D));
->>>>>>> main
->>>>>>> main
-<<<<<<< HEAD
->>>>>>> origin/Lee_LightingIntegration
-=======
->>>>>>> origin/WL-PRO-ENEMYQOL
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CurrencySystem(Z_Construct_UPackage__Script_CurrencySystem, TEXT("/Script/CurrencySystem"), Z_Registration_Info_UPackage__Script_CurrencySystem, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x3DB44386, 0x4B365D31));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
